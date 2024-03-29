@@ -6451,5 +6451,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23308,
+      "OpenedBy": "Taepper",
+      "CreatedAt": "2024-03-29T08:08:59Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23308",
+      "LastCommitSHA": "64c892fc0c6e76b406df55ee4a2d06d5d3e3d078",
+      "LastCommitAt": "2024-03-29T08:05:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
