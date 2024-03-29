@@ -4434,31 +4434,6 @@
       }
    },
    {
-      "Number": 23068,
-      "OpenedBy": "Greendogo",
-      "CreatedAt": "2024-03-12T08:42:47Z",
-      "Recipe": "openvino",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23068",
-      "LastCommitSHA": "ed1860b9f1a386d50c36c19836c483f7294e55d0",
-      "LastCommitAt": "2024-03-29T01:41:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-24T17:55:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23068#pullrequestreview-1956613676"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23080,
       "OpenedBy": "RazielXYZ",
       "CreatedAt": "2024-03-13T09:16:19Z",
@@ -6467,7 +6442,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23305",
       "LastCommitSHA": "c77407d7b644f85b6016f3cd8b4bfadb07fc30a1",
       "LastCommitAt": "2024-03-29T02:43:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
