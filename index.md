@@ -76,7 +76,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|1|Mar 25||jwillikers
-[#20987](https://github.com/conan-io/conan-center-index/pull/20987)|[toge](https://github.com/toge)|Nov 8|:stopwatch: octo-keygen-cpp|:green_circle: XS|0|||
+[#20987](https://github.com/conan-io/conan-center-index/pull/20987)|[toge](https://github.com/toge)|Nov 8|:stopwatch: octo-keygen-cpp|:green_circle: XS|0|:eyes:||
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|4|Mar 17||jwillikers, valgur
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|4|Feb 28 :bell:|uilianries|jwillikers, valgur
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|2|Jan 3 :bell:||jwillikers, ericLemanissier
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23302](https://github.com/conan-io/conan-center-index/pull/23302)|[toge](https://github.com/toge)|Mar 28|:memo: kuba-zip|:green_circle: XS|0|||
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|0|||
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|:blue_square: S|0|||
-[#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:stopwatch: duckdb|:green_circle: XS|0|||
+[#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -270,7 +270,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 588
 	- Draft: 59
-	- Average Age: 119 days, 6 hours, and 43.37 minutes
+	- Average Age: 119 days, 9 hours, and 39.66 minutes
 	- Stop Label: 264
 	
 
