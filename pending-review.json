@@ -3723,7 +3723,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22708",
       "LastCommitSHA": "24dd0bc1f3a407b2d6035f052ade45d16f11ce95",
       "LastCommitAt": "2024-03-30T12:56:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -6462,14 +6462,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23314",
       "LastCommitSHA": "be0add873663e185b0bc8c437dd190d7aac52ec6",
       "LastCommitAt": "2024-03-30T12:51:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    },
    {
@@ -6482,7 +6482,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23315",
       "LastCommitSHA": "8d5ac26371ed9f8c7755baad2407486cf67d4ab1",
       "LastCommitAt": "2024-03-30T12:44:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6502,14 +6502,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23316",
       "LastCommitSHA": "0bdf3fd132a76e0f227d04ab3acaaa60af0aa3d8",
       "LastCommitAt": "2024-03-30T13:03:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
