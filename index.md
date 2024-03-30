@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **225** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -246,7 +246,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23300](https://github.com/conan-io/conan-center-index/pull/23300)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 28|:gear: .c3i|:green_circle: XS|0|||
 [#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|M|0|||
 [#23302](https://github.com/conan-io/conan-center-index/pull/23302)|[toge](https://github.com/toge)|Mar 28|:memo: kuba-zip|:green_circle: XS|0|||
-[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|0|||
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|:blue_square: S|0|||
 [#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|||
 [#23311](https://github.com/conan-io/conan-center-index/pull/23311)|[jwillikers](https://github.com/jwillikers)|Mar 29|:memo: xz_utils|L|2|Mar 30||ericLemanissier, valgur
@@ -273,7 +272,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 590
 	- Draft: 58
-	- Average Age: 119 days, 22 hours, and 45.88 minutes
+	- Average Age: 120 days, and 53.00 minutes
 	- Stop Label: 264
 	
 
