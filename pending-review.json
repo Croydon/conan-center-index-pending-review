@@ -6489,20 +6489,24 @@
       "LastCommitAt": "2024-03-29T19:25:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "ericLemanissier",
                "Tier": "community"
+            },
+            {
+               "Name": "valgur",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-03-30T07:31:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23311#pullrequestreview-1969850470"
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2024-03-30T09:35:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23311#pullrequestreview-1969875407"
          },
          "IsBump": false
       }
