@@ -249,7 +249,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|0|||
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|:blue_square: S|0|||
 [#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|||
-[#23311](https://github.com/conan-io/conan-center-index/pull/23311)|[jwillikers](https://github.com/jwillikers)|Mar 29|:memo: xz_utils|L|1|Mar 30||ericLemanissier
+[#23311](https://github.com/conan-io/conan-center-index/pull/23311)|[jwillikers](https://github.com/jwillikers)|Mar 29|:memo: xz_utils|L|2|Mar 30||ericLemanissier, valgur
 [#23312](https://github.com/conan-io/conan-center-index/pull/23312)|[jwillikers](https://github.com/jwillikers)|Mar 29|:memo: libunwind|:green_circle: XS|2|Mar 30||ericLemanissier, valgur
 [#23313](https://github.com/conan-io/conan-center-index/pull/23313)|[jwillikers](https://github.com/jwillikers)|Mar 29|:memo: cpython|:green_circle: XS|1|Mar 30||ericLemanissier
 
@@ -273,7 +273,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 590
 	- Draft: 58
-	- Average Age: 119 days, 21 hours, and 44.03 minutes
+	- Average Age: 119 days, 22 hours, and 45.88 minutes
 	- Stop Label: 264
 	
 
