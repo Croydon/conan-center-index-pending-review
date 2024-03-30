@@ -6536,25 +6536,5 @@
          "Blockers": null,
          "IsBump": true
       }
-   },
-   {
-      "Number": 23317,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-30T16:37:20Z",
-      "Recipe": "libnghttp2",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23317",
-      "LastCommitSHA": "942b3076a6c2a596ede63d7f78786c4016ea804d",
-      "LastCommitAt": "2024-03-30T16:36:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
