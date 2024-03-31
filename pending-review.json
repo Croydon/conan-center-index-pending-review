@@ -6438,6 +6438,31 @@
       }
    },
    {
+      "Number": 23304,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2024-03-29T00:43:50Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23304",
+      "LastCommitSHA": "8d48926e29217db1bb6bb52ce2439ce8161ef863",
+      "LastCommitAt": "2024-03-31T02:54:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2024-03-30T11:38:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23304#pullrequestreview-1969893563"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23305,
       "OpenedBy": "toge",
       "CreatedAt": "2024-03-29T02:29:44Z",
