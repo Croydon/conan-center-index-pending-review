@@ -247,7 +247,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23300](https://github.com/conan-io/conan-center-index/pull/23300)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 28|:gear: .c3i|:green_circle: XS|0|||
 [#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|M|0|||
 [#23302](https://github.com/conan-io/conan-center-index/pull/23302)|[toge](https://github.com/toge)|Mar 28|:memo: kuba-zip|:green_circle: XS|0|||
-[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:stopwatch: openssl|:blue_square: S|1|Mar 30||
+[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|:blue_square: S|0|||
 [#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|||
 [#23314](https://github.com/conan-io/conan-center-index/pull/23314)|[toge](https://github.com/toge)|Mar 30|:memo: 7bitdi|:green_circle: XS|0|||
@@ -274,7 +274,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 591
 	- Draft: 58
-	- Average Age: 120 days, 12 hours, and 46.93 minutes
+	- Average Age: 120 days, 13 hours, and 50.10 minutes
 	- Stop Label: 264
 	
 
