@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **226** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -76,7 +76,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20507](https://github.com/conan-io/conan-center-index/pull/20507)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: libmount|M|3|Mar 26||
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
-[#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:stopwatch: gnsstk|L|1|Mar 25||
 [#20987](https://github.com/conan-io/conan-center-index/pull/20987)|[toge](https://github.com/toge)|Nov 8|:stopwatch: octo-keygen-cpp|:green_circle: XS|0|:eyes:||
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|4|Mar 17 :bell:||jwillikers, valgur
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|4|Feb 28 :bell:|uilianries|jwillikers, valgur
@@ -130,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|1|Mar 25||jwillikers
 [#22323](https://github.com/conan-io/conan-center-index/pull/22323)|[valgur](https://github.com/valgur)|Jan 14|:memo: gtsam|L|3|Mar 25||jwillikers
 [#22353](https://github.com/conan-io/conan-center-index/pull/22353)|[valgur](https://github.com/valgur)|Jan 15|:memo: llvm-openmp|XL|1|Mar 22||jwillikers
-[#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:stopwatch: proxy|M|1|Mar 8 :bell:||
+[#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:new: proxy|M|1|Mar 8 :bell:||
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|4|Mar 25||valgur
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|1|Mar 24||valgur
 [#22418](https://github.com/conan-io/conan-center-index/pull/22418)|[valgur](https://github.com/valgur)|Jan 18|:memo: tesseract|:green_circle: XS|1|Mar 25||jwillikers
@@ -275,8 +274,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 591
 	- Draft: 58
-	- Average Age: 120 days, 16 hours, and 46.86 minutes
-	- Stop Label: 263
+	- Average Age: 120 days, 17 hours, and 47.40 minutes
+	- Stop Label: 264
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
