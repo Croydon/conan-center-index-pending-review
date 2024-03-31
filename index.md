@@ -252,7 +252,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|||
 [#23314](https://github.com/conan-io/conan-center-index/pull/23314)|[toge](https://github.com/toge)|Mar 30|:memo: 7bitdi|:green_circle: XS|0|||
 [#23315](https://github.com/conan-io/conan-center-index/pull/23315)|[irieger](https://github.com/irieger)|Mar 30|:memo: libraw|:green_circle: XS|0|||
-[#23316](https://github.com/conan-io/conan-center-index/pull/23316)|[toge](https://github.com/toge)|Mar 30|:memo: c-ares|:green_circle: XS|0|||
+[#23316](https://github.com/conan-io/conan-center-index/pull/23316)|[toge](https://github.com/toge)|Mar 30|:stopwatch: c-ares|:green_circle: XS|0|||
 [#23319](https://github.com/conan-io/conan-center-index/pull/23319)|[toge](https://github.com/toge)|Mar 31|:memo: harfbuzz|:blue_square: S|0|||
 
 
@@ -275,7 +275,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 593
 	- Draft: 58
-	- Average Age: 120 days, 14 hours, and 58.65 minutes
+	- Average Age: 120 days, 16 hours, and 1.82 minutes
 	- Stop Label: 265
 	
 
