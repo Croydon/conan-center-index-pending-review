@@ -242,7 +242,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23290](https://github.com/conan-io/conan-center-index/pull/23290)|[victimsnino](https://github.com/victimsnino)|Mar 27|:stopwatch: reactiveplusplus|:green_circle: XS|0|:eyes:||
 [#23292](https://github.com/conan-io/conan-center-index/pull/23292)|[igormironchik](https://github.com/igormironchik)|Mar 27|:memo: md4qt|:green_circle: XS|1|Mar 27||valgur
 [#23297](https://github.com/conan-io/conan-center-index/pull/23297)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:memo: libvips|:green_circle: XS|0|:eyes:||
-[#23298](https://github.com/conan-io/conan-center-index/pull/23298)|[toge](https://github.com/toge)|Mar 28|:memo: cpp-peglib|:green_circle: XS|0|||
+[#23298](https://github.com/conan-io/conan-center-index/pull/23298)|[toge](https://github.com/toge)|Mar 28|:memo: cpp-peglib|:green_circle: XS|0|:eyes:||
 [#23299](https://github.com/conan-io/conan-center-index/pull/23299)|[valgur](https://github.com/valgur)|Mar 28|:memo: pybind11|:blue_square: S|0|||
 [#23300](https://github.com/conan-io/conan-center-index/pull/23300)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 28|:gear: .c3i|:green_circle: XS|0|||
 [#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|M|0|||
@@ -270,11 +270,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
+- Commit: 32121922f66c2c322245da571a7deff6b636d76f
 - Pull Requests:
 	- Open: 591
 	- Draft: 58
-	- Average Age: 120 days, 10 hours, and 48.64 minutes
+	- Average Age: 120 days, 12 hours, and 46.93 minutes
 	- Stop Label: 264
 	
 
