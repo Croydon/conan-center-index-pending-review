@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23280](https://github.com/conan-io/conan-center-index/pull/23280)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|0|:eyes:||
 [#23282](https://github.com/conan-io/conan-center-index/pull/23282)|[mayeut](https://github.com/mayeut)|Mar 26|:memo: giflib|L|0|||
 [#23285](https://github.com/conan-io/conan-center-index/pull/23285)|[toge](https://github.com/toge)|Mar 27|:memo: zstd|:blue_square: S|1|Apr 1||jwillikers
+[#23286](https://github.com/conan-io/conan-center-index/pull/23286)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 27|:stopwatch: libassert|L|3|Apr 1||jwillikers
 [#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|M|1|Apr 1||**RubenRBS**
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23328](https://github.com/conan-io/conan-center-index/pull/23328)|[sizeak](https://github.com/sizeak)|Apr 1|:memo: cpr|:blue_square: S|0|||
@@ -227,20 +228,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23254](https://github.com/conan-io/conan-center-index/pull/23254)|[valgur](https://github.com/valgur)|Mar 25|:memo: exiv2|3|jwillikers, **RubenRBS**
-[#23262](https://github.com/conan-io/conan-center-index/pull/23262)|[toge](https://github.com/toge)|Mar 25|:memo: rapidcsv|2|valgur, **RubenRBS**
 [#23265](https://github.com/conan-io/conan-center-index/pull/23265)|[valgur](https://github.com/valgur)|Mar 25|:new: toon|2|**RubenRBS**, jwillikers
 [#23269](https://github.com/conan-io/conan-center-index/pull/23269)|[MartinDelille](https://github.com/MartinDelille)|Mar 25|:memo: sentry-native|2|**RubenRBS**, jwillikers
 [#23281](https://github.com/conan-io/conan-center-index/pull/23281)|[es20490446e](https://github.com/es20490446e)|Mar 26|:memo: autoconf|5|valgur, **uilianries**, **RubenRBS**
 [#23283](https://github.com/conan-io/conan-center-index/pull/23283)|[toge](https://github.com/toge)|Mar 27|:memo: glaze|1|**RubenRBS**
-[#23286](https://github.com/conan-io/conan-center-index/pull/23286)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 27|:memo: libassert|2|**RubenRBS**, jwillikers
 [#23289](https://github.com/conan-io/conan-center-index/pull/23289)|[irieger](https://github.com/irieger)|Mar 27|:memo: rtmidi|4|valgur, [CJCombrink](https://github.com/CJCombrink), **RubenRBS**
 [#23292](https://github.com/conan-io/conan-center-index/pull/23292)|[igormironchik](https://github.com/igormironchik)|Mar 27|:memo: md4qt|2|valgur, **RubenRBS**
 [#23297](https://github.com/conan-io/conan-center-index/pull/23297)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:memo: libvips|2|jwillikers, **RubenRBS**
@@ -258,9 +256,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 580
+	- Open: 578
 	- Draft: 59
-	- Average Age: 123 days, 19 hours, and 39.36 minutes
+	- Average Age: 124 days, 6 hours, and 21.26 minutes
 	- Stop Label: 264
 	
 
