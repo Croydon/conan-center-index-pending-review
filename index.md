@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -244,7 +244,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|:blue_square: S|0|:eyes:||
 [#23308](https://github.com/conan-io/conan-center-index/pull/23308)|[Taepper](https://github.com/Taepper)|Mar 29|:memo: duckdb|:green_circle: XS|0|:eyes:||
-[#23324](https://github.com/conan-io/conan-center-index/pull/23324)|[toge](https://github.com/toge)|Apr 1|:memo: commata|:green_circle: XS|0|||
+[#23328](https://github.com/conan-io/conan-center-index/pull/23328)|[sizeak](https://github.com/sizeak)|Apr 1|:stopwatch: cpr|:blue_square: S|0|||
+[#23329](https://github.com/conan-io/conan-center-index/pull/23329)|[RubenRBS](https://github.com/RubenRBS)|Apr 1|:stopwatch: xz_utils|:blue_square: S|1|Apr 1||**uilianries**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -256,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23215](https://github.com/conan-io/conan-center-index/pull/23215)|[toge](https://github.com/toge)|Mar 22|:memo: octomap|3|**uilianries**, jwillikers
 [#23226](https://github.com/conan-io/conan-center-index/pull/23226)|[toge](https://github.com/toge)|Mar 23|:memo: libgd|5|**czoido**, jwillikers
-[#23281](https://github.com/conan-io/conan-center-index/pull/23281)|[es20490446e](https://github.com/es20490446e)|Mar 26|:warning: autoconf|4|valgur, **uilianries**
+[#23281](https://github.com/conan-io/conan-center-index/pull/23281)|[es20490446e](https://github.com/es20490446e)|Mar 26|:memo: autoconf|4|valgur, **uilianries**
+[#23324](https://github.com/conan-io/conan-center-index/pull/23324)|[toge](https://github.com/toge)|Apr 1|:memo: commata|1|**RubenRBS**
 [#23325](https://github.com/conan-io/conan-center-index/pull/23325)|[jwillikers](https://github.com/jwillikers)|Apr 1|:memo: libressl|2|**franramirez688**, **uilianries**
 
 
@@ -268,9 +269,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 32121922f66c2c322245da571a7deff6b636d76f
 - Pull Requests:
-	- Open: 587
+	- Open: 588
 	- Draft: 59
-	- Average Age: 122 days, 14 hours, and 32.76 minutes
+	- Average Age: 122 days, 10 hours, and 6.14 minutes
 	- Stop Label: 262
 	
 
