@@ -228,15 +228,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23298](https://github.com/conan-io/conan-center-index/pull/23298)|[toge](https://github.com/toge)|Mar 28|:memo: cpp-peglib|1|**RubenRBS**
-[#23299](https://github.com/conan-io/conan-center-index/pull/23299)|[valgur](https://github.com/valgur)|Mar 28|:memo: pybind11|2|toge, **RubenRBS**
 [#23302](https://github.com/conan-io/conan-center-index/pull/23302)|[toge](https://github.com/toge)|Mar 28|:memo: kuba-zip|1|**RubenRBS**
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|2|**RubenRBS**, jwillikers
 [#23324](https://github.com/conan-io/conan-center-index/pull/23324)|[toge](https://github.com/toge)|Apr 1|:memo: commata|1|**RubenRBS**
@@ -249,9 +247,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 571
+	- Open: 569
 	- Draft: 59
-	- Average Age: 125 days, 22 hours, and 10.04 minutes
+	- Average Age: 126 days, 9 hours, and 19.16 minutes
 	- Stop Label: 264
 	
 
