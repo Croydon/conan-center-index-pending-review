@@ -214,28 +214,29 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23267](https://github.com/conan-io/conan-center-index/pull/23267)|[dbolduc](https://github.com/dbolduc)|Mar 25|:memo: google-cloud-cpp|:blue_square: S|1|Mar 28||[coryan](https://github.com/coryan)
 [#23270](https://github.com/conan-io/conan-center-index/pull/23270)|[xyz1001](https://github.com/xyz1001)|Mar 26|:new: platformfolders|M|0|||
 [#23272](https://github.com/conan-io/conan-center-index/pull/23272)|[johningve](https://github.com/johningve)|Mar 26|:memo: glfw|:blue_square: S|1|Mar 26||
-[#23275](https://github.com/conan-io/conan-center-index/pull/23275)|[valgur](https://github.com/valgur)|Mar 26|:memo: imath|:blue_square: S|2|Apr 1||[irieger](https://github.com/irieger), **RubenRBS**
 [#23276](https://github.com/conan-io/conan-center-index/pull/23276)|[valgur](https://github.com/valgur)|Mar 26|:memo: libxml2|:blue_square: S|1|Apr 1||jwillikers
 [#23279](https://github.com/conan-io/conan-center-index/pull/23279)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|1|Mar 27||
 [#23280](https://github.com/conan-io/conan-center-index/pull/23280)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|0|:eyes:||
-[#23282](https://github.com/conan-io/conan-center-index/pull/23282)|[mayeut](https://github.com/mayeut)|Mar 26|:memo: giflib|L|0|||
+[#23282](https://github.com/conan-io/conan-center-index/pull/23282)|[mayeut](https://github.com/mayeut)|Mar 26|:stopwatch: giflib|L|0|||
 [#23285](https://github.com/conan-io/conan-center-index/pull/23285)|[toge](https://github.com/toge)|Mar 27|:memo: zstd|:blue_square: S|1|Apr 1||jwillikers
 [#23286](https://github.com/conan-io/conan-center-index/pull/23286)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 27|:memo: libassert|L|4|Apr 2||
-[#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|M|1|Apr 1||**RubenRBS**
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23328](https://github.com/conan-io/conan-center-index/pull/23328)|[sizeak](https://github.com/sizeak)|Apr 1|:memo: cpr|:blue_square: S|0|||
+[#23332](https://github.com/conan-io/conan-center-index/pull/23332)|[toge](https://github.com/toge)|Apr 2|:memo: simdutf|:green_circle: XS|0|||
+[#23333](https://github.com/conan-io/conan-center-index/pull/23333)|[toge](https://github.com/toge)|Apr 2|:stopwatch: c-blosc2|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23302](https://github.com/conan-io/conan-center-index/pull/23302)|[toge](https://github.com/toge)|Mar 28|:memo: kuba-zip|1|**RubenRBS**
+[#23275](https://github.com/conan-io/conan-center-index/pull/23275)|[valgur](https://github.com/valgur)|Mar 26|:memo: imath|3|[irieger](https://github.com/irieger), **RubenRBS**, toge
+[#23301](https://github.com/conan-io/conan-center-index/pull/23301)|[jwillikers](https://github.com/jwillikers)|Mar 28|:memo: libinput|2|**RubenRBS**, toge
 [#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|2|**RubenRBS**, jwillikers
 [#23324](https://github.com/conan-io/conan-center-index/pull/23324)|[toge](https://github.com/toge)|Apr 1|:memo: commata|1|**RubenRBS**
 [#23325](https://github.com/conan-io/conan-center-index/pull/23325)|[jwillikers](https://github.com/jwillikers)|Apr 1|:memo: libressl|3|**franramirez688**, **uilianries**, **RubenRBS**
@@ -247,9 +248,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 569
+	- Open: 570
 	- Draft: 59
-	- Average Age: 126 days, 9 hours, and 19.16 minutes
+	- Average Age: 126 days, 4 hours, and 52.71 minutes
 	- Stop Label: 264
 	
 
