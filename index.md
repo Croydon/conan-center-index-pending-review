@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|12|Mar 24|RubenRBS|**uilianries**, valgur
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|5|Mar 24||jwillikers, valgur
 [#21648](https://github.com/conan-io/conan-center-index/pull/21648)|[Cogitri](https://github.com/Cogitri)|Dec 6|:memo: libpq|:green_circle: XS|2|Mar 19 :bell:||jwillikers, valgur
-[#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:memo: mongo-c-driver|L|3|Mar 25||jwillikers
+[#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: mongo-c-driver|L|3|Mar 25||
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|2|Mar 25||jwillikers
 [#21666](https://github.com/conan-io/conan-center-index/pull/21666)|[valgur](https://github.com/valgur)|Dec 6|:memo: seqan3|:blue_square: S|1|Mar 25||jwillikers
 [#21689](https://github.com/conan-io/conan-center-index/pull/21689)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Dec 8|:stopwatch: clickhouse-cpp|:green_circle: XS|1|Mar 24||valgur
@@ -252,7 +252,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 572
 	- Draft: 60
-	- Average Age: 125 days, 17 hours, and 13.57 minutes
+	- Average Age: 125 days, 18 hours, and 12.85 minutes
 	- Stop Label: 266
 	
 
