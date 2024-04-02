@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -223,18 +223,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23328](https://github.com/conan-io/conan-center-index/pull/23328)|[sizeak](https://github.com/sizeak)|Apr 1|:memo: cpr|:blue_square: S|0|||
 [#23332](https://github.com/conan-io/conan-center-index/pull/23332)|[toge](https://github.com/toge)|Apr 2|:memo: simdutf|:green_circle: XS|0|||
+[#23335](https://github.com/conan-io/conan-center-index/pull/23335)|[valgur](https://github.com/valgur)|Apr 2|:stopwatch: ouster_sdk|:green_circle: XS|1|Apr 2||ericLemanissier
+[#23336](https://github.com/conan-io/conan-center-index/pull/23336)|[valgur](https://github.com/valgur)|Apr 2|:stopwatch: libcvd|:green_circle: XS|0|||
+[#23337](https://github.com/conan-io/conan-center-index/pull/23337)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 2|:stopwatch: cairo|:green_circle: XS|0|||
+[#23338](https://github.com/conan-io/conan-center-index/pull/23338)|[uyha](https://github.com/uyha)|Apr 2|:stopwatch: msgpack-cxx|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23305](https://github.com/conan-io/conan-center-index/pull/23305)|[toge](https://github.com/toge)|Mar 29|:memo: mbedtls|2|**RubenRBS**, jwillikers
 [#23324](https://github.com/conan-io/conan-center-index/pull/23324)|[toge](https://github.com/toge)|Apr 1|:memo: commata|1|**RubenRBS**
 [#23325](https://github.com/conan-io/conan-center-index/pull/23325)|[jwillikers](https://github.com/jwillikers)|Apr 1|:memo: libressl|3|**franramirez688**, **uilianries**, **RubenRBS**
 
@@ -245,9 +248,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 568
-	- Draft: 59
-	- Average Age: 126 days, 16 hours, and 1.58 minutes
+	- Open: 572
+	- Draft: 60
+	- Average Age: 125 days, 19 hours, and 36.74 minutes
 	- Stop Label: 265
 	
 
