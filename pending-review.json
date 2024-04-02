@@ -1891,19 +1891,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21662",
-      "LastCommitSHA": "385510391be6c6f4ff96a6bcc759bdae5772dc5d",
-      "LastCommitAt": "2024-03-25T14:04:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7fa685b40064cb9b711e8e3e33ef972125f440aa",
+      "LastCommitAt": "2024-04-02T23:10:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
