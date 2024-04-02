@@ -4416,23 +4416,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23087",
-      "LastCommitSHA": "6359318376f6c03201c0c66e9c74cda3d23867ea",
-      "LastCommitAt": "2024-03-18T14:04:47Z",
+      "LastCommitSHA": "61bab76d4eb58672c9433533029dd407ca9c7055",
+      "LastCommitAt": "2024-04-02T18:51:02Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 11,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "memsharded",
@@ -5230,7 +5221,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23230",
       "LastCommitSHA": "bcfb72870e152a4ebdf293d8c91a3a626f9187be",
       "LastCommitAt": "2024-04-02T17:48:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -5923,6 +5914,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23348",
       "LastCommitSHA": "ffb57dcb2c74c328236fe9887ae720237d24a780",
       "LastCommitAt": "2024-04-02T18:14:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23349,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2024-04-02T18:53:43Z",
+      "Recipe": "openimageio",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23349",
+      "LastCommitSHA": "51b3a0244c86988e11de87a9160eb72543bca766",
+      "LastCommitAt": "2024-04-02T18:50:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
