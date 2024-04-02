@@ -4443,7 +4443,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23112",
       "LastCommitSHA": "5f5141114effe554eb1b48204ab6993f5d646134",
       "LastCommitAt": "2024-04-02T21:08:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -5930,6 +5930,26 @@
       }
    },
    {
+      "Number": 23347,
+      "OpenedBy": "MikeLankamp",
+      "CreatedAt": "2024-04-02T17:01:10Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23347",
+      "LastCommitSHA": "ab5b43d3d4f0d7f875789c81f04042c4b89de263",
+      "LastCommitAt": "2024-04-02T19:46:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23348,
       "OpenedBy": "irieger",
       "CreatedAt": "2024-04-02T18:16:26Z",
@@ -5959,7 +5979,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23349",
       "LastCommitSHA": "51b3a0244c86988e11de87a9160eb72543bca766",
       "LastCommitAt": "2024-04-02T18:50:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
