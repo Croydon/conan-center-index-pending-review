@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **208** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -202,7 +202,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23222](https://github.com/conan-io/conan-center-index/pull/23222)|[jwillikers](https://github.com/jwillikers)|Mar 23|:memo: libva|:green_circle: XS|1|Mar 26||valgur
 [#23223](https://github.com/conan-io/conan-center-index/pull/23223)|[valgur](https://github.com/valgur)|Mar 23|:memo: premake|L|5|Mar 23||
 [#23228](https://github.com/conan-io/conan-center-index/pull/23228)|[toge](https://github.com/toge)|Mar 24|:memo: libdeflate|:green_circle: XS|1|Mar 24||valgur
-[#23230](https://github.com/conan-io/conan-center-index/pull/23230)|[obnyis](https://github.com/obnyis)|Mar 24|:new: libssh|L|6|Apr 3||
+[#23230](https://github.com/conan-io/conan-center-index/pull/23230)|[obnyis](https://github.com/obnyis)|Mar 24|:new: libssh|L|7|Apr 3||**uilianries**
 [#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:memo: gdal|M|2|Mar 26|franramirez688|
 [#23241](https://github.com/conan-io/conan-center-index/pull/23241)|[toge](https://github.com/toge)|Mar 25|:stopwatch: ssp|:green_circle: XS|1|Mar 25||valgur
 [#23245](https://github.com/conan-io/conan-center-index/pull/23245)|[ujos](https://github.com/ujos)|Mar 25|:stopwatch: sbepp|:green_circle: XS|2|Apr 3||**franramirez688**
@@ -228,26 +228,22 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23339](https://github.com/conan-io/conan-center-index/pull/23339)|[nclindroos](https://github.com/nclindroos)|Apr 2|:memo: cpr|M|1|Apr 2||
 [#23341](https://github.com/conan-io/conan-center-index/pull/23341)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 2|:stopwatch: qt|L|2|Apr 3||jwillikers
 [#23343](https://github.com/conan-io/conan-center-index/pull/23343)|[toge](https://github.com/toge)|Apr 2|:memo: glaze|M|0|||
-[#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:stopwatch: diligent-core|L|1|Apr 3||valgur
 [#23348](https://github.com/conan-io/conan-center-index/pull/23348)|[irieger](https://github.com/irieger)|Apr 2|:memo: openexr|:green_circle: XS|0|||
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|0|||
 [#23351](https://github.com/conan-io/conan-center-index/pull/23351)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 3|:memo: libassert|L|0|||
-[#23353](https://github.com/conan-io/conan-center-index/pull/23353)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 3|:stopwatch: openal-soft|:green_circle: XS|1|Apr 3||valgur
+[#23353](https://github.com/conan-io/conan-center-index/pull/23353)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 3|:memo: openal-soft|:green_circle: XS|1|Apr 3||valgur
 [#23354](https://github.com/conan-io/conan-center-index/pull/23354)|[toge](https://github.com/toge)|Apr 3|:stopwatch: vincentlaucsb-csv-parser|:green_circle: XS|0|||
 [#23355](https://github.com/conan-io/conan-center-index/pull/23355)|[MartinDelille](https://github.com/MartinDelille)|Apr 3|:stopwatch: sentry-native|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23225](https://github.com/conan-io/conan-center-index/pull/23225)|[toge](https://github.com/toge)|Mar 23|:memo: octo-logger-cpp|6|**RubenRBS**, **czoido**
-[#23286](https://github.com/conan-io/conan-center-index/pull/23286)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 27|:memo: libassert|6|jwillikers, **RubenRBS**
-[#23345](https://github.com/conan-io/conan-center-index/pull/23345)|[toge](https://github.com/toge)|Apr 2|:memo: sdl|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -256,10 +252,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 576
+	- Open: 573
 	- Draft: 59
-	- Average Age: 125 days, 8 hours, and 44.19 minutes
-	- Stop Label: 265
+	- Average Age: 126 days, and 42.90 minutes
+	- Stop Label: 266
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
