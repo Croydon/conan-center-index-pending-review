@@ -5930,9 +5930,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23341",
-      "LastCommitSHA": "57f071b48de1034585ceef49189387f1ac1aea71",
-      "LastCommitAt": "2024-04-03T09:53:46Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "96d8b584fc459830aba17cdbdddca374f2ce325b",
+      "LastCommitAt": "2024-04-03T10:45:29Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -6137,6 +6137,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23355",
       "LastCommitSHA": "1f9a2aa46945665b5680f69f38482b53aebccc9a",
       "LastCommitAt": "2024-04-03T09:18:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23356,
+      "OpenedBy": "ybogo",
+      "CreatedAt": "2024-04-03T11:06:30Z",
+      "Recipe": "aerospike-client-c",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23356",
+      "LastCommitSHA": "829e14f43297b2d1a478a1a73434ba4594afb93e",
+      "LastCommitAt": "2024-04-03T11:11:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
