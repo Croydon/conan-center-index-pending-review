@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **204** pull requests currently under way :detective:
+There are **206** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -204,7 +204,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23228](https://github.com/conan-io/conan-center-index/pull/23228)|[toge](https://github.com/toge)|Mar 24|:memo: libdeflate|:green_circle: XS|1|Mar 24||valgur
 [#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:memo: gdal|M|2|Mar 26|franramirez688|
 [#23241](https://github.com/conan-io/conan-center-index/pull/23241)|[toge](https://github.com/toge)|Mar 25|:stopwatch: ssp|:green_circle: XS|1|Mar 25||valgur
-[#23245](https://github.com/conan-io/conan-center-index/pull/23245)|[ujos](https://github.com/ujos)|Mar 25|:memo: sbepp|:green_circle: XS|2|Apr 3||**franramirez688**
+[#23245](https://github.com/conan-io/conan-center-index/pull/23245)|[ujos](https://github.com/ujos)|Mar 25|:stopwatch: sbepp|:green_circle: XS|2|Apr 3||**franramirez688**
 [#23249](https://github.com/conan-io/conan-center-index/pull/23249)|[toge](https://github.com/toge)|Mar 25|:memo: quill|:green_circle: XS|2|Apr 1||valgur, jwillikers
 [#23250](https://github.com/conan-io/conan-center-index/pull/23250)|[valgur](https://github.com/valgur)|Mar 25|:memo: binutils|L|1|Mar 25||jwillikers
 [#23252](https://github.com/conan-io/conan-center-index/pull/23252)|[valgur](https://github.com/valgur)|Mar 25|:stopwatch: cfitsio|L|0|:eyes:||
@@ -231,6 +231,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23348](https://github.com/conan-io/conan-center-index/pull/23348)|[irieger](https://github.com/irieger)|Apr 2|:memo: openexr|:green_circle: XS|0|||
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|0|||
 [#23351](https://github.com/conan-io/conan-center-index/pull/23351)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 3|:memo: libassert|L|0|||
+[#23353](https://github.com/conan-io/conan-center-index/pull/23353)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 3|:stopwatch: openal-soft|:green_circle: XS|1|Apr 3||valgur
+[#23354](https://github.com/conan-io/conan-center-index/pull/23354)|[toge](https://github.com/toge)|Apr 3|:stopwatch: vincentlaucsb-csv-parser|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -250,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 574
+	- Open: 576
 	- Draft: 60
-	- Average Age: 125 days, 16 hours, and 43.06 minutes
+	- Average Age: 125 days, 7 hours, and 12.29 minutes
 	- Stop Label: 266
 	
 
