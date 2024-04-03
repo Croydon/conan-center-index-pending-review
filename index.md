@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **204** pull requests currently under way :detective:
+There are **205** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -228,9 +228,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23337](https://github.com/conan-io/conan-center-index/pull/23337)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 2|:memo: cairo|:blue_square: S|1|Apr 2||jwillikers
 [#23343](https://github.com/conan-io/conan-center-index/pull/23343)|[toge](https://github.com/toge)|Apr 2|:memo: glaze|M|0|||
 [#23345](https://github.com/conan-io/conan-center-index/pull/23345)|[toge](https://github.com/toge)|Apr 2|:memo: sdl|:green_circle: XS|0|||
-[#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:memo: diligent-core|L|0|||
+[#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:memo: diligent-core|L|1|Apr 3||valgur
 [#23348](https://github.com/conan-io/conan-center-index/pull/23348)|[irieger](https://github.com/irieger)|Apr 2|:memo: openexr|:green_circle: XS|0|||
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|0|||
+[#23351](https://github.com/conan-io/conan-center-index/pull/23351)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 3|:memo: libassert|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -251,8 +252,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 573
 	- Draft: 60
-	- Average Age: 125 days, 17 hours, and 58.83 minutes
-	- Stop Label: 267
+	- Average Age: 125 days, 18 hours, and 55.61 minutes
+	- Stop Label: 266
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
