@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -233,7 +233,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23351](https://github.com/conan-io/conan-center-index/pull/23351)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 3|:memo: libassert|L|0|||
 [#23353](https://github.com/conan-io/conan-center-index/pull/23353)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 3|:memo: openal-soft|:green_circle: XS|1|Apr 3||valgur
 [#23354](https://github.com/conan-io/conan-center-index/pull/23354)|[toge](https://github.com/toge)|Apr 3|:stopwatch: vincentlaucsb-csv-parser|:green_circle: XS|0|||
-[#23355](https://github.com/conan-io/conan-center-index/pull/23355)|[MartinDelille](https://github.com/MartinDelille)|Apr 3|:stopwatch: sentry-native|:green_circle: XS|0|||
+[#23355](https://github.com/conan-io/conan-center-index/pull/23355)|[MartinDelille](https://github.com/MartinDelille)|Apr 3|:memo: sentry-native|:green_circle: XS|0|||
+[#23359](https://github.com/conan-io/conan-center-index/pull/23359)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Apr 3|:stopwatch: gcc|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -252,9 +253,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 573
+	- Open: 574
 	- Draft: 59
-	- Average Age: 126 days, and 42.90 minutes
+	- Average Age: 125 days, 20 hours, and 23.38 minutes
 	- Stop Label: 266
 	
 
