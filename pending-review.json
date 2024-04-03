@@ -5958,25 +5958,5 @@
          "Blockers": null,
          "IsBump": false
       }
-   },
-   {
-      "Number": 23351,
-      "OpenedBy": "jeremy-rifkin",
-      "CreatedAt": "2024-04-03T03:03:44Z",
-      "Recipe": "libassert",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23351",
-      "LastCommitSHA": "a5c7d62b0c475623a44ef8269f58cac7cb42f2b8",
-      "LastCommitAt": "2024-04-03T03:02:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
