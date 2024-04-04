@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23333](https://github.com/conan-io/conan-center-index/pull/23333)|[toge](https://github.com/toge)|Apr 2|:memo: c-blosc2|L|0|||
 [#23335](https://github.com/conan-io/conan-center-index/pull/23335)|[valgur](https://github.com/valgur)|Apr 2|:stopwatch: ouster_sdk|:green_circle: XS|1|Apr 2||ericLemanissier
 [#23337](https://github.com/conan-io/conan-center-index/pull/23337)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 2|:memo: cairo|:blue_square: S|2|Apr 3||jwillikers
-[#23339](https://github.com/conan-io/conan-center-index/pull/23339)|[nclindroos](https://github.com/nclindroos)|Apr 2|:stopwatch: cpr|M|3|Apr 3||
+[#23339](https://github.com/conan-io/conan-center-index/pull/23339)|[nclindroos](https://github.com/nclindroos)|Apr 2|:memo: cpr|M|3|Apr 3||
 [#23343](https://github.com/conan-io/conan-center-index/pull/23343)|[toge](https://github.com/toge)|Apr 2|:stopwatch: glaze|M|0|||
 [#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:memo: diligent-core|L|1|Apr 3||valgur
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|1|Apr 4||**RubenRBS**
@@ -254,7 +254,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 575
 	- Draft: 60
-	- Average Age: 126 days, 11 hours, and 53.43 minutes
+	- Average Age: 126 days, 12 hours, and 47.95 minutes
 	- Stop Label: 268
 	
 
