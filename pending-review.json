@@ -3406,7 +3406,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22599",
       "LastCommitSHA": "66ad79172b7d1759b89893ae6dde391e0682a020",
       "LastCommitAt": "2024-04-04T07:59:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -5620,40 +5620,6 @@
       }
    },
    {
-      "Number": 23308,
-      "OpenedBy": "Taepper",
-      "CreatedAt": "2024-03-29T08:08:59Z",
-      "Recipe": "duckdb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23308",
-      "LastCommitSHA": "64c892fc0c6e76b406df55ee4a2d06d5d3e3d078",
-      "LastCommitAt": "2024-03-29T08:05:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-04-04T12:13:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23308#pullrequestreview-1979690377"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23333,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-02T05:58:49Z",
@@ -5923,26 +5889,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23366",
       "LastCommitSHA": "13fdc9e60deee518c65031ad3a91f3ebd0762530",
       "LastCommitAt": "2024-04-04T12:03:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23368,
-      "OpenedBy": "elvisdukaj",
-      "CreatedAt": "2024-04-04T11:55:02Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23368",
-      "LastCommitSHA": "370676f7cef6d512fa4188403b914592d0850938",
-      "LastCommitAt": "2024-04-04T11:25:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
