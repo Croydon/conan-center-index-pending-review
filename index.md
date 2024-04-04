@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23276](https://github.com/conan-io/conan-center-index/pull/23276)|[valgur](https://github.com/valgur)|Mar 26|:memo: libxml2|:blue_square: S|1|Apr 1||jwillikers
 [#23279](https://github.com/conan-io/conan-center-index/pull/23279)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|1|Mar 27||
 [#23280](https://github.com/conan-io/conan-center-index/pull/23280)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|0|:eyes:||
-[#23285](https://github.com/conan-io/conan-center-index/pull/23285)|[toge](https://github.com/toge)|Mar 27|:memo: zstd|:blue_square: S|1|Apr 1||jwillikers
+[#23285](https://github.com/conan-io/conan-center-index/pull/23285)|[toge](https://github.com/toge)|Mar 27|:stopwatch: zstd|:blue_square: S|2|Apr 4||**uilianries**
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23332](https://github.com/conan-io/conan-center-index/pull/23332)|[toge](https://github.com/toge)|Apr 2|:memo: simdutf|:green_circle: XS|0|||
 [#23333](https://github.com/conan-io/conan-center-index/pull/23333)|[toge](https://github.com/toge)|Apr 2|:memo: c-blosc2|L|0|||
@@ -256,7 +256,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 576
 	- Draft: 59
-	- Average Age: 125 days, 19 hours, and 56.45 minutes
+	- Average Age: 125 days, 23 hours, and 53.78 minutes
 	- Stop Label: 266
 	
 
