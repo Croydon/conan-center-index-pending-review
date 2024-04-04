@@ -228,7 +228,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23358](https://github.com/conan-io/conan-center-index/pull/23358)|[ashley-b](https://github.com/ashley-b)|Apr 3|:stopwatch: libgpiod|:blue_square: S|1|Apr 3||
 [#23359](https://github.com/conan-io/conan-center-index/pull/23359)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Apr 3|:stopwatch: gcc|:green_circle: XS|0|||
 [#23360](https://github.com/conan-io/conan-center-index/pull/23360)|[SpaceIm](https://github.com/SpaceIm)|Apr 3|:memo: xz_utils|:green_circle: XS|0|||
-[#23363](https://github.com/conan-io/conan-center-index/pull/23363)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 4|:stopwatch: arrow|M|0|||
+[#23363](https://github.com/conan-io/conan-center-index/pull/23363)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 4|:memo: arrow|M|0|||
 [#23366](https://github.com/conan-io/conan-center-index/pull/23366)|[obnyis](https://github.com/obnyis)|Apr 4|:stopwatch: libssh|L|0|||
 [#23371](https://github.com/conan-io/conan-center-index/pull/23371)|[toge](https://github.com/toge)|Apr 4|:stopwatch: commata|:blue_square: S|0|||
 [#23372](https://github.com/conan-io/conan-center-index/pull/23372)|[toge](https://github.com/toge)|Apr 4|:stopwatch: libnghttp2|:green_circle: XS|0|||
@@ -252,10 +252,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 7df100cef397505f482e0f220c32dd1d47ff757f
 - Pull Requests:
-	- Open: 574
+	- Open: 575
 	- Draft: 60
-	- Average Age: 126 days, 16 hours, and 7.15 minutes
-	- Stop Label: 266
+	- Average Age: 126 days, 11 hours, and 53.43 minutes
+	- Stop Label: 268
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
