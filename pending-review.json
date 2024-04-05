@@ -3006,7 +3006,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22353",
       "LastCommitSHA": "635637ee4227dfebed4a269193ec3ab2c0dc8db4",
       "LastCommitAt": "2024-04-01T16:24:52Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5903,26 +5903,6 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
-      }
-   },
-   {
-      "Number": 23393,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-04-05T19:42:30Z",
-      "Recipe": "onetbb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23393",
-      "LastCommitSHA": "50cb2fc4e6011afad8b125ab19637218234c4bd3",
-      "LastCommitAt": "2024-04-05T19:41:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
       }
    }
 ]
