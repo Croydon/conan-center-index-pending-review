@@ -5880,6 +5880,26 @@
       }
    },
    {
+      "Number": 23362,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-04-04T07:54:01Z",
+      "Recipe": "libffi",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23362",
+      "LastCommitSHA": "df2587db25bcadbeff9f9533675c0978fe6109f5",
+      "LastCommitAt": "2024-04-04T23:51:18Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23363,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-04-04T08:46:56Z",
