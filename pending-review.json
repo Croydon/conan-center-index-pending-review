@@ -3337,31 +3337,6 @@
       }
    },
    {
-      "Number": 22599,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2024-01-30T22:58:23Z",
-      "Recipe": "cpython",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22599",
-      "LastCommitSHA": "66ad79172b7d1759b89893ae6dde391e0682a020",
-      "LastCommitAt": "2024-04-04T07:59:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-27T17:22:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22599#pullrequestreview-1964003269"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22613,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-01T02:56:50Z",
@@ -3446,40 +3421,6 @@
             "ReviewerName": "valgur",
             "SubmittedAt": "2024-03-19T21:25:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22657#pullrequestreview-1947427247"
-         },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 22662,
-      "OpenedBy": "obnyis",
-      "CreatedAt": "2024-02-05T05:08:32Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22662",
-      "LastCommitSHA": "a4548899728b0069bb96ee74f6f53e40b600b43d",
-      "LastCommitAt": "2024-04-04T10:45:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "Croydon",
-               "Tier": "community"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-24T16:37:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22662#pullrequestreview-1956601058"
          },
          "IsBump": false
       }
