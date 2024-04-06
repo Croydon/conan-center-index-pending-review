@@ -5090,7 +5090,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23233",
       "LastCommitSHA": "692e2f1296af92fe3f944f81261259ff97507eb4",
       "LastCommitAt": "2024-04-06T20:39:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -5659,31 +5659,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2024-04-04T08:08:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23349#pullrequestreview-1979048820"
-         },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23358,
-      "OpenedBy": "ashley-b",
-      "CreatedAt": "2024-04-03T14:33:45Z",
-      "Recipe": "libgpiod",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23358",
-      "LastCommitSHA": "c0dba1244e3edb4706d74263a8b71a51d9388f97",
-      "LastCommitAt": "2024-04-03T23:11:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-04-03T15:09:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23358#pullrequestreview-1977134681"
          },
          "IsBump": false
       }
