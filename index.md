@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|1|Apr 4||**RubenRBS**
 [#23358](https://github.com/conan-io/conan-center-index/pull/23358)|[ashley-b](https://github.com/ashley-b)|Apr 3|:memo: libgpiod|:blue_square: S|1|Apr 3||
 [#23359](https://github.com/conan-io/conan-center-index/pull/23359)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Apr 3|:stopwatch: gcc|:green_circle: XS|0|||
-[#23361](https://github.com/conan-io/conan-center-index/pull/23361)|[darakelian](https://github.com/darakelian)|Apr 3|:stopwatch: libpcap|:green_circle: XS|2|Apr 5||
+[#23361](https://github.com/conan-io/conan-center-index/pull/23361)|[darakelian](https://github.com/darakelian)|Apr 3|:memo: libpcap|:green_circle: XS|2|Apr 5||
 [#23362](https://github.com/conan-io/conan-center-index/pull/23362)|[Ahajha](https://github.com/Ahajha)|Apr 4|:memo: libffi|L|0|||
 [#23363](https://github.com/conan-io/conan-center-index/pull/23363)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 4|:memo: arrow|M|0|||
 [#23376](https://github.com/conan-io/conan-center-index/pull/23376)|[Ahajha](https://github.com/Ahajha)|Apr 5|:memo: libcurl|:blue_square: S|0|||
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 575
 	- Draft: 60
-	- Average Age: 126 days, 17 hours, and 10.44 minutes
+	- Average Age: 126 days, 18 hours, and 5.30 minutes
 	- Stop Label: 273
 	
 
