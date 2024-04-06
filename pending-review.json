@@ -4749,20 +4749,24 @@
       "LastCommitAt": "2024-04-05T12:03:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
+         "Count": 8,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-04-05T12:19:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23171#pullrequestreview-1983013647"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-06T03:13:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23171#pullrequestreview-1984431198"
          },
          "IsBump": false
       }
