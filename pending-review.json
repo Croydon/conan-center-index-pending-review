@@ -3001,6 +3001,31 @@
       }
    },
    {
+      "Number": 22373,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-15T23:10:34Z",
+      "Recipe": "cctag",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22373",
+      "LastCommitSHA": "0e9188b54a2904329e9f8c7aec2e989be5d5e76b",
+      "LastCommitAt": "2024-04-06T20:29:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "EstebanDugueperoux2",
+            "SubmittedAt": "2024-03-19T18:39:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22373#pullrequestreview-1947083405"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22406,
       "OpenedBy": "st9007a",
       "CreatedAt": "2024-01-17T13:26:12Z",
@@ -5955,14 +5980,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23403",
       "LastCommitSHA": "68dda0b9638fa4d81c402a16e2a87bf05a7d8991",
       "LastCommitAt": "2024-04-06T21:09:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    },
    {
