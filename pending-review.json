@@ -5801,21 +5801,16 @@
       "CreatedAt": "2024-04-05T14:58:09Z",
       "Recipe": "dbus",
       "Change": 1,
-      "Weight": 1,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23384",
-      "LastCommitSHA": "49068782e7632e2bef5db1b1f014d471c3abb1cd",
-      "LastCommitAt": "2024-04-05T14:55:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bb8ebd40b38beecdc47cd8f973c816184b46173b",
+      "LastCommitAt": "2024-04-06T11:00:22Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "RubenRBS"
          ],
@@ -5903,6 +5898,26 @@
       "LastCommitSHA": "632dc4cb9d22812040214b685af050dd18a8b438",
       "LastCommitAt": "2024-04-06T08:09:57Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23399,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2024-04-06T10:17:27Z",
+      "Recipe": ".github",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23399",
+      "LastCommitSHA": "17efa8335551aa9805b6a5fdfc61e9a695f7824f",
+      "LastCommitAt": "2024-04-06T10:16:17Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
