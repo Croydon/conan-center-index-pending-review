@@ -5801,5 +5801,30 @@
          },
          "IsBump": false
       }
+   },
+   {
+      "Number": 23387,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2024-04-05T15:28:38Z",
+      "Recipe": "macdylibbundler",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23387",
+      "LastCommitSHA": "29078bd55e1712097040dc500260f2d3d5dd3a3e",
+      "LastCommitAt": "2024-04-06T06:05:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-04-05T22:19:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23387#pullrequestreview-1984284306"
+         },
+         "IsBump": false
+      }
    }
 ]
