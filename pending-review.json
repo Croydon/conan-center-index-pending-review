@@ -3012,15 +3012,20 @@
       "LastCommitAt": "2024-04-06T20:29:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "EstebanDugueperoux2",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "EstebanDugueperoux2",
-            "SubmittedAt": "2024-03-19T18:39:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22373#pullrequestreview-1947083405"
+            "SubmittedAt": "2024-04-07T06:02:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22373#pullrequestreview-1984852296"
          },
          "IsBump": false
       }
