@@ -314,19 +314,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18800",
-      "LastCommitSHA": "9b4eac6ef3df61e9a127f00b76bf2ba29ced46cc",
-      "LastCommitAt": "2024-03-25T12:19:06Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ea23047ce9cf0eab95ad7a54a32eb3e83de17312",
+      "LastCommitAt": "2024-04-07T11:08:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -2349,6 +2344,31 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2024-01-06T02:50:23Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21954#pullrequestreview-1807176661"
+         },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 21985,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-27T14:00:04Z",
+      "Recipe": "dcmtk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21985",
+      "LastCommitSHA": "d3e988ac040b03b64160d520c209bf1ce0e978dc",
+      "LastCommitAt": "2024-04-07T10:37:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-12-28T14:28:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21985#pullrequestreview-1798145457"
          },
          "IsBump": false
       }
