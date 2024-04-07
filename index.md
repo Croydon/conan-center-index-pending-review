@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **206** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -233,6 +233,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23399](https://github.com/conan-io/conan-center-index/pull/23399)|[MartinDelille](https://github.com/MartinDelille)|Apr 6|:gear: .github|:green_circle: XS|1|Apr 6||Croydon
 [#23403](https://github.com/conan-io/conan-center-index/pull/23403)|[mzdun](https://github.com/mzdun)|Apr 6|:memo: mbits-utfconv|:green_circle: XS|0|||
 [#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|0|||
+[#23405](https://github.com/conan-io/conan-center-index/pull/23405)|[toge](https://github.com/toge)|Apr 7|:memo: simdutf|:green_circle: XS|0|||
+[#23406](https://github.com/conan-io/conan-center-index/pull/23406)|[toge](https://github.com/toge)|Apr 7|:memo: 7bitdi|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -252,9 +254,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 580
+	- Open: 582
 	- Draft: 61
-	- Average Age: 126 days, 12 hours, and 16.61 minutes
+	- Average Age: 126 days, 6 hours, and 53.22 minutes
 	- Stop Label: 269
 	
 
