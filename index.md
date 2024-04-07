@@ -214,7 +214,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|1|Mar 30||
 [#23333](https://github.com/conan-io/conan-center-index/pull/23333)|[toge](https://github.com/toge)|Apr 2|:memo: c-blosc2|L|0|||
 [#23337](https://github.com/conan-io/conan-center-index/pull/23337)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 2|:memo: cairo|:blue_square: S|2|Apr 3||jwillikers
-[#23339](https://github.com/conan-io/conan-center-index/pull/23339)|[nclindroos](https://github.com/nclindroos)|Apr 2|:memo: cpr|M|6|Apr 5||**RubenRBS**
 [#23343](https://github.com/conan-io/conan-center-index/pull/23343)|[toge](https://github.com/toge)|Apr 2|:memo: glaze|M|0|||
 [#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:memo: diligent-core|L|1|Apr 3||valgur
 [#23349](https://github.com/conan-io/conan-center-index/pull/23349)|[irieger](https://github.com/irieger)|Apr 2|:memo: openimageio|L|1|Apr 4||**RubenRBS**
@@ -235,7 +234,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|0|||
 [#23405](https://github.com/conan-io/conan-center-index/pull/23405)|[toge](https://github.com/toge)|Apr 7|:memo: simdutf|:green_circle: XS|0|||
 [#23406](https://github.com/conan-io/conan-center-index/pull/23406)|[toge](https://github.com/toge)|Apr 7|:memo: 7bitdi|:green_circle: XS|0|||
-[#23408](https://github.com/conan-io/conan-center-index/pull/23408)|[bigcat26](https://github.com/bigcat26)|Apr 7|:stopwatch: poco|:green_circle: XS|0|||
+[#23408](https://github.com/conan-io/conan-center-index/pull/23408)|[bigcat26](https://github.com/bigcat26)|Apr 7|:memo: poco|:green_circle: XS|0|||
+[#23409](https://github.com/conan-io/conan-center-index/pull/23409)|[mayeut](https://github.com/mayeut)|Apr 7|:stopwatch: onnxruntime|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -257,7 +257,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 583
 	- Draft: 61
-	- Average Age: 126 days, 6 hours, and 36.83 minutes
+	- Average Age: 126 days, 7 hours, and 24.58 minutes
 	- Stop Label: 269
 	
 
