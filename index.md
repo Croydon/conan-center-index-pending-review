@@ -103,7 +103,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21927](https://github.com/conan-io/conan-center-index/pull/21927)|[valgur](https://github.com/valgur)|Dec 26|:memo: aruco|:blue_square: S|3|Mar 27||jwillikers
 [#21945](https://github.com/conan-io/conan-center-index/pull/21945)|[toge](https://github.com/toge)|Dec 26|:memo: leptonica|M|3|Mar 26 :bell:||valgur
 [#21954](https://github.com/conan-io/conan-center-index/pull/21954)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: libsigcpp|L|1|Jan 6 :bell:|RubenRBS|
-[#21985](https://github.com/conan-io/conan-center-index/pull/21985)|[mayeut](https://github.com/mayeut)|Dec 27|:memo: dcmtk|:blue_square: S|2|Dec 28 :bell:||
+[#21985](https://github.com/conan-io/conan-center-index/pull/21985)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: dcmtk|:blue_square: S|2|Dec 28 :bell:||
 [#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaec|L|1|Feb 26 :bell:||jwillikers
 [#21989](https://github.com/conan-io/conan-center-index/pull/21989)|[valgur](https://github.com/valgur)|Dec 27|:new: libmd|M|1|Mar 22 :bell:||jwillikers
 [#22002](https://github.com/conan-io/conan-center-index/pull/22002)|[valgur](https://github.com/valgur)|Dec 27|:memo: sdl_net|:blue_square: S|1|Mar 22 :bell:||jwillikers
@@ -258,7 +258,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 585
 	- Draft: 61
-	- Average Age: 126 days, 5 hours, and 59.21 minutes
+	- Average Age: 126 days, 9 hours, and 0.04 minutes
 	- Stop Label: 272
 	
 
