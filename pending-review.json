@@ -5703,7 +5703,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23378",
       "LastCommitSHA": "930535be38a9d0b10cad4ca7b01b16a0f8b50725",
       "LastCommitAt": "2024-04-08T04:10:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6086,6 +6086,26 @@
       "LastCommitSHA": "3f0bba2ea6b74b93d5f090f7cb4a70af6ac174f1",
       "LastCommitAt": "2024-04-07T21:40:53Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23412,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-08T04:26:18Z",
+      "Recipe": "wolfssl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23412",
+      "LastCommitSHA": "0b48263fda36974b5591a6ee5c8580c13705d838",
+      "LastCommitAt": "2024-04-08T04:35:11Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
