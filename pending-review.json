@@ -6055,22 +6055,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23408",
       "LastCommitSHA": "22d170d33f2ff9e6b5985b66298361c4106bd20d",
       "LastCommitAt": "2024-04-07T08:29:25Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "toge",
                "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-04-08T04:14:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23408#pullrequestreview-1985410036"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-04-08T07:01:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23408#pullrequestreview-1985588193"
          },
          "IsBump": false
       }
