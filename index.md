@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -223,8 +223,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23411](https://github.com/conan-io/conan-center-index/pull/23411)|[garethsb](https://github.com/garethsb)|Apr 7|:memo: nmos-cpp|:blue_square: S|0|||
 [#23416](https://github.com/conan-io/conan-center-index/pull/23416)|[db4](https://github.com/db4)|Apr 8|:stopwatch: fontconfig|:green_circle: XS|0|||
 [#23419](https://github.com/conan-io/conan-center-index/pull/23419)|[technoyes](https://github.com/technoyes)|Apr 8|:memo: iconfontcppheaders|:green_circle: XS|0|||
-[#23423](https://github.com/conan-io/conan-center-index/pull/23423)|[toge](https://github.com/toge)|Apr 9|:stopwatch: rapidfuzz|:green_circle: XS|0|||
-[#23424](https://github.com/conan-io/conan-center-index/pull/23424)|[toge](https://github.com/toge)|Apr 9|:stopwatch: opentelemetry-proto|:green_circle: XS|0|||
+[#23422](https://github.com/conan-io/conan-center-index/pull/23422)|[toge](https://github.com/toge)|Apr 9|:memo: yyjson|:blue_square: S|0|||
+[#23423](https://github.com/conan-io/conan-center-index/pull/23423)|[toge](https://github.com/toge)|Apr 9|:memo: rapidfuzz|:green_circle: XS|0|||
+[#23424](https://github.com/conan-io/conan-center-index/pull/23424)|[toge](https://github.com/toge)|Apr 9|:memo: opentelemetry-proto|:green_circle: XS|0|||
+[#23425](https://github.com/conan-io/conan-center-index/pull/23425)|[toge](https://github.com/toge)|Apr 9|:memo: asio|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,10 +245,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 575
-	- Draft: 60
-	- Average Age: 128 days, 22 hours, and 44.82 minutes
-	- Stop Label: 276
+	- Open: 576
+	- Draft: 61
+	- Average Age: 128 days, 18 hours, and 26.80 minutes
+	- Stop Label: 274
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
