@@ -4247,8 +4247,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23122",
-      "LastCommitSHA": "604d69e658a84213884824980566ee5672daed21",
-      "LastCommitAt": "2024-03-20T21:41:17Z",
+      "LastCommitSHA": "096d57a136db8833278c96e1542942a7ab0c136b",
+      "LastCommitAt": "2024-04-09T05:52:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -5668,6 +5668,26 @@
       }
    },
    {
+      "Number": 23422,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-09T03:49:02Z",
+      "Recipe": "yyjson",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23422",
+      "LastCommitSHA": "5bb33b030f186cac1693db547cd15623f2fd4449",
+      "LastCommitAt": "2024-04-09T05:20:37Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23423,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-09T04:46:05Z",
@@ -5677,7 +5697,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23423",
       "LastCommitSHA": "b5ab90c2f9392a6ee793ac73519da30e60eb2428",
       "LastCommitAt": "2024-04-09T04:45:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5697,14 +5717,34 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23424",
       "LastCommitSHA": "2ca12341909e6dc5cb4529d9adb943ff69bc6b68",
       "LastCommitAt": "2024-04-09T05:12:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23425,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-09T05:26:25Z",
+      "Recipe": "asio",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23425",
+      "LastCommitSHA": "1bef56f21d4aaad85ba9b80c70540aa2ad85d3f5",
+      "LastCommitAt": "2024-04-09T05:25:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
