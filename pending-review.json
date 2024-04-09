@@ -556,36 +556,6 @@
       }
    },
    {
-      "Number": 18852,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-23T18:02:11Z",
-      "Recipe": "libtommath",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18852",
-      "LastCommitSHA": "87db05915123bf0e318bc08c35bf198a06b73d03",
-      "LastCommitAt": "2023-11-28T08:26:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-04-09T15:07:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18852#pullrequestreview-1989336715"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 18938,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-28T10:53:41Z",
