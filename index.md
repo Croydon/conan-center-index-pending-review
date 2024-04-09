@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23347](https://github.com/conan-io/conan-center-index/pull/23347)|[MikeLankamp](https://github.com/MikeLankamp)|Apr 2|:memo: diligent-core|L|1|Apr 3||valgur
 [#23359](https://github.com/conan-io/conan-center-index/pull/23359)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Apr 3|:stopwatch: gcc|:green_circle: XS|0|:eyes:||
 [#23363](https://github.com/conan-io/conan-center-index/pull/23363)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 4|:memo: arrow|M|0|:eyes:||
-[#23383](https://github.com/conan-io/conan-center-index/pull/23383)|[valgur](https://github.com/valgur)|Apr 5|:memo: libpcap|M|0|||
+[#23383](https://github.com/conan-io/conan-center-index/pull/23383)|[valgur](https://github.com/valgur)|Apr 5|:memo: libpcap|M|0|:eyes:||
 [#23392](https://github.com/conan-io/conan-center-index/pull/23392)|[gouriano](https://github.com/gouriano)|Apr 5|:memo: ncbi-cxx-toolkit-public|XL|0|||
 [#23393](https://github.com/conan-io/conan-center-index/pull/23393)|[valgur](https://github.com/valgur)|Apr 5|:memo: onetbb|:blue_square: S|0|||
 [#23394](https://github.com/conan-io/conan-center-index/pull/23394)|[Ahajha](https://github.com/Ahajha)|Apr 6|:memo: cpython|L|9|Apr 6||
@@ -219,6 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23411](https://github.com/conan-io/conan-center-index/pull/23411)|[garethsb](https://github.com/garethsb)|Apr 7|:memo: nmos-cpp|:blue_square: S|0|||
 [#23416](https://github.com/conan-io/conan-center-index/pull/23416)|[db4](https://github.com/db4)|Apr 8|:stopwatch: fontconfig|:green_circle: XS|0|||
 [#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|||
+[#23433](https://github.com/conan-io/conan-center-index/pull/23433)|[franramirez688](https://github.com/franramirez688)|Apr 9|:stopwatch: wayland-protocols|:blue_square: S|1|Apr 9||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,10 +239,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 569
+	- Open: 571
 	- Draft: 60
-	- Average Age: 129 days, 16 hours, and 44.98 minutes
-	- Stop Label: 274
+	- Average Age: 129 days, 7 hours, and 4.04 minutes
+	- Stop Label: 275
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
