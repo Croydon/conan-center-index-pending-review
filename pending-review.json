@@ -5746,5 +5746,25 @@
          "Blockers": null,
          "IsBump": true
       }
+   },
+   {
+      "Number": 23426,
+      "OpenedBy": "reneme",
+      "CreatedAt": "2024-04-09T06:52:02Z",
+      "Recipe": "botan",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23426",
+      "LastCommitSHA": "aca1274128cde38fb609f5432e1c32a88da9cb58",
+      "LastCommitAt": "2024-04-09T06:49:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
