@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **194** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -164,7 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11 :bell:|jcar87|
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|1|Mar 24 :bell:||
-[#23069](https://github.com/conan-io/conan-center-index/pull/23069)|[tbsuht](https://github.com/tbsuht)|Mar 12|:stopwatch: libyang|M|4|Apr 9||
+[#23069](https://github.com/conan-io/conan-center-index/pull/23069)|[tbsuht](https://github.com/tbsuht)|Mar 12|:new: libyang|M|4|Apr 9||
 [#23080](https://github.com/conan-io/conan-center-index/pull/23080)|[RazielXYZ](https://github.com/RazielXYZ)|Mar 13|:new: gaia-ecs|M|4|Mar 26 :bell:||jwillikers, valgur
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|M|11|Apr 2||
 [#23112](https://github.com/conan-io/conan-center-index/pull/23112)|[irieger](https://github.com/irieger)|Mar 16|:memo: opencolorio|:blue_square: S|2|Mar 19 :bell:||
@@ -219,22 +219,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|0|||
 [#23411](https://github.com/conan-io/conan-center-index/pull/23411)|[garethsb](https://github.com/garethsb)|Apr 7|:memo: nmos-cpp|:blue_square: S|0|||
 [#23416](https://github.com/conan-io/conan-center-index/pull/23416)|[db4](https://github.com/db4)|Apr 8|:stopwatch: fontconfig|:green_circle: XS|0|||
-[#23427](https://github.com/conan-io/conan-center-index/pull/23427)|[memsharded](https://github.com/memsharded)|Apr 9|:memo: binutils|:green_circle: XS|0|||
-[#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:stopwatch: aws-lambda-cpp|:blue_square: S|0|||
+[#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#22599](https://github.com/conan-io/conan-center-index/pull/22599)|[Ahajha](https://github.com/Ahajha)|Jan 30|:memo: cpython|9|valgur, **RubenRBS**
-[#23424](https://github.com/conan-io/conan-center-index/pull/23424)|[toge](https://github.com/toge)|Apr 9|:memo: opentelemetry-proto|1|**RubenRBS**
 [#23425](https://github.com/conan-io/conan-center-index/pull/23425)|[toge](https://github.com/toge)|Apr 9|:memo: asio|1|**RubenRBS**
 [#23426](https://github.com/conan-io/conan-center-index/pull/23426)|[reneme](https://github.com/reneme)|Apr 9|:memo: botan|1|**RubenRBS**
+[#23431](https://github.com/conan-io/conan-center-index/pull/23431)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 9|:green_book: docs|2|**uilianries**, **danimtb**
 
 
 #### :clipboard: Statistics
@@ -243,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 573
+	- Open: 572
 	- Draft: 60
-	- Average Age: 128 days, 20 hours, and 0.73 minutes
-	- Stop Label: 273
+	- Average Age: 128 days, 23 hours, and 32.86 minutes
+	- Stop Label: 274
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
