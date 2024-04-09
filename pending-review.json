@@ -3485,7 +3485,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22708",
       "LastCommitSHA": "e9247869d3882c6bf4dd02c74534419de35e63a3",
       "LastCommitAt": "2024-04-09T04:02:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -5658,6 +5658,46 @@
       "LastCommitSHA": "6e8e2479377e3a736a26512b4c31857e9e9de0dc",
       "LastCommitAt": "2024-04-08T19:22:46Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23423,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-09T04:46:05Z",
+      "Recipe": "rapidfuzz",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23423",
+      "LastCommitSHA": "b5ab90c2f9392a6ee793ac73519da30e60eb2428",
+      "LastCommitAt": "2024-04-09T04:45:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23424,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-09T05:13:36Z",
+      "Recipe": "opentelemetry-proto",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23424",
+      "LastCommitSHA": "2ca12341909e6dc5cb4529d9adb943ff69bc6b68",
+      "LastCommitAt": "2024-04-09T05:12:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
