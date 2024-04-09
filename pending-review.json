@@ -5483,6 +5483,26 @@
       }
    },
    {
+      "Number": 23392,
+      "OpenedBy": "gouriano",
+      "CreatedAt": "2024-04-05T19:00:56Z",
+      "Recipe": "ncbi-cxx-toolkit-public",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23392",
+      "LastCommitSHA": "fecf6a0591f569f138dc3a6b15a921dcc92f88a3",
+      "LastCommitAt": "2024-04-08T14:45:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23393,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-04-05T19:42:30Z",
