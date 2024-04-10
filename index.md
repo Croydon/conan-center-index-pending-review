@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **212** pull requests currently under way :detective:
+There are **211** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -214,7 +214,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23416](https://github.com/conan-io/conan-center-index/pull/23416)|[db4](https://github.com/db4)|Apr 8|:stopwatch: fontconfig|:green_circle: XS|0|||
 [#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|||
 [#23432](https://github.com/conan-io/conan-center-index/pull/23432)|[toge](https://github.com/toge)|Apr 9|:memo: proxy|:blue_square: S|0|||
-[#23434](https://github.com/conan-io/conan-center-index/pull/23434)|[valgur](https://github.com/valgur)|Apr 9|:memo: implot|:blue_square: S|0|||
 [#23435](https://github.com/conan-io/conan-center-index/pull/23435)|[valgur](https://github.com/valgur)|Apr 9|:memo: imguizmo|:blue_square: S|0|||
 [#23437](https://github.com/conan-io/conan-center-index/pull/23437)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: dbus|:blue_square: S|0|||
 [#23439](https://github.com/conan-io/conan-center-index/pull/23439)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: glfw|:green_circle: XS|1|Apr 9||
@@ -258,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 592
-	- Draft: 60
-	- Average Age: 124 days, 16 hours, and 39.60 minutes
+	- Open: 593
+	- Draft: 61
+	- Average Age: 124 days, 13 hours, and 38.16 minutes
 	- Stop Label: 275
 	
 
