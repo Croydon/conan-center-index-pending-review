@@ -154,40 +154,6 @@
       }
    },
    {
-      "Number": 18628,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-18T19:40:32Z",
-      "Recipe": "giflib",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18628",
-      "LastCommitSHA": "e749026c87c84caa5632551cbc66de46b379e379",
-      "LastCommitAt": "2024-04-10T12:31:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-04-10T13:10:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18628#pullrequestreview-1991650982"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 18641,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T07:16:20Z",
@@ -2263,15 +2229,20 @@
       "LastCommitAt": "2024-04-07T21:14:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-28T14:28:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21985#pullrequestreview-1798145457"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-04-10T14:03:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21985#pullrequestreview-1991797024"
          },
          "IsBump": false
       }
@@ -3318,7 +3289,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22696",
       "LastCommitSHA": "6e987e82b635ba0712f4b154ea3a795a2b3f1fcf",
       "LastCommitAt": "2024-04-06T07:21:47Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 17,
          "ValidApprovals": 3,
@@ -5172,26 +5143,6 @@
       }
    },
    {
-      "Number": 23346,
-      "OpenedBy": "sizeak",
-      "CreatedAt": "2024-04-02T14:24:17Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23346",
-      "LastCommitSHA": "a8d5f18f81054b3037a71717a4295654cc516deb",
-      "LastCommitAt": "2024-04-10T08:36:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23347,
       "OpenedBy": "MikeLankamp",
       "CreatedAt": "2024-04-02T17:01:10Z",
@@ -5911,7 +5862,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23464",
       "LastCommitSHA": "7a973ce00a14e8db4de16ce6996c1dfb75281f9d",
       "LastCommitAt": "2024-04-10T13:02:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
