@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **217** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -137,7 +137,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|M|4|Mar 25 :bell:||jwillikers
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|2|Mar 24 :bell:||ericLemanissier
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
-[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|L|18|Apr 11||ericLemanissier, jwillikers, valgur, MartinDelille
 [#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:stopwatch: battery-embed|M|1|Mar 24 :bell:||
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:stopwatch: stringzilla|L|6|Mar 24 :bell:||
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|1|Mar 24 :bell:||valgur
@@ -249,12 +248,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
+[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|19|ericLemanissier, jwillikers, valgur, MartinDelille, **danimtb**
 [#23250](https://github.com/conan-io/conan-center-index/pull/23250)|[valgur](https://github.com/valgur)|Mar 25|:warning: binutils|5|jwillikers, **RubenRBS**, **uilianries**
 [#23432](https://github.com/conan-io/conan-center-index/pull/23432)|[toge](https://github.com/toge)|Apr 9|:memo: proxy|2|**RubenRBS**, valgur
 [#23457](https://github.com/conan-io/conan-center-index/pull/23457)|[toge](https://github.com/toge)|Apr 10|:memo: flatbuffers|1|**RubenRBS**
@@ -269,7 +269,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 596
 	- Draft: 60
-	- Average Age: 124 days, 10 hours, and 14.19 minutes
+	- Average Age: 124 days, 11 hours, and 24.88 minutes
 	- Stop Label: 272
 	
 
