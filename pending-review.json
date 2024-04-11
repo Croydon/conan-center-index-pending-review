@@ -3291,9 +3291,9 @@
       "LastCommitAt": "2024-04-06T07:21:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
-         "ValidApprovals": 4,
-         "TeamApproval": false,
+         "Count": 19,
+         "ValidApprovals": 5,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "ericLemanissier",
@@ -3310,13 +3310,17 @@
             {
                "Name": "MartinDelille",
                "Tier": "community"
+            },
+            {
+               "Name": "danimtb",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2024-04-11T08:30:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1993593085"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-04-11T11:30:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1993937613"
          },
          "IsBump": false
       }
