@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **210** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,13 +131,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:stopwatch: onnxruntime|L|0|:eyes:||
 [#22575](https://github.com/conan-io/conan-center-index/pull/22575)|[Ahajha](https://github.com/Ahajha)|Jan 28|:memo: sdl_image|:blue_square: S|1|Mar 24 :bell:||valgur
 [#22584](https://github.com/conan-io/conan-center-index/pull/22584)|[choll](https://github.com/choll)|Jan 29|:memo: xtr|:green_circle: XS|1|Mar 24 :bell:||valgur
-[#22613](https://github.com/conan-io/conan-center-index/pull/22613)|[toge](https://github.com/toge)|Feb 1|:stopwatch: s2n|:green_circle: XS|1|Mar 24 :bell:||
+[#22613](https://github.com/conan-io/conan-center-index/pull/22613)|[toge](https://github.com/toge)|Feb 1|:memo: s2n|:green_circle: XS|1|Mar 24 :bell:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|3|Apr 11||**danimtb**
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|2|Mar 19 :bell:||jwillikers, valgur
 [#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|M|4|Mar 25 :bell:||jwillikers
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|2|Mar 24 :bell:||ericLemanissier
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
-[#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:stopwatch: battery-embed|M|1|Mar 24 :bell:||
+[#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:new: battery-embed|M|1|Mar 24 :bell:||
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:stopwatch: stringzilla|L|6|Mar 24 :bell:||
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|2|Mar 24 :bell:||valgur
@@ -233,14 +233,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23468](https://github.com/conan-io/conan-center-index/pull/23468)|[wgtmac](https://github.com/wgtmac)|Apr 10|:stopwatch: arrow|:green_circle: XS|0|||
 [#23469](https://github.com/conan-io/conan-center-index/pull/23469)|[gegles](https://github.com/gegles)|Apr 10|:stopwatch: openssl|:green_circle: XS|1|Apr 11||**RubenRBS**
 [#23470](https://github.com/conan-io/conan-center-index/pull/23470)|[jtbandes](https://github.com/jtbandes)|Apr 10|:memo: mcap|M|0|||
-[#23473](https://github.com/conan-io/conan-center-index/pull/23473)|[toge](https://github.com/toge)|Apr 11|:stopwatch: catch2|:green_circle: XS|0|||
+[#23472](https://github.com/conan-io/conan-center-index/pull/23472)|[MattBelanger321](https://github.com/MattBelanger321)|Apr 10|:stopwatch: ixwebsocket|:green_circle: XS|0|||
+[#23473](https://github.com/conan-io/conan-center-index/pull/23473)|[toge](https://github.com/toge)|Apr 11|:memo: catch2|:green_circle: XS|1|Apr 11||[MattBelanger321](https://github.com/MattBelanger321)
 [#23477](https://github.com/conan-io/conan-center-index/pull/23477)|[X1aomu](https://github.com/X1aomu)|Apr 11|:stopwatch: zeus_expected|M|1|Apr 11||valgur
 [#23478](https://github.com/conan-io/conan-center-index/pull/23478)|[kambala-decapitator](https://github.com/kambala-decapitator)|Apr 11|:stopwatch: boost|:green_circle: XS|1|Apr 11||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -248,8 +249,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:warning: rmm|5|**czoido**, ericLemanissier
 [#23250](https://github.com/conan-io/conan-center-index/pull/23250)|[valgur](https://github.com/valgur)|Mar 25|:warning: binutils|5|jwillikers, **RubenRBS**, **uilianries**
-[#23435](https://github.com/conan-io/conan-center-index/pull/23435)|[valgur](https://github.com/valgur)|Apr 9|:memo: imguizmo|5|**franramirez688**, **czoido**
-[#23457](https://github.com/conan-io/conan-center-index/pull/23457)|[toge](https://github.com/toge)|Apr 10|:memo: flatbuffers|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -258,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 590
-	- Draft: 60
-	- Average Age: 125 days, 14 hours, and 0.57 minutes
+	- Open: 588
+	- Draft: 59
+	- Average Age: 126 days, 1 hours, and 5.92 minutes
 	- Stop Label: 275
 	
 
