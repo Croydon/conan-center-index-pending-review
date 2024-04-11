@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **216** pull requests currently under way :detective:
+There are **218** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -231,6 +231,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23451](https://github.com/conan-io/conan-center-index/pull/23451)|[jwillikers](https://github.com/jwillikers)|Apr 9|:stopwatch: bgfx|:blue_square: S|0|||
 [#23452](https://github.com/conan-io/conan-center-index/pull/23452)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: microprofile|:green_circle: XS|0|||
 [#23457](https://github.com/conan-io/conan-center-index/pull/23457)|[toge](https://github.com/toge)|Apr 10|:memo: flatbuffers|:green_circle: XS|0|||
+[#23459](https://github.com/conan-io/conan-center-index/pull/23459)|[db4](https://github.com/db4)|Apr 10|:stopwatch: nng|:green_circle: XS|0|||
 [#23460](https://github.com/conan-io/conan-center-index/pull/23460)|[franramirez688](https://github.com/franramirez688)|Apr 10|:memo: 7zip|:blue_square: S|1|Apr 10||jwillikers
 [#23462](https://github.com/conan-io/conan-center-index/pull/23462)|[MartinDelille](https://github.com/MartinDelille)|Apr 10|:stopwatch: qt|:green_circle: XS|0|||
 [#23463](https://github.com/conan-io/conan-center-index/pull/23463)|[jwillikers](https://github.com/jwillikers)|Apr 10|:stopwatch: opencascade|:blue_square: S|0|||
@@ -243,6 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23473](https://github.com/conan-io/conan-center-index/pull/23473)|[toge](https://github.com/toge)|Apr 11|:stopwatch: catch2|:green_circle: XS|0|||
 [#23477](https://github.com/conan-io/conan-center-index/pull/23477)|[X1aomu](https://github.com/X1aomu)|Apr 11|:stopwatch: zeus_expected|M|0|||
 [#23478](https://github.com/conan-io/conan-center-index/pull/23478)|[kambala-decapitator](https://github.com/kambala-decapitator)|Apr 11|:stopwatch: boost|:green_circle: XS|0|||
+[#23479](https://github.com/conan-io/conan-center-index/pull/23479)|[bigcat26](https://github.com/bigcat26)|Apr 11|:stopwatch: aws-kvs-pic|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -262,10 +264,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 596
+	- Open: 597
 	- Draft: 60
-	- Average Age: 124 days, 6 hours, and 32.90 minutes
-	- Stop Label: 274
+	- Average Age: 124 days, 2 hours, and 36.76 minutes
+	- Stop Label: 273
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
