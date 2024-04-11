@@ -5657,7 +5657,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23451",
       "LastCommitSHA": "a0159dcfe458b662a07e7d83cc0ce1367a1c2030",
       "LastCommitAt": "2024-04-11T19:09:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5987,6 +5987,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23484",
       "LastCommitSHA": "9a39297c15e4480df3ea66a3dc963dc7beddf834",
       "LastCommitAt": "2024-04-11T18:58:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23485,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2024-04-11T19:22:54Z",
+      "Recipe": "ninja",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23485",
+      "LastCommitSHA": "3f132a4ff2ecce27bbbbfca90cce14a72526508f",
+      "LastCommitAt": "2024-04-11T19:22:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
