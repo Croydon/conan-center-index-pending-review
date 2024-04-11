@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **211** pull requests currently under way :detective:
+There are **212** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23448](https://github.com/conan-io/conan-center-index/pull/23448)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: sfml|:blue_square: S|0|||
 [#23449](https://github.com/conan-io/conan-center-index/pull/23449)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: fltk|:blue_square: S|0|||
 [#23450](https://github.com/conan-io/conan-center-index/pull/23450)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: cprocessing|:green_circle: XS|0|||
-[#23451](https://github.com/conan-io/conan-center-index/pull/23451)|[jwillikers](https://github.com/jwillikers)|Apr 9|:stopwatch: bgfx|:blue_square: S|0|||
+[#23451](https://github.com/conan-io/conan-center-index/pull/23451)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: bgfx|:blue_square: S|0|||
 [#23452](https://github.com/conan-io/conan-center-index/pull/23452)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: microprofile|:green_circle: XS|0|||
 [#23458](https://github.com/conan-io/conan-center-index/pull/23458)|[valgur](https://github.com/valgur)|Apr 10|:stopwatch: small_gicp|L|0|||
 [#23459](https://github.com/conan-io/conan-center-index/pull/23459)|[db4](https://github.com/db4)|Apr 10|:stopwatch: nng|:green_circle: XS|0|||
@@ -238,6 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23478](https://github.com/conan-io/conan-center-index/pull/23478)|[kambala-decapitator](https://github.com/kambala-decapitator)|Apr 11|:stopwatch: boost|:green_circle: XS|1|Apr 11||jwillikers
 [#23483](https://github.com/conan-io/conan-center-index/pull/23483)|[MartinDelille](https://github.com/MartinDelille)|Apr 11|:stopwatch: openapi-generator|:green_circle: XS|0|||
 [#23484](https://github.com/conan-io/conan-center-index/pull/23484)|[jwillikers](https://github.com/jwillikers)|Apr 11|:stopwatch: cairo|M|0|||
+[#23485](https://github.com/conan-io/conan-center-index/pull/23485)|[jwillikers](https://github.com/jwillikers)|Apr 11|:stopwatch: ninja|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -258,9 +259,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 589
+	- Open: 590
 	- Draft: 59
-	- Average Age: 125 days, 21 hours, and 52.02 minutes
+	- Average Age: 125 days, 17 hours, and 46.99 minutes
 	- Stop Label: 275
 	
 
