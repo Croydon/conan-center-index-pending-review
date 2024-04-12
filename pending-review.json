@@ -4823,7 +4823,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23270",
       "LastCommitSHA": "aeb3907b2addd6c302cbf6e6d9c7b8733f56783d",
       "LastCommitAt": "2024-04-11T00:48:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5702,26 +5702,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23459",
       "LastCommitSHA": "f93219d9a86ad5c363d91b50f28563ef3459fe64",
       "LastCommitAt": "2024-04-11T08:07:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23463,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-04-10T12:55:23Z",
-      "Recipe": "opencascade",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23463",
-      "LastCommitSHA": "dcc0490037c15e869e9aa7cd6097b43399200bee",
-      "LastCommitAt": "2024-04-11T19:07:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
