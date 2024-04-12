@@ -6163,5 +6163,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23500,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2024-04-12T19:24:36Z",
+      "Recipe": "libglvnd",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23500",
+      "LastCommitSHA": "c5763035bf35321cda2e736bef4a59f6647ee2bb",
+      "LastCommitAt": "2024-04-12T19:33:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
