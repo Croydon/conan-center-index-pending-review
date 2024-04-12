@@ -5830,14 +5830,28 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23485",
       "LastCommitSHA": "3f132a4ff2ecce27bbbbfca90cce14a72526508f",
       "LastCommitAt": "2024-04-11T19:22:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "community"
+            },
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
-         "IsBump": false
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2024-04-12T10:43:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23485#pullrequestreview-1996459340"
+         },
+         "IsBump": true
       }
    },
    {
