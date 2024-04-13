@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **223** pull requests currently under way :detective:
+There are **225** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -190,7 +190,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23267](https://github.com/conan-io/conan-center-index/pull/23267)|[dbolduc](https://github.com/dbolduc)|Mar 25|:stopwatch: google-cloud-cpp|:blue_square: S|1|Mar 28 :bell:||
 [#23270](https://github.com/conan-io/conan-center-index/pull/23270)|[xyz1001](https://github.com/xyz1001)|Mar 26|:new: platformfolders|M|0|||
 [#23272](https://github.com/conan-io/conan-center-index/pull/23272)|[johningve](https://github.com/johningve)|Mar 26|:memo: glfw|:blue_square: S|2|Apr 9||jwillikers
-[#23276](https://github.com/conan-io/conan-center-index/pull/23276)|[valgur](https://github.com/valgur)|Mar 26|:memo: libxml2|:blue_square: S|1|Apr 1||jwillikers
+[#23276](https://github.com/conan-io/conan-center-index/pull/23276)|[valgur](https://github.com/valgur)|Mar 26|:memo: libxml2|:blue_square: S|2|Apr 13||jwillikers, [mayeut](https://github.com/mayeut)
 [#23279](https://github.com/conan-io/conan-center-index/pull/23279)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|1|Mar 27 :bell:||
 [#23280](https://github.com/conan-io/conan-center-index/pull/23280)|[jwillikers](https://github.com/jwillikers)|Mar 26|:memo: qt|:blue_square: S|0|:eyes:||
 [#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|2|Apr 11||valgur
@@ -221,7 +221,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23452](https://github.com/conan-io/conan-center-index/pull/23452)|[jwillikers](https://github.com/jwillikers)|Apr 9|:memo: microprofile|:green_circle: XS|0|:eyes:||
 [#23459](https://github.com/conan-io/conan-center-index/pull/23459)|[db4](https://github.com/db4)|Apr 10|:stopwatch: nng|:green_circle: XS|0|||
 [#23463](https://github.com/conan-io/conan-center-index/pull/23463)|[jwillikers](https://github.com/jwillikers)|Apr 10|:stopwatch: opencascade|:blue_square: S|0|||
-[#23464](https://github.com/conan-io/conan-center-index/pull/23464)|[jwillikers](https://github.com/jwillikers)|Apr 10|:memo: openfx|:blue_square: S|0|||
+[#23464](https://github.com/conan-io/conan-center-index/pull/23464)|[jwillikers](https://github.com/jwillikers)|Apr 10|:memo: openfx|:blue_square: S|0|:eyes:||
 [#23465](https://github.com/conan-io/conan-center-index/pull/23465)|[jwillikers](https://github.com/jwillikers)|Apr 10|:stopwatch: raylib|:blue_square: S|0|||
 [#23472](https://github.com/conan-io/conan-center-index/pull/23472)|[MattBelanger321](https://github.com/MattBelanger321)|Apr 10|:stopwatch: ixwebsocket|:green_circle: XS|0|||
 [#23477](https://github.com/conan-io/conan-center-index/pull/23477)|[X1aomu](https://github.com/X1aomu)|Apr 11|:stopwatch: zeus_expected|M|1|Apr 11||valgur
@@ -250,6 +250,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23514](https://github.com/conan-io/conan-center-index/pull/23514)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: sdbus-cpp|:green_circle: XS|0|||
 [#23515](https://github.com/conan-io/conan-center-index/pull/23515)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: wayland|:green_circle: XS|0|||
 [#23516](https://github.com/conan-io/conan-center-index/pull/23516)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: avahi|:green_circle: XS|0|||
+[#23517](https://github.com/conan-io/conan-center-index/pull/23517)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: qt|:blue_square: S|0|||
+[#23518](https://github.com/conan-io/conan-center-index/pull/23518)|[toge](https://github.com/toge)|Apr 13|:stopwatch: dacap-clip|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -277,9 +279,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 609
+	- Open: 611
 	- Draft: 59
-	- Average Age: 122 days, 18 hours, and 15.90 minutes
+	- Average Age: 122 days, 9 hours, and 30.59 minutes
 	- Stop Label: 275
 	
 
