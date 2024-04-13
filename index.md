@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **215** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -242,6 +242,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23506](https://github.com/conan-io/conan-center-index/pull/23506)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: pango|:green_circle: XS|0|||
 [#23507](https://github.com/conan-io/conan-center-index/pull/23507)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: cairomm|:green_circle: XS|0|||
 [#23508](https://github.com/conan-io/conan-center-index/pull/23508)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: freexl|:green_circle: XS|0|||
+[#23509](https://github.com/conan-io/conan-center-index/pull/23509)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: libarchive|XL|0|||
+[#23510](https://github.com/conan-io/conan-center-index/pull/23510)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: fontconfig|L|0|||
+[#23511](https://github.com/conan-io/conan-center-index/pull/23511)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: cairo|:green_circle: XS|0|||
+[#23512](https://github.com/conan-io/conan-center-index/pull/23512)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: dbus|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,9 +273,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 601
+	- Open: 605
 	- Draft: 59
-	- Average Age: 124 days, 7 hours, and 20.35 minutes
+	- Average Age: 123 days, 12 hours, and 34.92 minutes
 	- Stop Label: 275
 	
 
