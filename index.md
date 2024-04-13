@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21389](https://github.com/conan-io/conan-center-index/pull/21389)|[valgur](https://github.com/valgur)|Nov 26|:memo: getdns|L|1|Mar 25 :bell:||jwillikers
 [#21391](https://github.com/conan-io/conan-center-index/pull/21391)|[ashley-b](https://github.com/ashley-b)|Nov 27|:memo: qwt|L|4|Mar 25 :bell:||
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bitsery|:blue_square: S|3|Mar 19 :bell:||jwillikers, valgur
-[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|1|Dec 7 :bell:|uilianries|
+[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libcurl|L|1|Dec 7 :bell:|uilianries|
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|14|Apr 9|RubenRBS|**uilianries**, valgur
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|5|Mar 24 :bell:||jwillikers, valgur
 [#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:memo: mongo-c-driver|L|4|Apr 3||jwillikers
@@ -234,7 +234,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23494](https://github.com/conan-io/conan-center-index/pull/23494)|[datalogics-rgailiunas](https://github.com/datalogics-rgailiunas)|Apr 12|:stopwatch: libjpeg|M|0|||
 [#23495](https://github.com/conan-io/conan-center-index/pull/23495)|[toge](https://github.com/toge)|Apr 12|:stopwatch: perfetto|:green_circle: XS|0|||
 [#23496](https://github.com/conan-io/conan-center-index/pull/23496)|[wdobbe](https://github.com/wdobbe)|Apr 12|:stopwatch: wt|:green_circle: XS|0|||
-[#23498](https://github.com/conan-io/conan-center-index/pull/23498)|[adamws](https://github.com/adamws)|Apr 12|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
+[#23498](https://github.com/conan-io/conan-center-index/pull/23498)|[adamws](https://github.com/adamws)|Apr 12|:stopwatch: cyrus-sasl|:green_circle: XS|1|Apr 13||valgur
 [#23500](https://github.com/conan-io/conan-center-index/pull/23500)|[jwillikers](https://github.com/jwillikers)|Apr 12|:stopwatch: libglvnd|:green_circle: XS|0|||
 [#23502](https://github.com/conan-io/conan-center-index/pull/23502)|[Jie-Cheng](https://github.com/Jie-Cheng)|Apr 12|:stopwatch: simdjson|:green_circle: XS|0|||
 
@@ -264,10 +264,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 598
+	- Open: 596
 	- Draft: 59
-	- Average Age: 125 days, 19 hours, and 42.02 minutes
-	- Stop Label: 277
+	- Average Age: 125 days, 5 hours, and 22.65 minutes
+	- Stop Label: 275
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
