@@ -5300,6 +5300,26 @@
       }
    },
    {
+      "Number": 23410,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-04-07T12:14:37Z",
+      "Recipe": "libdatrie",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23410",
+      "LastCommitSHA": "d5944d729d214754c3802b89fdd8b76593972a11",
+      "LastCommitAt": "2024-04-14T10:08:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23416,
       "OpenedBy": "db4",
       "CreatedAt": "2024-04-08T14:08:26Z",
