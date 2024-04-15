@@ -3040,26 +3040,6 @@
       }
    },
    {
-      "Number": 22470,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-20T17:03:03Z",
-      "Recipe": "coin-osi",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22470",
-      "LastCommitSHA": "5dad2786287d9fa94fda2279e83e28e2104fb040",
-      "LastCommitAt": "2024-04-14T17:22:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22539,
       "OpenedBy": "Artalus",
       "CreatedAt": "2024-01-25T10:38:05Z",
