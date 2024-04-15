@@ -4087,15 +4087,20 @@
       "LastCommitAt": "2024-04-02T14:45:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 11,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-01T17:51:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23126#pullrequestreview-1971799251"
+            "SubmittedAt": "2024-04-15T20:35:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23126#pullrequestreview-2002107349"
          },
          "IsBump": false
       }
@@ -4800,6 +4805,36 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2024-04-01T21:21:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23257#pullrequestreview-1972145254"
+         },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23267,
+      "OpenedBy": "dbolduc",
+      "CreatedAt": "2024-03-25T20:59:22Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23267",
+      "LastCommitSHA": "7cc5c054fd753a1515eec73e89c690bca600e839",
+      "LastCommitAt": "2024-04-15T20:28:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-04-15T21:02:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23267#pullrequestreview-2002161617"
          },
          "IsBump": false
       }
