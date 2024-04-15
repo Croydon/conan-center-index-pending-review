@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **244** pull requests currently under way :detective:
+There are **252** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -271,6 +271,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23535](https://github.com/conan-io/conan-center-index/pull/23535)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: coin-cgl|L|0|||
 [#23536](https://github.com/conan-io/conan-center-index/pull/23536)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: coin-cbc|L|0|||
 [#23537](https://github.com/conan-io/conan-center-index/pull/23537)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: gnu-getopt|M|0|||
+[#23538](https://github.com/conan-io/conan-center-index/pull/23538)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 15|:stopwatch: cpython|:green_circle: XS|0|||
+[#23539](https://github.com/conan-io/conan-center-index/pull/23539)|[tkhyn](https://github.com/tkhyn)|Apr 15|:stopwatch: osqp|L|0|||
+[#23540](https://github.com/conan-io/conan-center-index/pull/23540)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-config|M|0|||
+[#23541](https://github.com/conan-io/conan-center-index/pull/23541)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-amd|L|0|||
+[#23542](https://github.com/conan-io/conan-center-index/pull/23542)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-btf|M|0|||
+[#23543](https://github.com/conan-io/conan-center-index/pull/23543)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-camd|L|0|||
+[#23544](https://github.com/conan-io/conan-center-index/pull/23544)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-ccolamd|L|0|||
+[#23545](https://github.com/conan-io/conan-center-index/pull/23545)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-colamd|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -299,9 +307,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 624
-	- Draft: 59
-	- Average Age: 120 days, 18 hours, and 33.74 minutes
+	- Open: 631
+	- Draft: 58
+	- Average Age: 119 days, 10 hours, and 19.10 minutes
 	- Stop Label: 269
 	
 
