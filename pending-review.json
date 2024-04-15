@@ -5780,19 +5780,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23467",
-      "LastCommitSHA": "57bf4cc39a66c0b5e53d749ec09f44b5494e0387",
-      "LastCommitAt": "2024-04-12T08:21:40Z",
+      "LastCommitSHA": "1f61b391a4769f2d0b3087221c76f30701faf5a5",
+      "LastCommitAt": "2024-04-15T02:03:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "dongjoon-hyun",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "dongjoon-hyun",
