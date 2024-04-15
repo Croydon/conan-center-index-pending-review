@@ -6801,5 +6801,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23528,
+      "OpenedBy": "omdxp",
+      "CreatedAt": "2024-04-14T22:52:16Z",
+      "Recipe": "kuliya",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23528",
+      "LastCommitSHA": "7ce22587644babdcbb980c8a6c6f0558fdf2b065",
+      "LastCommitAt": "2024-04-14T22:36:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
