@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **263** pull requests currently under way :detective:
+There are **264** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -290,6 +290,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23566](https://github.com/conan-io/conan-center-index/pull/23566)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 15|:stopwatch: msys2|:green_circle: XS|4|Apr 15|RubenRBS|jwillikers, valgur
 [#23569](https://github.com/conan-io/conan-center-index/pull/23569)|[gegles](https://github.com/gegles)|Apr 16|:stopwatch: boost|L|1|Apr 16||**RubenRBS**
 [#23571](https://github.com/conan-io/conan-center-index/pull/23571)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 16|:stopwatch: qt|:blue_square: S|1|Apr 16||jwillikers
+[#23581](https://github.com/conan-io/conan-center-index/pull/23581)|[toge](https://github.com/toge)|Apr 16|:stopwatch: sqlite3|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -306,7 +307,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#23510](https://github.com/conan-io/conan-center-index/pull/23510)|[mayeut](https://github.com/mayeut)|Apr 13|:warning: fontconfig|4|**RubenRBS**, ericLemanissier
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
 [#23522](https://github.com/conan-io/conan-center-index/pull/23522)|[SSE4](https://github.com/SSE4)|Apr 14|:green_book: docs|3|**RubenRBS**, ericLemanissier
-[#23538](https://github.com/conan-io/conan-center-index/pull/23538)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 15|:warning: cpython|2|**RubenRBS**, valgur
+[#23538](https://github.com/conan-io/conan-center-index/pull/23538)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 15|:warning: cpython|4|**RubenRBS**, valgur, [Ahajha](https://github.com/Ahajha)
 [#23564](https://github.com/conan-io/conan-center-index/pull/23564)|[Croydon](https://github.com/Croydon)|Apr 15|:warning: enet|2|**RubenRBS**, jwillikers
 
 
@@ -316,9 +317,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 641
-	- Draft: 57
-	- Average Age: 119 days, 8 hours, and 24.88 minutes
+	- Open: 644
+	- Draft: 59
+	- Average Age: 118 days, 21 hours, and 3.17 minutes
 	- Stop Label: 271
 	
 
