@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **263** pull requests currently under way :detective:
+There are **264** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -288,6 +288,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23560](https://github.com/conan-io/conan-center-index/pull/23560)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 15|:stopwatch: pkgconf|:blue_square: S|1|Apr 16||jwillikers
 [#23566](https://github.com/conan-io/conan-center-index/pull/23566)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 15|:stopwatch: msys2|:green_circle: XS|4|Apr 15|RubenRBS|jwillikers, valgur
 [#23571](https://github.com/conan-io/conan-center-index/pull/23571)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 16|:stopwatch: qt|:blue_square: S|1|Apr 16||jwillikers
+[#23573](https://github.com/conan-io/conan-center-index/pull/23573)|[jcar87](https://github.com/jcar87)|Apr 16|:stopwatch: protobuf|M|2|Apr 16||**memsharded**
 [#23575](https://github.com/conan-io/conan-center-index/pull/23575)|[jwillikers](https://github.com/jwillikers)|Apr 16|:stopwatch: mold|:blue_square: S|1|Apr 16||**jcar87**
 [#23581](https://github.com/conan-io/conan-center-index/pull/23581)|[toge](https://github.com/toge)|Apr 16|:stopwatch: sqlite3|:green_circle: XS|0|||
 
@@ -317,7 +318,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 644
 	- Draft: 58
-	- Average Age: 119 days, 1 hours, and 59.73 minutes
+	- Average Age: 119 days, 3 hours, and 1.09 minutes
 	- Stop Label: 273
 	
 
