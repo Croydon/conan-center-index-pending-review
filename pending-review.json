@@ -6661,26 +6661,6 @@
       }
    },
    {
-      "Number": 23526,
-      "OpenedBy": "irieger",
-      "CreatedAt": "2024-04-14T20:49:15Z",
-      "Recipe": "avcpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23526",
-      "LastCommitSHA": "a29e066cf1c6a68fcc78ca6af9409debe8448ff1",
-      "LastCommitAt": "2024-04-15T18:40:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23528,
       "OpenedBy": "omdxp",
       "CreatedAt": "2024-04-14T22:52:16Z",
