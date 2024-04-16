@@ -204,7 +204,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23383](https://github.com/conan-io/conan-center-index/pull/23383)|[valgur](https://github.com/valgur)|Apr 5|:memo: libpcap|M|1|Apr 9||jwillikers
 [#23392](https://github.com/conan-io/conan-center-index/pull/23392)|[gouriano](https://github.com/gouriano)|Apr 5|:memo: ncbi-cxx-toolkit-public|XL|0|:eyes:||
 [#23393](https://github.com/conan-io/conan-center-index/pull/23393)|[valgur](https://github.com/valgur)|Apr 5|:memo: onetbb|:blue_square: S|1|Apr 9||jwillikers
-[#23394](https://github.com/conan-io/conan-center-index/pull/23394)|[Ahajha](https://github.com/Ahajha)|Apr 6|:memo: cpython|L|11|Apr 10||jwillikers
+[#23394](https://github.com/conan-io/conan-center-index/pull/23394)|[Ahajha](https://github.com/Ahajha)|Apr 6|:stopwatch: cpython|L|11|Apr 10||jwillikers
 [#23397](https://github.com/conan-io/conan-center-index/pull/23397)|[mayeut](https://github.com/mayeut)|Apr 6|:stopwatch: ffmpeg|:green_circle: XS|2|Apr 11||jwillikers, MartinDelille
 [#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|1|Apr 15||
 [#23409](https://github.com/conan-io/conan-center-index/pull/23409)|[mayeut](https://github.com/mayeut)|Apr 7|:stopwatch: onnxruntime|L|0|:eyes:||
@@ -317,7 +317,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 644
 	- Draft: 58
-	- Average Age: 119 days, and 59.72 minutes
+	- Average Age: 119 days, 1 hours, and 59.73 minutes
 	- Stop Label: 273
 	
 
