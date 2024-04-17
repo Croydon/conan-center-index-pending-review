@@ -3141,7 +3141,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22613",
       "LastCommitSHA": "33cf874a2808524baa45fd4698d9353bf218c926",
       "LastCommitAt": "2024-04-17T01:51:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3390,7 +3390,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22795",
       "LastCommitSHA": "a0b479cad39b9836d7be02b7c0865958d3813533",
       "LastCommitAt": "2024-04-16T19:18:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -6567,31 +6567,6 @@
       }
    },
    {
-      "Number": 23524,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-04-14T16:53:24Z",
-      "Recipe": "reduct-cpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23524",
-      "LastCommitSHA": "2dcfab5ab86602952603ad350f3fe578a63f9473",
-      "LastCommitAt": "2024-04-17T01:55:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-15T16:15:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23524#pullrequestreview-2001539973"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23525,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2024-04-14T18:09:52Z",
@@ -7291,7 +7266,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23573",
       "LastCommitSHA": "ec8725910d0ed71c9d300e4fbc4ffb1135a0f19e",
       "LastCommitAt": "2024-04-16T13:09:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -7376,6 +7351,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23581",
       "LastCommitSHA": "4c374365a3d03bbee23b7ec935eefea306e03eb9",
       "LastCommitAt": "2024-04-16T16:21:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23584,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-17T03:08:35Z",
+      "Recipe": "sfl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23584",
+      "LastCommitSHA": "9c6f7f406427539c356429b0622cfc051fd615b8",
+      "LastCommitAt": "2024-04-17T03:07:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
