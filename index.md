@@ -261,7 +261,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|0|:eyes:||
 [#23633](https://github.com/conan-io/conan-center-index/pull/23633)|[temap](https://github.com/temap)|Apr 18|:stopwatch: libxslt|:green_circle: XS|2|Apr 18||**RubenRBS**
 [#23635](https://github.com/conan-io/conan-center-index/pull/23635)|[toge](https://github.com/toge)|Apr 18|:new: streaming-percentiles|M|1|Apr 18||**RubenRBS**
-[#23644](https://github.com/conan-io/conan-center-index/pull/23644)|[czoido](https://github.com/czoido)|Apr 18|:memo: openjdk|:blue_square: S|0|||
+[#23644](https://github.com/conan-io/conan-center-index/pull/23644)|[czoido](https://github.com/czoido)|Apr 18|:memo: openjdk|:blue_square: S|1|Apr 18||**RubenRBS**
 [#23646](https://github.com/conan-io/conan-center-index/pull/23646)|[datalogics-staylor](https://github.com/datalogics-staylor)|Apr 18|:stopwatch: icu|:green_circle: XS|0|||
 
 
@@ -273,7 +273,7 @@ Currently **5** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23267](https://github.com/conan-io/conan-center-index/pull/23267)|[dbolduc](https://github.com/dbolduc)|Mar 25|:warning: google-cloud-cpp|4|**RubenRBS**, toge
-[#23491](https://github.com/conan-io/conan-center-index/pull/23491)|[yhsng](https://github.com/yhsng)|Apr 12|:warning: minizip-ng|2|**RubenRBS**, toge
+[#23491](https://github.com/conan-io/conan-center-index/pull/23491)|[yhsng](https://github.com/yhsng)|Apr 12|:memo: minizip-ng|2|**RubenRBS**, toge
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
 [#23528](https://github.com/conan-io/conan-center-index/pull/23528)|[omdxp](https://github.com/omdxp)|Apr 14|:warning: kuliya|3|**RubenRBS**, toge
 [#23597](https://github.com/conan-io/conan-center-index/pull/23597)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 17|:warning: qarchive|2|jwillikers, **RubenRBS**
@@ -287,7 +287,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 631
 	- Draft: 53
-	- Average Age: 120 days, 14 hours, and 41.96 minutes
+	- Average Age: 120 days, 15 hours, and 40.43 minutes
 	- Stop Label: 298
 	
 
