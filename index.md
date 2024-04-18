@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **247** pull requests currently under way :detective:
+There are **246** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -241,7 +241,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23545](https://github.com/conan-io/conan-center-index/pull/23545)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-colamd|L|0|||
 [#23546](https://github.com/conan-io/conan-center-index/pull/23546)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-cxsparse|M|0|||
 [#23547](https://github.com/conan-io/conan-center-index/pull/23547)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-klu|M|0|||
-[#23548](https://github.com/conan-io/conan-center-index/pull/23548)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-lagraph|M|0|||
 [#23559](https://github.com/conan-io/conan-center-index/pull/23559)|[valgur](https://github.com/valgur)|Apr 15|:memo: glib|M|1|Apr 17||ericLemanissier
 [#23566](https://github.com/conan-io/conan-center-index/pull/23566)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 15|:stopwatch: msys2|:green_circle: XS|4|Apr 15|RubenRBS|jwillikers, valgur
 [#23582](https://github.com/conan-io/conan-center-index/pull/23582)|[j-carl](https://github.com/j-carl)|Apr 16|:memo: cmake|:blue_square: S|3|Apr 17|jcar87|
@@ -296,8 +295,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 642
 	- Draft: 55
-	- Average Age: 119 days, 3 hours, and 9.29 minutes
-	- Stop Label: 295
+	- Average Age: 119 days, 4 hours, and 0.25 minutes
+	- Stop Label: 296
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
