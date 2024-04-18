@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23465](https://github.com/conan-io/conan-center-index/pull/23465)|[jwillikers](https://github.com/jwillikers)|Apr 10|:memo: raylib|:blue_square: S|0|||
 [#23478](https://github.com/conan-io/conan-center-index/pull/23478)|[kambala-decapitator](https://github.com/kambala-decapitator)|Apr 11|:stopwatch: boost|:green_circle: XS|1|Apr 11||jwillikers
 [#23483](https://github.com/conan-io/conan-center-index/pull/23483)|[MartinDelille](https://github.com/MartinDelille)|Apr 11|:stopwatch: openapi-generator|:green_circle: XS|0|:eyes:||
-[#23484](https://github.com/conan-io/conan-center-index/pull/23484)|[jwillikers](https://github.com/jwillikers)|Apr 11|:stopwatch: cairo|M|0|||
+[#23484](https://github.com/conan-io/conan-center-index/pull/23484)|[jwillikers](https://github.com/jwillikers)|Apr 11|:memo: cairo|M|0|||
 [#23491](https://github.com/conan-io/conan-center-index/pull/23491)|[yhsng](https://github.com/yhsng)|Apr 12|:stopwatch: minizip-ng|:green_circle: XS|1|Apr 17||**RubenRBS**
 [#23496](https://github.com/conan-io/conan-center-index/pull/23496)|[wdobbe](https://github.com/wdobbe)|Apr 12|:stopwatch: wt|:green_circle: XS|0|:eyes:||
 [#23502](https://github.com/conan-io/conan-center-index/pull/23502)|[Jie-Cheng](https://github.com/Jie-Cheng)|Apr 12|:stopwatch: simdjson|:green_circle: XS|0|:eyes:||
@@ -296,7 +296,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 642
 	- Draft: 55
-	- Average Age: 119 days, 2 hours, and 36.74 minutes
+	- Average Age: 119 days, 3 hours, and 9.29 minutes
 	- Stop Label: 295
 	
 
