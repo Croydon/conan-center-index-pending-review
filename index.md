@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **229** pull requests currently under way :detective:
+There are **231** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -238,6 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23540](https://github.com/conan-io/conan-center-index/pull/23540)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: suitesparse-config|M|0|:eyes:||
 [#23559](https://github.com/conan-io/conan-center-index/pull/23559)|[valgur](https://github.com/valgur)|Apr 15|:memo: glib|M|1|Apr 17||ericLemanissier
 [#23566](https://github.com/conan-io/conan-center-index/pull/23566)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 15|:stopwatch: msys2|:green_circle: XS|4|Apr 15|RubenRBS|jwillikers, valgur
+[#23578](https://github.com/conan-io/conan-center-index/pull/23578)|[laci-aura](https://github.com/laci-aura)|Apr 16|:stopwatch: libsodium|:blue_square: S|0|||
 [#23582](https://github.com/conan-io/conan-center-index/pull/23582)|[j-carl](https://github.com/j-carl)|Apr 16|:memo: cmake|:blue_square: S|3|Apr 17|jcar87|
 [#23594](https://github.com/conan-io/conan-center-index/pull/23594)|[uilianries](https://github.com/uilianries)|Apr 17|:gear: .c3i|:blue_square: S|3|Apr 17|jcar87|**RubenRBS**, jwillikers
 [#23595](https://github.com/conan-io/conan-center-index/pull/23595)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 17|:stopwatch: gcc|:green_circle: XS|1|Apr 17||jwillikers
@@ -256,6 +257,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23630](https://github.com/conan-io/conan-center-index/pull/23630)|[toge](https://github.com/toge)|Apr 18|:memo: iowow|:blue_square: S|0|||
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|0|:eyes:||
 [#23635](https://github.com/conan-io/conan-center-index/pull/23635)|[toge](https://github.com/toge)|Apr 18|:new: streaming-percentiles|M|1|Apr 18||**RubenRBS**
+[#23642](https://github.com/conan-io/conan-center-index/pull/23642)|[laci-aura](https://github.com/laci-aura)|Apr 18|:stopwatch: libpsl|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -280,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
 	- Open: 633
-	- Draft: 55
-	- Average Age: 120 days, 9 hours, and 33.80 minutes
-	- Stop Label: 302
+	- Draft: 54
+	- Average Age: 120 days, 5 hours, and 42.38 minutes
+	- Stop Label: 301
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
