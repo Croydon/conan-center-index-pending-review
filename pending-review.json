@@ -5528,40 +5528,6 @@
       }
    },
    {
-      "Number": 23491,
-      "OpenedBy": "yhsng",
-      "CreatedAt": "2024-04-12T08:08:41Z",
-      "Recipe": "minizip-ng",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23491",
-      "LastCommitSHA": "e4c64749bb48f8613ea72aeb6b3dbfa272508b5e",
-      "LastCommitAt": "2024-04-18T15:34:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-04-18T15:24:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23491#pullrequestreview-2009223267"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23496,
       "OpenedBy": "wdobbe",
       "CreatedAt": "2024-04-12T15:01:12Z",
