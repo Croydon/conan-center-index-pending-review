@@ -92,8 +92,8 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17719",
-      "LastCommitSHA": "cfbfa5c59a07372a04c554bc520d59b3950e6d6b",
-      "LastCommitAt": "2024-04-18T09:38:29Z",
+      "LastCommitSHA": "29338329550bc424e7de82138dd74bb4f5f9d3d3",
+      "LastCommitAt": "2024-04-18T10:48:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 14,
@@ -5914,6 +5914,26 @@
       }
    },
    {
+      "Number": 23578,
+      "OpenedBy": "laci-aura",
+      "CreatedAt": "2024-04-16T15:21:03Z",
+      "Recipe": "libsodium",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23578",
+      "LastCommitSHA": "cec80904d2acfc3cd1b63ad6c5565f1dc1fce163",
+      "LastCommitAt": "2024-04-18T10:32:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23582,
       "OpenedBy": "j-carl",
       "CreatedAt": "2024-04-16T20:20:59Z",
@@ -6493,6 +6513,26 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23636#pullrequestreview-2007953061"
          },
          "IsBump": true
+      }
+   },
+   {
+      "Number": 23642,
+      "OpenedBy": "laci-aura",
+      "CreatedAt": "2024-04-18T10:38:29Z",
+      "Recipe": "libpsl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23642",
+      "LastCommitSHA": "41dc055e5210007408ff51c09d02a9e7c1b2ebb7",
+      "LastCommitAt": "2024-04-18T11:07:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
