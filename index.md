@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **230** pull requests currently under way :detective:
+There are **229** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -235,7 +235,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23526](https://github.com/conan-io/conan-center-index/pull/23526)|[irieger](https://github.com/irieger)|Apr 14|:memo: avcpp|M|0|||
 [#23530](https://github.com/conan-io/conan-center-index/pull/23530)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: coin-buildtools|M|0|:eyes:||
 [#23532](https://github.com/conan-io/conan-center-index/pull/23532)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: coin-utils|M|0|:eyes:||
-[#23533](https://github.com/conan-io/conan-center-index/pull/23533)|[valgur](https://github.com/valgur)|Apr 15|:stopwatch: coin-osi|M|0|:eyes:||
 [#23537](https://github.com/conan-io/conan-center-index/pull/23537)|[valgur](https://github.com/valgur)|Apr 15|:new: gnu-getopt|M|1|Apr 17||
 [#23539](https://github.com/conan-io/conan-center-index/pull/23539)|[tkhyn](https://github.com/tkhyn)|Apr 15|:memo: osqp|L|6|Apr 15||
 [#23559](https://github.com/conan-io/conan-center-index/pull/23559)|[valgur](https://github.com/valgur)|Apr 15|:memo: glib|M|1|Apr 17||ericLemanissier
@@ -255,24 +254,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23626](https://github.com/conan-io/conan-center-index/pull/23626)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: xmlsec|:green_circle: XS|0|||
 [#23630](https://github.com/conan-io/conan-center-index/pull/23630)|[toge](https://github.com/toge)|Apr 18|:memo: iowow|:blue_square: S|0|||
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|0|:eyes:||
-[#23635](https://github.com/conan-io/conan-center-index/pull/23635)|[toge](https://github.com/toge)|Apr 18|:new: streaming-percentiles|M|1|Apr 18||**RubenRBS**
+[#23645](https://github.com/conan-io/conan-center-index/pull/23645)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 18|:memo: qcustomplot|M|3|Apr 19||ericLemanissier
 [#23646](https://github.com/conan-io/conan-center-index/pull/23646)|[datalogics-staylor](https://github.com/datalogics-staylor)|Apr 18|:stopwatch: icu|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
 [#23528](https://github.com/conan-io/conan-center-index/pull/23528)|[omdxp](https://github.com/omdxp)|Apr 14|:warning: kuliya|3|**RubenRBS**, toge
-[#23597](https://github.com/conan-io/conan-center-index/pull/23597)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 17|:warning: qarchive|2|jwillikers, **RubenRBS**
-[#23615](https://github.com/conan-io/conan-center-index/pull/23615)|[mayeut](https://github.com/mayeut)|Apr 17|:memo: openfx|1|**RubenRBS**
-[#23616](https://github.com/conan-io/conan-center-index/pull/23616)|[mayeut](https://github.com/mayeut)|Apr 17|:memo: readosm|1|**RubenRBS**
-[#23618](https://github.com/conan-io/conan-center-index/pull/23618)|[mayeut](https://github.com/mayeut)|Apr 17|:memo: libstudxml|1|**RubenRBS**
-[#23633](https://github.com/conan-io/conan-center-index/pull/23633)|[temap](https://github.com/temap)|Apr 18|:memo: libxslt|2|**RubenRBS**
+[#23597](https://github.com/conan-io/conan-center-index/pull/23597)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 17|:warning: qarchive|3|jwillikers, **RubenRBS**, **uilianries**
+[#23635](https://github.com/conan-io/conan-center-index/pull/23635)|[toge](https://github.com/toge)|Apr 18|:new: streaming-percentiles|2|**RubenRBS**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -281,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 625
+	- Open: 621
 	- Draft: 53
-	- Average Age: 121 days, 16 hours, and 25.96 minutes
+	- Average Age: 122 days, 12 hours, and 4.78 minutes
 	- Stop Label: 292
 	
 
