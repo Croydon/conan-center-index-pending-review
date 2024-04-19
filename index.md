@@ -237,7 +237,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23654](https://github.com/conan-io/conan-center-index/pull/23654)|[robomics](https://github.com/robomics)|Apr 19|:memo: libarchive|:green_circle: XS|0|||
 [#23656](https://github.com/conan-io/conan-center-index/pull/23656)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 19|:stopwatch: kdbindings|:green_circle: XS|0|||
 [#23657](https://github.com/conan-io/conan-center-index/pull/23657)|[FannoFlow1](https://github.com/FannoFlow1)|Apr 19|:stopwatch: fast-dds|:blue_square: S|0|||
-[#23658](https://github.com/conan-io/conan-center-index/pull/23658)|[valgur](https://github.com/valgur)|Apr 19|:stopwatch: annoy|M|0|||
+[#23659](https://github.com/conan-io/conan-center-index/pull/23659)|[kambala-decapitator](https://github.com/kambala-decapitator)|Apr 19|:stopwatch: qt|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -256,10 +256,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 592
+	- Open: 593
 	- Draft: 52
-	- Average Age: 125 days, 4 hours, and 19.07 minutes
-	- Stop Label: 286
+	- Average Age: 125 days, and 18.10 minutes
+	- Stop Label: 287
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
