@@ -3567,31 +3567,6 @@
       }
    },
    {
-      "Number": 22991,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-03-05T18:47:21Z",
-      "Recipe": "pipewire",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22991",
-      "LastCommitSHA": "20b8d595b181665d3843cf1dc74c8577f197b8b2",
-      "LastCommitAt": "2024-04-15T18:22:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-26T07:49:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22991#pullrequestreview-1959549243"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22994,
       "OpenedBy": "irieger",
       "CreatedAt": "2024-03-05T19:31:36Z",
