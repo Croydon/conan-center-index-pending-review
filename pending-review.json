@@ -4660,7 +4660,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23361",
       "LastCommitSHA": "7e355bc44d59a69c8941b49b896531193de853df",
       "LastCommitAt": "2024-04-12T13:47:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -5573,15 +5573,25 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23612",
-      "LastCommitSHA": "54d24b3e93ba89f01531b2d1a2f805b457c91760",
-      "LastCommitAt": "2024-04-17T21:06:37Z",
+      "LastCommitSHA": "86adb84d36b138874d286e91a9846075deaf07ff",
+      "LastCommitAt": "2024-04-19T16:00:20Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "Ahajha",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Ahajha",
+            "SubmittedAt": "2024-04-19T16:05:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23612#pullrequestreview-2011838722"
+         },
          "IsBump": false
       }
    },
@@ -5815,6 +5825,46 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23654",
       "LastCommitSHA": "483018be0be28209357a479ff503de48184cd37a",
       "LastCommitAt": "2024-04-19T14:59:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23656,
+      "OpenedBy": "TheHugeManatee",
+      "CreatedAt": "2024-04-19T16:14:41Z",
+      "Recipe": "kdbindings",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23656",
+      "LastCommitSHA": "45efb12c1487d95aab61108badfe5c6294a27d00",
+      "LastCommitAt": "2024-04-19T16:13:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23657,
+      "OpenedBy": "FannoFlow1",
+      "CreatedAt": "2024-04-19T16:14:51Z",
+      "Recipe": "fast-dds",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23657",
+      "LastCommitSHA": "e87281e90a1ed5ac54d28a4f409ec5d50c497b8f",
+      "LastCommitAt": "2024-04-19T15:57:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
