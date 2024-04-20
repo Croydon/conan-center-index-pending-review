@@ -235,7 +235,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23668](https://github.com/conan-io/conan-center-index/pull/23668)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#23669](https://github.com/conan-io/conan-center-index/pull/23669)|[mayeut](https://github.com/mayeut)|Apr 20|:memo: aravis|M|0|||
 [#23680](https://github.com/conan-io/conan-center-index/pull/23680)|[valgur](https://github.com/valgur)|Apr 20|:memo: flac|:blue_square: S|0|||
-[#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:stopwatch: libssh2|M|0|||
+[#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:memo: libssh2|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -257,7 +257,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 599
 	- Draft: 53
-	- Average Age: 123 days, 15 hours, and 39.22 minutes
+	- Average Age: 123 days, 16 hours, and 33.25 minutes
 	- Stop Label: 293
 	
 
