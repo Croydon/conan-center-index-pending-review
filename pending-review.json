@@ -5868,5 +5868,45 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23669,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-04-20T10:15:40Z",
+      "Recipe": "aravis",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23669",
+      "LastCommitSHA": "46f902d852ed1b6bff6780712a37498150b04922",
+      "LastCommitAt": "2024-04-20T10:14:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23670,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-04-20T10:39:51Z",
+      "Recipe": "tmx",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23670",
+      "LastCommitSHA": "45847294392e6ce2c8f81b6367424b792d6dadd4",
+      "LastCommitAt": "2024-04-20T10:38:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
