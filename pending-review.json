@@ -2723,6 +2723,36 @@
       }
    },
    {
+      "Number": 22353,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-15T14:21:11Z",
+      "Recipe": "llvm-openmp",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22353",
+      "LastCommitSHA": "879a9c7e704639b3a143e57c4df935dba7aec2cb",
+      "LastCommitAt": "2024-04-16T13:14:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-16T13:18:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22353#pullrequestreview-2003615048"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22406,
       "OpenedBy": "st9007a",
       "CreatedAt": "2024-01-17T13:26:12Z",
@@ -4480,7 +4510,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23304",
       "LastCommitSHA": "f18e6d57c7773eccb267b2f7cd95c56ba1ee5668",
       "LastCommitAt": "2024-04-20T01:55:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
