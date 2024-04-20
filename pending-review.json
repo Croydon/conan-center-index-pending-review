@@ -5612,20 +5612,24 @@
       "LastCommitAt": "2024-04-18T15:19:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-20T00:05:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23630#pullrequestreview-2012827404"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-04-20T07:09:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23630#pullrequestreview-2013044653"
          },
          "IsBump": false
       }
