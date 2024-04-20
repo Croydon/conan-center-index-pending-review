@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -233,7 +233,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23653](https://github.com/conan-io/conan-center-index/pull/23653)|[robomics](https://github.com/robomics)|Apr 19|:stopwatch: boost|:green_circle: XS|0|||
 [#23654](https://github.com/conan-io/conan-center-index/pull/23654)|[robomics](https://github.com/robomics)|Apr 19|:memo: libarchive|:green_circle: XS|0|||
 [#23656](https://github.com/conan-io/conan-center-index/pull/23656)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 19|:stopwatch: kdbindings|:green_circle: XS|0|||
-[#23657](https://github.com/conan-io/conan-center-index/pull/23657)|[FannoFlow1](https://github.com/FannoFlow1)|Apr 19|:stopwatch: fast-dds|:blue_square: S|0|||
 [#23658](https://github.com/conan-io/conan-center-index/pull/23658)|[valgur](https://github.com/valgur)|Apr 19|:new: annoy|M|1|Apr 20||**RubenRBS**
 [#23663](https://github.com/conan-io/conan-center-index/pull/23663)|[trns1997](https://github.com/trns1997)|Apr 19|:stopwatch: azure-sdk-for-cpp|M|0|||
 
@@ -256,7 +255,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 595
 	- Draft: 52
-	- Average Age: 124 days, 20 hours, and 47.46 minutes
+	- Average Age: 124 days, 20 hours, and 52.68 minutes
 	- Stop Label: 291
 	
 
