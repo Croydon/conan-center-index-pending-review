@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -196,7 +196,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23397](https://github.com/conan-io/conan-center-index/pull/23397)|[mayeut](https://github.com/mayeut)|Apr 6|:stopwatch: ffmpeg|:green_circle: XS|2|Apr 11||jwillikers, MartinDelille
 [#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|1|Apr 15||
 [#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|:eyes:||
-[#23434](https://github.com/conan-io/conan-center-index/pull/23434)|[valgur](https://github.com/valgur)|Apr 9|:memo: implot|:blue_square: S|2|Apr 20||**RubenRBS**
 [#23459](https://github.com/conan-io/conan-center-index/pull/23459)|[db4](https://github.com/db4)|Apr 10|:memo: nng|:green_circle: XS|1|Apr 15||
 [#23461](https://github.com/conan-io/conan-center-index/pull/23461)|[valgur](https://github.com/valgur)|Apr 10|:new: djvulibre|L|1|Apr 15||
 [#23481](https://github.com/conan-io/conan-center-index/pull/23481)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 11|:memo: mingw-builds|M|1|Apr 17||
@@ -256,9 +255,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
 	- Open: 599
-	- Draft: 53
-	- Average Age: 123 days, 16 hours, and 33.25 minutes
-	- Stop Label: 293
+	- Draft: 52
+	- Average Age: 123 days, 17 hours, and 8.04 minutes
+	- Stop Label: 295
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
