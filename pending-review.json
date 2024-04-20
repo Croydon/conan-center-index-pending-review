@@ -5659,15 +5659,20 @@
       "LastCommitAt": "2024-04-20T14:00:14Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-20T00:54:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23657#pullrequestreview-2012895790"
+            "SubmittedAt": "2024-04-20T22:31:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23657#pullrequestreview-2013185406"
          },
          "IsBump": false
       }
@@ -5772,6 +5777,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23669",
       "LastCommitSHA": "46f902d852ed1b6bff6780712a37498150b04922",
       "LastCommitAt": "2024-04-20T10:14:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23671,
+      "OpenedBy": "laci-aura",
+      "CreatedAt": "2024-04-20T11:11:14Z",
+      "Recipe": "zxcvbn",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23671",
+      "LastCommitSHA": "619b058879e0a1c21ad5badef8cf99aca2ccfd7e",
+      "LastCommitAt": "2024-04-20T21:45:07Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
