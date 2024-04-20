@@ -5737,26 +5737,6 @@
       }
    },
    {
-      "Number": 23664,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2024-04-20T04:10:08Z",
-      "Recipe": "materialx",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23664",
-      "LastCommitSHA": "ae25cd5aedc0de872e66de62f7babf127f14b6fc",
-      "LastCommitAt": "2024-04-20T13:45:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23665,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-04-20T07:26:40Z",
@@ -5887,26 +5867,6 @@
       }
    },
    {
-      "Number": 23681,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-04-20T14:54:07Z",
-      "Recipe": "octo-logger-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23681",
-      "LastCommitSHA": "fd86a81b1b5cc139f0268957a062d14f7193c47c",
-      "LastCommitAt": "2024-04-20T14:53:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": true
-      }
-   },
-   {
       "Number": 23682,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-20T14:59:23Z",
@@ -5918,11 +5878,21 @@
       "LastCommitAt": "2024-04-20T14:58:52Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-04-20T16:49:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23682#pullrequestreview-2013116865"
+         },
          "IsBump": false
       }
    }
