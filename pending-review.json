@@ -5709,8 +5709,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23657",
-      "LastCommitSHA": "e45feaf98b84fd9267b32409b57ad2e266aff611",
-      "LastCommitAt": "2024-04-20T13:13:04Z",
+      "LastCommitSHA": "37051db6615ca55af7e503dc73e7f6f38b7c8873",
+      "LastCommitAt": "2024-04-20T14:00:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -5904,6 +5904,46 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 23676,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-04-20T12:31:23Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23676",
+      "LastCommitSHA": "b2551c99821c1dd50d8d57068c8870c4e5016cb4",
+      "LastCommitAt": "2024-04-20T12:50:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23678,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-04-20T13:49:50Z",
+      "Recipe": "libkml",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23678",
+      "LastCommitSHA": "c2ccc777e9c6f19233bb47c1d54cf7dbec0713f0",
+      "LastCommitAt": "2024-04-20T13:50:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
