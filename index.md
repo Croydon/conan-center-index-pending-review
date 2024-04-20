@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **211** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -236,6 +236,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23666](https://github.com/conan-io/conan-center-index/pull/23666)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libxmlpp|:green_circle: XS|0|||
 [#23667](https://github.com/conan-io/conan-center-index/pull/23667)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libspatialite|:green_circle: XS|0|||
 [#23668](https://github.com/conan-io/conan-center-index/pull/23668)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libgphoto2|:green_circle: XS|0|||
+[#23669](https://github.com/conan-io/conan-center-index/pull/23669)|[mayeut](https://github.com/mayeut)|Apr 20|:memo: aravis|M|0|||
+[#23670](https://github.com/conan-io/conan-center-index/pull/23670)|[mayeut](https://github.com/mayeut)|Apr 20|:memo: tmx|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -255,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 593
+	- Open: 595
 	- Draft: 53
-	- Average Age: 125 days, 2 hours, and 4.51 minutes
+	- Average Age: 124 days, 16 hours, and 55.62 minutes
 	- Stop Label: 287
 	
 
