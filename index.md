@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **210** pull requests currently under way :detective:
+There are **212** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -230,25 +230,26 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23654](https://github.com/conan-io/conan-center-index/pull/23654)|[robomics](https://github.com/robomics)|Apr 19|:memo: libarchive|:green_circle: XS|0|||
 [#23656](https://github.com/conan-io/conan-center-index/pull/23656)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 19|:stopwatch: kdbindings|:green_circle: XS|0|||
 [#23657](https://github.com/conan-io/conan-center-index/pull/23657)|[FannoFlow1](https://github.com/FannoFlow1)|Apr 19|:stopwatch: fast-dds|:green_circle: XS|1|Apr 20||
+[#23664](https://github.com/conan-io/conan-center-index/pull/23664)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Apr 20|:stopwatch: materialx|L|0|||
 [#23665](https://github.com/conan-io/conan-center-index/pull/23665)|[mayeut](https://github.com/mayeut)|Apr 20|:memo: libkml|:blue_square: S|0|||
 [#23666](https://github.com/conan-io/conan-center-index/pull/23666)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libxmlpp|:green_circle: XS|0|||
 [#23667](https://github.com/conan-io/conan-center-index/pull/23667)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libspatialite|:green_circle: XS|1|Apr 20||jwillikers
 [#23668](https://github.com/conan-io/conan-center-index/pull/23668)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#23669](https://github.com/conan-io/conan-center-index/pull/23669)|[mayeut](https://github.com/mayeut)|Apr 20|:memo: aravis|M|0|||
-[#23681](https://github.com/conan-io/conan-center-index/pull/23681)|[toge](https://github.com/toge)|Apr 20|:stopwatch: octo-logger-cpp|:green_circle: XS|0|||
+[#23680](https://github.com/conan-io/conan-center-index/pull/23680)|[valgur](https://github.com/valgur)|Apr 20|:memo: flac|:blue_square: S|0|||
+[#23681](https://github.com/conan-io/conan-center-index/pull/23681)|[toge](https://github.com/toge)|Apr 20|:memo: octo-logger-cpp|:green_circle: XS|0|||
 [#23682](https://github.com/conan-io/conan-center-index/pull/23682)|[toge](https://github.com/toge)|Apr 20|:stopwatch: rocksdb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23507](https://github.com/conan-io/conan-center-index/pull/23507)|[mayeut](https://github.com/mayeut)|Apr 13|:warning: cairomm|2|jwillikers, **RubenRBS**
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
-[#23670](https://github.com/conan-io/conan-center-index/pull/23670)|[mayeut](https://github.com/mayeut)|Apr 20|:warning: tmx|2|**RubenRBS**, valgur
 
 
 #### :clipboard: Statistics
@@ -257,10 +258,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 602
-	- Draft: 54
-	- Average Age: 123 days, 3 hours, and 36.24 minutes
-	- Stop Label: 294
+	- Open: 601
+	- Draft: 53
+	- Average Age: 123 days, 9 hours, and 33.58 minutes
+	- Stop Label: 293
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
