@@ -5588,6 +5588,26 @@
       }
    },
    {
+      "Number": 23648,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-04-19T02:02:36Z",
+      "Recipe": "cpython",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23648",
+      "LastCommitSHA": "2121706eb36044518ddc7ceeaf95d9cf4eb4f361",
+      "LastCommitAt": "2024-04-21T01:49:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23653,
       "OpenedBy": "robomics",
       "CreatedAt": "2024-04-19T14:45:47Z",
