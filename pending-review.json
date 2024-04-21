@@ -3013,7 +3013,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22613",
       "LastCommitSHA": "33cf874a2808524baa45fd4698d9353bf218c926",
       "LastCommitAt": "2024-04-17T01:51:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5029,7 +5029,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23521",
       "LastCommitSHA": "a274f60cec51fefa08439b935712d8297cabf282",
       "LastCommitAt": "2024-04-21T10:57:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5687,31 +5687,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2024-04-21T07:33:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23657#pullrequestreview-2013339986"
-         },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23664,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2024-04-20T04:10:08Z",
-      "Recipe": "materialx",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23664",
-      "LastCommitSHA": "0520e1ff9da335b9e4f64cc5ccb0e02360f8e796",
-      "LastCommitAt": "2024-04-21T10:19:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-20T17:01:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23664#pullrequestreview-2013118213"
          },
          "IsBump": false
       }
