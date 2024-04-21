@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **212** pull requests currently under way :detective:
+There are **211** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|3|Apr 18||
 [#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|1|Dec 7 :bell:|uilianries|
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|14|Apr 9|RubenRBS|**uilianries**, valgur
-[#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:memo: protobuf|L|0|||
+[#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:memo: protobuf|L|0|:eyes:||
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|5|Mar 24 :bell:||jwillikers, valgur
 [#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:memo: mongo-c-driver|L|4|Apr 3 :bell:||jwillikers
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|3|Apr 18|danimtb|jwillikers
@@ -194,7 +194,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23393](https://github.com/conan-io/conan-center-index/pull/23393)|[valgur](https://github.com/valgur)|Apr 5|:memo: onetbb|:blue_square: S|1|Apr 9||jwillikers
 [#23394](https://github.com/conan-io/conan-center-index/pull/23394)|[Ahajha](https://github.com/Ahajha)|Apr 6|:memo: cpython|L|11|Apr 10||jwillikers
 [#23397](https://github.com/conan-io/conan-center-index/pull/23397)|[mayeut](https://github.com/mayeut)|Apr 6|:stopwatch: ffmpeg|:green_circle: XS|2|Apr 11||jwillikers, MartinDelille
-[#23404](https://github.com/conan-io/conan-center-index/pull/23404)|[pierricgimmig](https://github.com/pierricgimmig)|Apr 6|:stopwatch: llvm-core|:green_circle: XS|1|Apr 15||
 [#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|:eyes:||
 [#23459](https://github.com/conan-io/conan-center-index/pull/23459)|[db4](https://github.com/db4)|Apr 10|:memo: nng|:green_circle: XS|1|Apr 15||
 [#23461](https://github.com/conan-io/conan-center-index/pull/23461)|[valgur](https://github.com/valgur)|Apr 10|:new: djvulibre|L|1|Apr 15||
@@ -258,10 +257,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 600
+	- Open: 601
 	- Draft: 52
-	- Average Age: 123 days, 19 hours, and 11.63 minutes
-	- Stop Label: 292
+	- Average Age: 123 days, 17 hours, and 19.25 minutes
+	- Stop Label: 294
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
