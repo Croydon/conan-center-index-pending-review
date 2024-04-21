@@ -5692,31 +5692,6 @@
       }
    },
    {
-      "Number": 23664,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2024-04-20T04:10:08Z",
-      "Recipe": "materialx",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23664",
-      "LastCommitSHA": "a5cc8ebfe41b0c160a44c706add62db931d6e114",
-      "LastCommitAt": "2024-04-21T12:06:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-20T17:01:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23664#pullrequestreview-2013118213"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23665,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-04-20T07:26:40Z",
