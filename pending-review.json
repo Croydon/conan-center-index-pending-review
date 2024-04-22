@@ -6028,31 +6028,28 @@
       }
    },
    {
-      "Number": 23700,
-      "OpenedBy": "deniskovalchuk",
-      "CreatedAt": "2024-04-22T11:20:36Z",
-      "Recipe": "libftp",
+      "Number": 23697,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-22T06:49:48Z",
+      "Recipe": "opentelemetry-cpp",
       "Change": 1,
       "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23700",
-      "LastCommitSHA": "441e91eeca93fcd30e3909e237b1e4f7367b079b",
-      "LastCommitAt": "2024-04-22T10:31:17Z",
-      "CciBotPassed": false,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23697",
+      "LastCommitSHA": "12f64f3a288c0d5856cc7e61812181fa04319fac",
+      "LastCommitAt": "2024-04-22T16:58:41Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
+         "Approvals": null,
+         "Blockers": [
+            "RubenRBS"
          ],
-         "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-04-22T11:33:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23700#pullrequestreview-2014512794"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-04-22T10:49:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23697#pullrequestreview-2014428524"
          },
          "IsBump": false
       }
@@ -6067,14 +6064,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23703",
       "LastCommitSHA": "552c564fd1d85d8fec729ecc7548a2104b29b2ea",
       "LastCommitAt": "2024-04-22T17:04:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
