@@ -4960,9 +4960,9 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23481",
-      "LastCommitSHA": "dbf7b06d5e20914a925b18a0c92498dd8e37c1f9",
-      "LastCommitAt": "2024-04-19T19:08:10Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f3a4822325613077c746ed49d69b4214abdcf76d",
+      "LastCommitAt": "2024-04-22T18:56:38Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5272,24 +5272,28 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23560",
-      "LastCommitSHA": "4b9c8be1e2f3afabbd975a65352d9919f5fe6046",
-      "LastCommitAt": "2024-04-22T15:56:20Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bb753949f678bcc6605344fc3a8091d9ea36474e",
+      "LastCommitAt": "2024-04-22T18:57:47Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jcar87",
                "Tier": "team"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2024-04-22T16:26:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23560#pullrequestreview-2015266861"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-22T19:02:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23560#pullrequestreview-2015597168"
          },
          "IsBump": false
       }
