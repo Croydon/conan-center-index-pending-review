@@ -2735,7 +2735,7 @@
       "LastCommitAt": "2024-04-21T10:05:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -2746,9 +2746,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-04-21T14:50:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22353#pullrequestreview-2013455444"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-04-22T06:23:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22353#pullrequestreview-2013849600"
          },
          "IsBump": false
       }
@@ -5690,8 +5690,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23656",
-      "LastCommitSHA": "45efb12c1487d95aab61108badfe5c6294a27d00",
-      "LastCommitAt": "2024-04-19T16:13:07Z",
+      "LastCommitSHA": "d0b1fb8dd9cb7ccf2527d0293ffd4560d136e7df",
+      "LastCommitAt": "2024-04-22T07:07:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -6048,6 +6048,26 @@
             "SubmittedAt": "2024-04-21T21:54:06Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23693#pullrequestreview-2013529166"
          },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23697,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-22T06:49:48Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23697",
+      "LastCommitSHA": "b56302ffb77709bd21705c49756652af5b2744bf",
+      "LastCommitAt": "2024-04-22T06:46:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
          "IsBump": false
       }
    }
