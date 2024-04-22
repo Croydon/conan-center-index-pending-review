@@ -3075,15 +3075,20 @@
       "LastCommitAt": "2024-04-19T11:17:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-04-19T08:31:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22614#pullrequestreview-2010846191"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-04-22T05:44:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22614#pullrequestreview-2013801550"
          },
          "IsBump": false
       }
@@ -3549,15 +3554,20 @@
       "LastCommitAt": "2024-04-02T15:10:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-25T14:10:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22974#pullrequestreview-1957859620"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-04-22T05:41:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22974#pullrequestreview-2013798660"
          },
          "IsBump": false
       }
