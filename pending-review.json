@@ -6058,35 +6058,5 @@
          },
          "IsBump": false
       }
-   },
-   {
-      "Number": 23703,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-04-22T17:05:45Z",
-      "Recipe": "nng",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23703",
-      "LastCommitSHA": "552c564fd1d85d8fec729ecc7548a2104b29b2ea",
-      "LastCommitAt": "2024-04-22T17:04:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-22T20:57:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23703#pullrequestreview-2015791972"
-         },
-         "IsBump": true
-      }
    }
 ]
