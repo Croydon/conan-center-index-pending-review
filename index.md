@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **219** pull requests currently under way :detective:
+There are **218** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -237,7 +237,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:memo: libssh2|M|0|:eyes:||
 [#23688](https://github.com/conan-io/conan-center-index/pull/23688)|[valgur](https://github.com/valgur)|Apr 21|:memo: imguizmo|:blue_square: S|0|||
 [#23696](https://github.com/conan-io/conan-center-index/pull/23696)|[toge](https://github.com/toge)|Apr 22|:memo: oatpp|L|1|Apr 22||
-[#23697](https://github.com/conan-io/conan-center-index/pull/23697)|[toge](https://github.com/toge)|Apr 22|:memo: opentelemetry-cpp|:blue_square: S|2|Apr 22|RubenRBS|
 [#23715](https://github.com/conan-io/conan-center-index/pull/23715)|[RubenRBS](https://github.com/RubenRBS)|Apr 23|:memo: box2d|:blue_square: S|1|Apr 23||**czoido**
 [#23716](https://github.com/conan-io/conan-center-index/pull/23716)|[ErniGH](https://github.com/ErniGH)|Apr 23|:memo: libjpeg-turbo|L|1|Apr 23||**RubenRBS**
 [#23717](https://github.com/conan-io/conan-center-index/pull/23717)|[ErniGH](https://github.com/ErniGH)|Apr 23|:memo: mozjpeg|L|1|Apr 23||**RubenRBS**
@@ -245,7 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23725](https://github.com/conan-io/conan-center-index/pull/23725)|[jwillikers](https://github.com/jwillikers)|Apr 23|:memo: libdrm|:green_circle: XS|1|Apr 23||**RubenRBS**
 [#23730](https://github.com/conan-io/conan-center-index/pull/23730)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: matio|:blue_square: S|2|Apr 23||**RubenRBS**
 [#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|||
-[#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:stopwatch: assimp|:blue_square: S|0|||
+[#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:memo: assimp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -266,7 +265,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 601
 	- Draft: 53
-	- Average Age: 124 days, 8 hours, and 43.50 minutes
+	- Average Age: 124 days, 9 hours, and 42.09 minutes
 	- Stop Label: 285
 	
 
