@@ -4641,8 +4641,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23361",
-      "LastCommitSHA": "7e355bc44d59a69c8941b49b896531193de853df",
-      "LastCommitAt": "2024-04-12T13:47:35Z",
+      "LastCommitSHA": "40230fa57f4e943936eab5409db6f712a0abc6a8",
+      "LastCommitAt": "2024-04-23T00:12:02Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
@@ -6081,6 +6081,46 @@
             "SubmittedAt": "2024-04-22T11:33:31Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23700#pullrequestreview-2014512794"
          },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23707,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-23T00:41:26Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23707",
+      "LastCommitSHA": "6b25e93a95536323e5d02a0699d79db3d0053124",
+      "LastCommitAt": "2024-04-23T00:40:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23708,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-23T00:52:01Z",
+      "Recipe": "jsoncons",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23708",
+      "LastCommitSHA": "d929b2b5424b6492bf08235272fa3b5af815b67c",
+      "LastCommitAt": "2024-04-23T00:50:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
          "IsBump": false
       }
    }
