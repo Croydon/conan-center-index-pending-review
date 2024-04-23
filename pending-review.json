@@ -5804,7 +5804,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23696",
       "LastCommitSHA": "f899e8c5110c5268f37fb17cf0defdd7b10c5afb",
       "LastCommitAt": "2024-04-23T17:53:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5842,36 +5842,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2024-04-22T10:49:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23697#pullrequestreview-2014428524"
-         },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23712,
-      "OpenedBy": "ErniGH",
-      "CreatedAt": "2024-04-23T10:25:53Z",
-      "Recipe": "libjpeg",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23712",
-      "LastCommitSHA": "080e2671a8590a4a17a8c87256c20ec6d97f246f",
-      "LastCommitAt": "2024-04-23T13:53:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-23T14:41:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23712#pullrequestreview-2017475240"
          },
          "IsBump": false
       }
