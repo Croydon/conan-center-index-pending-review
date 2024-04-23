@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **221** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -244,21 +244,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23690](https://github.com/conan-io/conan-center-index/pull/23690)|[toge](https://github.com/toge)|Apr 21|:new: jnk0le_ringbuffer|M|0|||
 [#23691](https://github.com/conan-io/conan-center-index/pull/23691)|[valgur](https://github.com/valgur)|Apr 21|:new: mlpack|M|1|Apr 22|RubenRBS|
 [#23697](https://github.com/conan-io/conan-center-index/pull/23697)|[toge](https://github.com/toge)|Apr 22|:memo: opentelemetry-cpp|:blue_square: S|2|Apr 22|RubenRBS|
-[#23700](https://github.com/conan-io/conan-center-index/pull/23700)|[deniskovalchuk](https://github.com/deniskovalchuk)|Apr 22|:memo: libftp|:green_circle: XS|1|Apr 22||
-[#23707](https://github.com/conan-io/conan-center-index/pull/23707)|[toge](https://github.com/toge)|Apr 23|:memo: glaze|:green_circle: XS|0|||
-[#23708](https://github.com/conan-io/conan-center-index/pull/23708)|[toge](https://github.com/toge)|Apr 23|:memo: jsoncons|:green_circle: XS|0|||
+[#23700](https://github.com/conan-io/conan-center-index/pull/23700)|[deniskovalchuk](https://github.com/deniskovalchuk)|Apr 22|:memo: libftp|:green_circle: XS|2|Apr 23||**RubenRBS**
 [#23710](https://github.com/conan-io/conan-center-index/pull/23710)|[toge](https://github.com/toge)|Apr 23|:stopwatch: xmlsec|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23507](https://github.com/conan-io/conan-center-index/pull/23507)|[mayeut](https://github.com/mayeut)|Apr 13|:warning: cairomm|2|jwillikers, **RubenRBS**
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
+[#23708](https://github.com/conan-io/conan-center-index/pull/23708)|[toge](https://github.com/toge)|Apr 23|:memo: jsoncons|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -267,10 +266,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 606
+	- Open: 605
 	- Draft: 53
-	- Average Age: 123 days, 3 hours, and 32.22 minutes
-	- Stop Label: 288
+	- Average Age: 123 days, 13 hours, and 13.48 minutes
+	- Stop Label: 289
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
