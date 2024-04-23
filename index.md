@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **220** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -245,6 +245,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23691](https://github.com/conan-io/conan-center-index/pull/23691)|[valgur](https://github.com/valgur)|Apr 21|:new: mlpack|M|1|Apr 22|RubenRBS|
 [#23697](https://github.com/conan-io/conan-center-index/pull/23697)|[toge](https://github.com/toge)|Apr 22|:memo: opentelemetry-cpp|:blue_square: S|2|Apr 22|RubenRBS|
 [#23700](https://github.com/conan-io/conan-center-index/pull/23700)|[deniskovalchuk](https://github.com/deniskovalchuk)|Apr 22|:memo: libftp|:green_circle: XS|1|Apr 22||
+[#23707](https://github.com/conan-io/conan-center-index/pull/23707)|[toge](https://github.com/toge)|Apr 23|:memo: glaze|:green_circle: XS|0|||
+[#23708](https://github.com/conan-io/conan-center-index/pull/23708)|[toge](https://github.com/toge)|Apr 23|:stopwatch: jsoncons|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -264,9 +266,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 602
+	- Open: 604
 	- Draft: 53
-	- Average Age: 123 days, 19 hours, and 58.28 minutes
+	- Average Age: 123 days, 11 hours, and 46.43 minutes
 	- Stop Label: 287
 	
 
