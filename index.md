@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23607](https://github.com/conan-io/conan-center-index/pull/23607)|[Arenoros](https://github.com/Arenoros)|Apr 17|:stopwatch: lief|M|0|:eyes:||
 [#23612](https://github.com/conan-io/conan-center-index/pull/23612)|[basiliscos](https://github.com/basiliscos)|Apr 17|:memo: util-linux-libuuid|:green_circle: XS|2|Apr 20||[Ahajha](https://github.com/Ahajha)
 [#23614](https://github.com/conan-io/conan-center-index/pull/23614)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: log4cxx|:green_circle: XS|0|:eyes:||
-[#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
+[#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|L|0|||
 [#23626](https://github.com/conan-io/conan-center-index/pull/23626)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
 [#23639](https://github.com/conan-io/conan-center-index/pull/23639)|[HappySeaFox](https://github.com/HappySeaFox)|Apr 18|:memo: sail|:green_circle: XS|0|:eyes:||
 [#23645](https://github.com/conan-io/conan-center-index/pull/23645)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 18|:memo: qcustomplot|M|7|Apr 20||ericLemanissier
@@ -245,11 +245,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23738](https://github.com/conan-io/conan-center-index/pull/23738)|[X1aomu](https://github.com/X1aomu)|Apr 24|:memo: zeus_expected|:blue_square: S|0|||
 [#23739](https://github.com/conan-io/conan-center-index/pull/23739)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: libvault|L|1|Apr 24||Croydon
 [#23742](https://github.com/conan-io/conan-center-index/pull/23742)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 24|:memo: glm|M|2|Apr 24||valgur, jwillikers
-[#23747](https://github.com/conan-io/conan-center-index/pull/23747)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: fmt|:blue_square: S|0|||
-[#23748](https://github.com/conan-io/conan-center-index/pull/23748)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: freetype|:blue_square: S|0|||
+[#23747](https://github.com/conan-io/conan-center-index/pull/23747)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: fmt|:blue_square: S|1|Apr 24||jwillikers
+[#23748](https://github.com/conan-io/conan-center-index/pull/23748)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: freetype|:blue_square: S|1|Apr 24||jwillikers
 [#23749](https://github.com/conan-io/conan-center-index/pull/23749)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: luajit|:blue_square: S|0|||
 [#23750](https://github.com/conan-io/conan-center-index/pull/23750)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: opencolorio|L|0|||
-[#23751](https://github.com/conan-io/conan-center-index/pull/23751)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: zlib|:blue_square: S|0|||
+[#23751](https://github.com/conan-io/conan-center-index/pull/23751)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: zlib|:blue_square: S|1|Apr 24||jwillikers
 [#23752](https://github.com/conan-io/conan-center-index/pull/23752)|[ErniGH](https://github.com/ErniGH)|Apr 24|:memo: opus|L|0|||
 [#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|||
 
@@ -272,7 +272,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 608
 	- Draft: 54
-	- Average Age: 123 days, 14 hours, and 57.83 minutes
+	- Average Age: 123 days, 16 hours, and 55.39 minutes
 	- Stop Label: 286
 	
 
