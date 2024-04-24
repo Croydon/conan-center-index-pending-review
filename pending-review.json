@@ -5373,10 +5373,10 @@
       "CreatedAt": "2024-04-17T22:36:18Z",
       "Recipe": "opencolorio",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23621",
-      "LastCommitSHA": "6ece6cc595603ec739b8638b87b20cd9b169c152",
-      "LastCommitAt": "2024-04-17T22:34:21Z",
+      "LastCommitSHA": "e21a94df98367062202fab0d2f81a088bcececd3",
+      "LastCommitAt": "2024-04-24T20:11:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -6015,11 +6015,21 @@
       "LastCommitAt": "2024-04-24T14:38:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-24T19:24:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23747#pullrequestreview-2020738797"
+         },
          "IsBump": false
       }
    },
@@ -6035,11 +6045,21 @@
       "LastCommitAt": "2024-04-24T14:40:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-24T19:24:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23748#pullrequestreview-2020738415"
+         },
          "IsBump": false
       }
    },
@@ -6095,11 +6115,21 @@
       "LastCommitAt": "2024-04-24T14:49:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-24T19:24:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23751#pullrequestreview-2020739166"
+         },
          "IsBump": false
       }
    },
