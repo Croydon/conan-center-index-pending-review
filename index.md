@@ -139,6 +139,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
 [#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:new: battery-embed|M|1|Mar 24 :bell:||
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|L|6|Mar 24 :bell:||
+[#22746](https://github.com/conan-io/conan-center-index/pull/22746)|[toge](https://github.com/toge)|Feb 11|:new: thorvg|L|5|Apr 16|franramirez688|
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:blue_square: S|8|Mar 24 :bell:||
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|2|Mar 24 :bell:||valgur
@@ -235,7 +236,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:memo: libssh2|M|0|:eyes:||
 [#23688](https://github.com/conan-io/conan-center-index/pull/23688)|[valgur](https://github.com/valgur)|Apr 21|:memo: imguizmo|:blue_square: S|0|:eyes:||
 [#23696](https://github.com/conan-io/conan-center-index/pull/23696)|[toge](https://github.com/toge)|Apr 22|:memo: oatpp|L|1|Apr 22||
-[#23697](https://github.com/conan-io/conan-center-index/pull/23697)|[toge](https://github.com/toge)|Apr 22|:stopwatch: opentelemetry-cpp|L|3|Apr 23|RubenRBS|
 [#23704](https://github.com/conan-io/conan-center-index/pull/23704)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 22|:memo: openscenegraph|XL|0|||
 [#23722](https://github.com/conan-io/conan-center-index/pull/23722)|[ErniGH](https://github.com/ErniGH)|Apr 23|:memo: freexl|L|3|Apr 24|RubenRBS|**franramirez688**
 [#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|||
@@ -248,10 +248,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23747](https://github.com/conan-io/conan-center-index/pull/23747)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: fmt|:blue_square: S|0|||
 [#23748](https://github.com/conan-io/conan-center-index/pull/23748)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: freetype|:blue_square: S|0|||
 [#23749](https://github.com/conan-io/conan-center-index/pull/23749)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: luajit|:blue_square: S|0|||
-[#23750](https://github.com/conan-io/conan-center-index/pull/23750)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:stopwatch: opencolorio|L|0|||
+[#23750](https://github.com/conan-io/conan-center-index/pull/23750)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: opencolorio|L|0|||
 [#23751](https://github.com/conan-io/conan-center-index/pull/23751)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: zlib|:blue_square: S|0|||
 [#23752](https://github.com/conan-io/conan-center-index/pull/23752)|[ErniGH](https://github.com/ErniGH)|Apr 24|:memo: opus|L|0|||
-[#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:stopwatch: simdutf|L|0|||
+[#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -272,7 +272,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 608
 	- Draft: 54
-	- Average Age: 123 days, 13 hours, and 55.58 minutes
+	- Average Age: 123 days, 14 hours, and 57.83 minutes
 	- Stop Label: 286
 	
 
