@@ -237,12 +237,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:memo: libssh2|M|0|:eyes:||
 [#23688](https://github.com/conan-io/conan-center-index/pull/23688)|[valgur](https://github.com/valgur)|Apr 21|:memo: imguizmo|:blue_square: S|0|||
 [#23696](https://github.com/conan-io/conan-center-index/pull/23696)|[toge](https://github.com/toge)|Apr 22|:memo: oatpp|L|1|Apr 22||
-[#23715](https://github.com/conan-io/conan-center-index/pull/23715)|[RubenRBS](https://github.com/RubenRBS)|Apr 23|:memo: box2d|:blue_square: S|1|Apr 23||**czoido**
 [#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|||
 [#23733](https://github.com/conan-io/conan-center-index/pull/23733)|[PLeVasseur](https://github.com/PLeVasseur)|Apr 23|:new: up-cpp|L|0|||
 [#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:memo: assimp|:blue_square: S|0|||
 [#23737](https://github.com/conan-io/conan-center-index/pull/23737)|[toge](https://github.com/toge)|Apr 24|:memo: glaze|:green_circle: XS|0|||
 [#23738](https://github.com/conan-io/conan-center-index/pull/23738)|[X1aomu](https://github.com/X1aomu)|Apr 24|:memo: zeus_expected|:blue_square: S|0|||
+[#23739](https://github.com/conan-io/conan-center-index/pull/23739)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: libvault|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -261,10 +261,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 15e8058f06a4aee8cd934de0c1a3e33970e21599
 - Pull Requests:
-	- Open: 598
+	- Open: 597
 	- Draft: 53
-	- Average Age: 125 days, 6 hours, and 38.79 minutes
-	- Stop Label: 284
+	- Average Age: 125 days, 9 hours, and 36.22 minutes
+	- Stop Label: 283
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
