@@ -5850,36 +5850,6 @@
       }
    },
    {
-      "Number": 23716,
-      "OpenedBy": "ErniGH",
-      "CreatedAt": "2024-04-23T14:48:18Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23716",
-      "LastCommitSHA": "81fe8332627e5efc7bcdfd8c401fbeb3a4b54789",
-      "LastCommitAt": "2024-04-23T14:42:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-23T14:54:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23716#pullrequestreview-2017512615"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23717,
       "OpenedBy": "ErniGH",
       "CreatedAt": "2024-04-23T15:11:19Z",
@@ -5891,20 +5861,24 @@
       "LastCommitAt": "2024-04-23T15:09:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "toge",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-23T15:52:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23717#pullrequestreview-2017662884"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2024-04-24T01:37:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23717#pullrequestreview-2018617122"
          },
          "IsBump": false
       }
