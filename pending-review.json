@@ -2921,23 +2921,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22575",
-      "LastCommitSHA": "dae93a103930ed91de3cec7562683daffbd69d16",
-      "LastCommitAt": "2024-03-12T06:11:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "1a4ea53b4595aae8d79eca62a411484b074812c0",
+      "LastCommitAt": "2024-04-25T17:55:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            },
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "jcar87"
          ],
@@ -5696,7 +5687,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23704",
       "LastCommitSHA": "0d09b4cbc47a1cd7a58db9f61c0765b7473c309a",
       "LastCommitAt": "2024-04-24T11:34:20Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
