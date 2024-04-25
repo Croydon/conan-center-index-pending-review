@@ -2923,15 +2923,13 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22575",
       "LastCommitSHA": "1a4ea53b4595aae8d79eca62a411484b074812c0",
       "LastCommitAt": "2024-04-25T17:55:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": [
-            "jcar87"
-         ],
+         "Blockers": null,
          "LastReview": {
             "ReviewerName": "jcar87",
             "SubmittedAt": "2024-04-25T12:41:59Z",
