@@ -183,7 +183,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23258](https://github.com/conan-io/conan-center-index/pull/23258)|[valgur](https://github.com/valgur)|Mar 25|:memo: libjpeg|L|0|||
 [#23270](https://github.com/conan-io/conan-center-index/pull/23270)|[xyz1001](https://github.com/xyz1001)|Mar 26|:new: platformfolders|M|0|:eyes:||
 [#23272](https://github.com/conan-io/conan-center-index/pull/23272)|[johningve](https://github.com/johningve)|Mar 26|:memo: glfw|:blue_square: S|2|Apr 9 :bell:||jwillikers
-[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:stopwatch: openssl|:blue_square: S|3|Apr 23||valgur, Croydon
+[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|3|Apr 23||valgur, Croydon
 [#23319](https://github.com/conan-io/conan-center-index/pull/23319)|[toge](https://github.com/toge)|Mar 31|:memo: harfbuzz|:blue_square: S|2|Apr 1 :bell:||jwillikers
 [#23336](https://github.com/conan-io/conan-center-index/pull/23336)|[valgur](https://github.com/valgur)|Apr 2|:memo: libcvd|:blue_square: S|0|:eyes:||
 [#23346](https://github.com/conan-io/conan-center-index/pull/23346)|[sizeak](https://github.com/sizeak)|Apr 2|:memo: android-ndk|:blue_square: S|0|:eyes:||
@@ -277,7 +277,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 611
 	- Draft: 55
-	- Average Age: 123 days, 7 hours, and 15.30 minutes
+	- Average Age: 123 days, 8 hours, and 11.78 minutes
 	- Stop Label: 283
 	
 
