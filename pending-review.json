@@ -3815,15 +3815,20 @@
       "LastCommitAt": "2024-04-17T12:10:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "Ahajha",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "Ahajha",
-            "SubmittedAt": "2024-04-10T16:36:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23095#pullrequestreview-1992208382"
+            "SubmittedAt": "2024-04-26T22:01:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23095#pullrequestreview-2025925108"
          },
          "IsBump": false
       }
@@ -5522,31 +5527,6 @@
       }
    },
    {
-      "Number": 23662,
-      "OpenedBy": "hoyhoy",
-      "CreatedAt": "2024-04-19T22:21:42Z",
-      "Recipe": "rapidjson",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23662",
-      "LastCommitSHA": "ef7b0be18ae1f584866a7bb9fb2b3916de8b7f19",
-      "LastCommitAt": "2024-04-21T17:34:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Ahajha",
-            "SubmittedAt": "2024-04-20T01:46:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23662#pullrequestreview-2012974648"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23663,
       "OpenedBy": "trns1997",
       "CreatedAt": "2024-04-19T22:25:57Z",
@@ -6300,26 +6280,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23781",
       "LastCommitSHA": "b8524941a189bfe3e16f59657d9cac36fda79e2a",
       "LastCommitAt": "2024-04-26T18:47:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23782,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-04-26T21:09:46Z",
-      "Recipe": "pangolin",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23782",
-      "LastCommitSHA": "dc12d8a2ba7aeb27eff4a22bba6ce41c628c109e",
-      "LastCommitAt": "2024-04-26T21:05:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
