@@ -2539,19 +2539,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22229",
-      "LastCommitSHA": "588aab944421cab8650088e7c6702f3235ccc995",
-      "LastCommitAt": "2024-02-29T08:20:46Z",
+      "LastCommitSHA": "7e6190ba2d8404a807e03772ba1477740cba7d49",
+      "LastCommitAt": "2024-04-26T07:20:33Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -5934,26 +5929,6 @@
       "LastCommitSHA": "5fef8aff81dc101dbe49abbc678d3b894a293eca",
       "LastCommitAt": "2024-04-24T17:12:33Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23754,
-      "OpenedBy": "culhatsker",
-      "CreatedAt": "2024-04-25T09:08:30Z",
-      "Recipe": "openvino",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23754",
-      "LastCommitSHA": "9390e81e796d6ca4736d58763b650658c4b83878",
-      "LastCommitAt": "2024-04-25T09:10:04Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
