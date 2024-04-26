@@ -5939,6 +5939,31 @@
       }
    },
    {
+      "Number": 23754,
+      "OpenedBy": "culhatsker",
+      "CreatedAt": "2024-04-25T09:08:30Z",
+      "Recipe": "openvino",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23754",
+      "LastCommitSHA": "46cceba6365b684582d32aed700ebf98c6270087",
+      "LastCommitAt": "2024-04-26T10:20:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2024-04-26T07:34:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23754#pullrequestreview-2024325230"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23756,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-04-25T11:22:13Z",
@@ -5950,11 +5975,21 @@
       "LastCommitAt": "2024-04-25T11:22:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-04-26T10:30:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23756#pullrequestreview-2024734081"
+         },
          "IsBump": false
       }
    },
