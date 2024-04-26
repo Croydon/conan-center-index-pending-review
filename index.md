@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **226** pull requests currently under way :detective:
+There are **228** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -239,9 +239,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23738](https://github.com/conan-io/conan-center-index/pull/23738)|[X1aomu](https://github.com/X1aomu)|Apr 24|:memo: zeus_expected|:blue_square: S|0|||
 [#23742](https://github.com/conan-io/conan-center-index/pull/23742)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 24|:memo: glm|M|2|Apr 24||valgur, jwillikers
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:memo: openblas|L|0|||
-[#23749](https://github.com/conan-io/conan-center-index/pull/23749)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: luajit|:blue_square: S|1|Apr 25||**RubenRBS**
-[#23750](https://github.com/conan-io/conan-center-index/pull/23750)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: opencolorio|L|1|Apr 25||**RubenRBS**
-[#23752](https://github.com/conan-io/conan-center-index/pull/23752)|[ErniGH](https://github.com/ErniGH)|Apr 24|:memo: opus|L|1|Apr 25||**RubenRBS**
 [#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|||
 [#23754](https://github.com/conan-io/conan-center-index/pull/23754)|[culhatsker](https://github.com/culhatsker)|Apr 25|:stopwatch: openvino|:blue_square: S|1|Apr 26||
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
@@ -251,18 +248,25 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23763](https://github.com/conan-io/conan-center-index/pull/23763)|[toge](https://github.com/toge)|Apr 26|:memo: spdlog|:green_circle: XS|0|||
 [#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:memo: thorvg|:blue_square: S|0|||
 [#23767](https://github.com/conan-io/conan-center-index/pull/23767)|[igormironchik](https://github.com/igormironchik)|Apr 26|:memo: md4qt|:blue_square: S|0|||
-[#23769](https://github.com/conan-io/conan-center-index/pull/23769)|[jcar87](https://github.com/jcar87)|Apr 26|:stopwatch: freetype|:blue_square: S|1|Apr 26||jwillikers
+[#23769](https://github.com/conan-io/conan-center-index/pull/23769)|[jcar87](https://github.com/jcar87)|Apr 26|:memo: freetype|:blue_square: S|2|Apr 26||**franramirez688**
 [#23770](https://github.com/conan-io/conan-center-index/pull/23770)|[toge](https://github.com/toge)|Apr 26|:memo: proxy|:green_circle: XS|0|||
+[#23771](https://github.com/conan-io/conan-center-index/pull/23771)|[toge](https://github.com/toge)|Apr 26|:memo: opentelemetry-proto|:green_circle: XS|0|||
+[#23772](https://github.com/conan-io/conan-center-index/pull/23772)|[toge](https://github.com/toge)|Apr 26|:memo: pciutils|:green_circle: XS|0|||
+[#23773](https://github.com/conan-io/conan-center-index/pull/23773)|[toge](https://github.com/toge)|Apr 26|:memo: qcbor|:green_circle: XS|0|||
+[#23774](https://github.com/conan-io/conan-center-index/pull/23774)|[toge](https://github.com/toge)|Apr 26|:stopwatch: libvpx|:green_circle: XS|0|||
+[#23776](https://github.com/conan-io/conan-center-index/pull/23776)|[toge](https://github.com/toge)|Apr 26|:stopwatch: etl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
+[#23750](https://github.com/conan-io/conan-center-index/pull/23750)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 24|:memo: opencolorio|2|**RubenRBS**, toge
+[#23752](https://github.com/conan-io/conan-center-index/pull/23752)|[ErniGH](https://github.com/ErniGH)|Apr 24|:memo: opus|2|**RubenRBS**, toge
 
 
 #### :clipboard: Statistics
@@ -271,10 +275,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 607
+	- Open: 612
 	- Draft: 54
-	- Average Age: 123 days, 23 hours, and 55.14 minutes
-	- Stop Label: 284
+	- Average Age: 123 days, and 30.23 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
