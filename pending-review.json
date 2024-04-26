@@ -6050,7 +6050,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23766",
       "LastCommitSHA": "c426b8668c38ba25e299b7fc5e7d85cc7cd49822",
       "LastCommitAt": "2024-04-26T11:16:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6218,6 +6218,66 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 23779,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-04-26T18:51:17Z",
+      "Recipe": "glfw",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23779",
+      "LastCommitSHA": "d5a9e6802a8e537a0de79903711c4e389c358dec",
+      "LastCommitAt": "2024-04-26T18:45:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23780,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-04-26T18:51:38Z",
+      "Recipe": "xkbcommon",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23780",
+      "LastCommitSHA": "65162ac5d7b97d49f408eb19c5b5d39f27cdc73d",
+      "LastCommitAt": "2024-04-26T18:46:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23781,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-04-26T18:53:50Z",
+      "Recipe": "libinput",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23781",
+      "LastCommitSHA": "b8524941a189bfe3e16f59657d9cac36fda79e2a",
+      "LastCommitAt": "2024-04-26T18:47:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
