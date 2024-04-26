@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **230** pull requests currently under way :detective:
+There are **233** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -234,7 +234,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23688](https://github.com/conan-io/conan-center-index/pull/23688)|[valgur](https://github.com/valgur)|Apr 21|:memo: imguizmo|:blue_square: S|0|:eyes:||
 [#23696](https://github.com/conan-io/conan-center-index/pull/23696)|[toge](https://github.com/toge)|Apr 22|:memo: oatpp|L|1|Apr 22||
 [#23704](https://github.com/conan-io/conan-center-index/pull/23704)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 22|:stopwatch: openscenegraph|XL|0|||
-[#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|||
+[#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|:eyes:||
 [#23733](https://github.com/conan-io/conan-center-index/pull/23733)|[PLeVasseur](https://github.com/PLeVasseur)|Apr 23|:new: up-cpp|L|0|||
 [#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:memo: assimp|:blue_square: S|0|||
 [#23737](https://github.com/conan-io/conan-center-index/pull/23737)|[toge](https://github.com/toge)|Apr 24|:memo: glaze|:green_circle: XS|0|||
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|0|||
 [#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|||
 [#23763](https://github.com/conan-io/conan-center-index/pull/23763)|[toge](https://github.com/toge)|Apr 26|:memo: spdlog|:green_circle: XS|0|||
-[#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:stopwatch: thorvg|:blue_square: S|0|||
+[#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:memo: thorvg|:blue_square: S|0|||
 [#23767](https://github.com/conan-io/conan-center-index/pull/23767)|[igormironchik](https://github.com/igormironchik)|Apr 26|:memo: md4qt|:blue_square: S|0|||
 [#23770](https://github.com/conan-io/conan-center-index/pull/23770)|[toge](https://github.com/toge)|Apr 26|:memo: proxy|:green_circle: XS|0|||
 [#23771](https://github.com/conan-io/conan-center-index/pull/23771)|[toge](https://github.com/toge)|Apr 26|:memo: opentelemetry-proto|:green_circle: XS|0|||
@@ -257,6 +257,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23774](https://github.com/conan-io/conan-center-index/pull/23774)|[toge](https://github.com/toge)|Apr 26|:memo: libvpx|:green_circle: XS|0|||
 [#23776](https://github.com/conan-io/conan-center-index/pull/23776)|[toge](https://github.com/toge)|Apr 26|:memo: etl|:green_circle: XS|0|||
 [#23778](https://github.com/conan-io/conan-center-index/pull/23778)|[toge](https://github.com/toge)|Apr 26|:memo: tree-sitter|:green_circle: XS|0|||
+[#23779](https://github.com/conan-io/conan-center-index/pull/23779)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: glfw|:green_circle: XS|0|||
+[#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: xkbcommon|:green_circle: XS|0|||
+[#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -275,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 611
+	- Open: 614
 	- Draft: 55
-	- Average Age: 123 days, 9 hours, and 14.84 minutes
+	- Average Age: 122 days, 19 hours, and 41.58 minutes
 	- Stop Label: 283
 	
 
