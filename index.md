@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **233** pull requests currently under way :detective:
+There are **232** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|1|Apr 20||
 [#23639](https://github.com/conan-io/conan-center-index/pull/23639)|[HappySeaFox](https://github.com/HappySeaFox)|Apr 18|:memo: sail|:green_circle: XS|0|:eyes:||
 [#23645](https://github.com/conan-io/conan-center-index/pull/23645)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 18|:memo: qcustomplot|M|7|Apr 20||ericLemanissier
-[#23648](https://github.com/conan-io/conan-center-index/pull/23648)|[Ahajha](https://github.com/Ahajha)|Apr 19|:stopwatch: cpython|:green_circle: XS|0|:eyes:||
+[#23648](https://github.com/conan-io/conan-center-index/pull/23648)|[Ahajha](https://github.com/Ahajha)|Apr 19|:memo: cpython|:green_circle: XS|0|:eyes:||
 [#23653](https://github.com/conan-io/conan-center-index/pull/23653)|[robomics](https://github.com/robomics)|Apr 19|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#23654](https://github.com/conan-io/conan-center-index/pull/23654)|[robomics](https://github.com/robomics)|Apr 19|:memo: libarchive|:green_circle: XS|0|:eyes:||
 [#23656](https://github.com/conan-io/conan-center-index/pull/23656)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 19|:memo: kdbindings|:green_circle: XS|0|:eyes:||
@@ -237,12 +237,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23731](https://github.com/conan-io/conan-center-index/pull/23731)|[tbeu](https://github.com/tbeu)|Apr 23|:memo: laszip|M|0|:eyes:||
 [#23733](https://github.com/conan-io/conan-center-index/pull/23733)|[PLeVasseur](https://github.com/PLeVasseur)|Apr 23|:new: up-cpp|L|0|||
 [#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:memo: assimp|:blue_square: S|0|:eyes:||
-[#23737](https://github.com/conan-io/conan-center-index/pull/23737)|[toge](https://github.com/toge)|Apr 24|:memo: glaze|:green_circle: XS|0|||
+[#23737](https://github.com/conan-io/conan-center-index/pull/23737)|[toge](https://github.com/toge)|Apr 24|:memo: glaze|:green_circle: XS|0|:eyes:||
 [#23738](https://github.com/conan-io/conan-center-index/pull/23738)|[X1aomu](https://github.com/X1aomu)|Apr 24|:memo: zeus_expected|:blue_square: S|0|||
 [#23742](https://github.com/conan-io/conan-center-index/pull/23742)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 24|:memo: glm|M|2|Apr 24||valgur, jwillikers
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:memo: openblas|L|0|||
 [#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|||
-[#23754](https://github.com/conan-io/conan-center-index/pull/23754)|[culhatsker](https://github.com/culhatsker)|Apr 25|:stopwatch: openvino|:blue_square: S|1|Apr 26||
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
 [#23759](https://github.com/conan-io/conan-center-index/pull/23759)|[toge](https://github.com/toge)|Apr 25|:memo: c4core|:green_circle: XS|0|||
 [#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|0|||
@@ -280,8 +279,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 615
 	- Draft: 55
-	- Average Age: 122 days, 18 hours, and 55.38 minutes
-	- Stop Label: 284
+	- Average Age: 122 days, 20 hours, and 34.19 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
