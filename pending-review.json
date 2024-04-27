@@ -5337,10 +5337,10 @@
       "CreatedAt": "2024-04-17T22:36:18Z",
       "Recipe": "opencolorio",
       "Change": 1,
-      "Weight": 3,
+      "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23621",
-      "LastCommitSHA": "e21a94df98367062202fab0d2f81a088bcececd3",
-      "LastCommitAt": "2024-04-24T20:11:12Z",
+      "LastCommitSHA": "1e67a73bb46b3e893a9d8dfa27a6d4c07ce6dc6a",
+      "LastCommitAt": "2024-04-27T06:28:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
