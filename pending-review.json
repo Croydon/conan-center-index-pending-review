@@ -5736,7 +5736,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23704",
       "LastCommitSHA": "68128c2cdb8549f57c4000dee7780f4d129bf9cb",
       "LastCommitAt": "2024-04-27T07:40:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6176,6 +6176,26 @@
       }
    },
    {
+      "Number": 23775,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-26T13:49:50Z",
+      "Recipe": "lightgbm",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23775",
+      "LastCommitSHA": "eb04ffa7469d32ff9203e016e499deccc797a72b",
+      "LastCommitAt": "2024-04-27T11:42:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23778,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-26T15:18:15Z",
@@ -6255,6 +6275,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23781",
       "LastCommitSHA": "b8524941a189bfe3e16f59657d9cac36fda79e2a",
       "LastCommitAt": "2024-04-26T18:47:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23782,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-04-26T21:09:46Z",
+      "Recipe": "pangolin",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23782",
+      "LastCommitSHA": "29eead9facdfd0c9625fa9da79ac642d516ee705",
+      "LastCommitAt": "2024-04-27T13:02:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
