@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23602](https://github.com/conan-io/conan-center-index/pull/23602)|[adamws](https://github.com/adamws)|Apr 17|:memo: cyrus-sasl|:green_circle: XS|2|Apr 20||valgur
 [#23607](https://github.com/conan-io/conan-center-index/pull/23607)|[Arenoros](https://github.com/Arenoros)|Apr 17|:stopwatch: lief|M|0|:eyes:||
 [#23612](https://github.com/conan-io/conan-center-index/pull/23612)|[basiliscos](https://github.com/basiliscos)|Apr 17|:memo: util-linux-libuuid|:green_circle: XS|2|Apr 20||[Ahajha](https://github.com/Ahajha)
-[#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|L|0|||
+[#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#23626](https://github.com/conan-io/conan-center-index/pull/23626)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|1|Apr 20||
 [#23639](https://github.com/conan-io/conan-center-index/pull/23639)|[HappySeaFox](https://github.com/HappySeaFox)|Apr 18|:memo: sail|:green_circle: XS|0|:eyes:||
@@ -278,10 +278,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 616
+	- Open: 615
 	- Draft: 55
-	- Average Age: 122 days, 20 hours, and 6.18 minutes
-	- Stop Label: 285
+	- Average Age: 122 days, 15 hours, and 17.75 minutes
+	- Stop Label: 284
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
