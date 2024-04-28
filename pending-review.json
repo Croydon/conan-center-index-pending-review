@@ -4005,19 +4005,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23147",
-      "LastCommitSHA": "4a4acbe4cc2ffe869c572ca4788e94ce7b1e57ff",
-      "LastCommitAt": "2024-04-17T20:27:42Z",
+      "LastCommitSHA": "0890f479abb489f2aedf705162ad06fcbf3fa8c8",
+      "LastCommitAt": "2024-04-28T08:45:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
@@ -4033,21 +4028,16 @@
       "CreatedAt": "2024-03-17T20:04:05Z",
       "Recipe": "opencv",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23148",
-      "LastCommitSHA": "e5cf8e91ce180147e96aa7d5a9184d0f45208f91",
-      "LastCommitAt": "2024-04-18T18:57:58Z",
+      "LastCommitSHA": "7056fa0f13b2e8f9cc33aecb3cc5c13b527230d9",
+      "LastCommitAt": "2024-04-28T08:53:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
@@ -5798,11 +5788,21 @@
       "LastCommitAt": "2024-04-23T21:50:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "EstebanDugueperoux2",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "EstebanDugueperoux2",
+            "SubmittedAt": "2024-04-28T08:53:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23735#pullrequestreview-2026949398"
+         },
          "IsBump": false
       }
    },
