@@ -92,7 +92,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#21763](https://github.com/conan-io/conan-center-index/pull/21763)|[talyz](https://github.com/talyz)|Dec 14|:memo: tensorflow-lite|L|5|Mar 24 :bell:||jwillikers, valgur
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|1|Mar 24 :bell:||valgur
-[#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:green_circle: XS|1|Mar 24 :bell:||
+[#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:memo: catch2|:green_circle: XS|1|Mar 24 :bell:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|4|Mar 24 :bell:||ericLemanissier, valgur
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|1|Mar 25 :bell:||jwillikers
 [#21910](https://github.com/conan-io/conan-center-index/pull/21910)|[valgur](https://github.com/valgur)|Dec 26|:memo: mariadb-connector-c|L|1|Mar 25 :bell:||jwillikers
@@ -244,7 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:memo: openblas|L|0|:eyes:||
 [#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|:eyes:||
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
-[#23759](https://github.com/conan-io/conan-center-index/pull/23759)|[toge](https://github.com/toge)|Apr 25|:memo: c4core|:green_circle: XS|0|||
+[#23759](https://github.com/conan-io/conan-center-index/pull/23759)|[toge](https://github.com/toge)|Apr 25|:memo: c4core|:green_circle: XS|0|:eyes:||
 [#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|0|||
 [#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|||
 [#23763](https://github.com/conan-io/conan-center-index/pull/23763)|[toge](https://github.com/toge)|Apr 26|:memo: spdlog|:green_circle: XS|0|||
@@ -289,7 +289,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 623
 	- Draft: 55
-	- Average Age: 122 days, 6 hours, and 30.81 minutes
+	- Average Age: 122 days, 7 hours, and 20.81 minutes
 	- Stop Label: 284
 	
 
