@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **244** pull requests currently under way :detective:
+There are **245** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -245,7 +245,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23753](https://github.com/conan-io/conan-center-index/pull/23753)|[toge](https://github.com/toge)|Apr 24|:memo: simdutf|L|0|:eyes:||
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
 [#23759](https://github.com/conan-io/conan-center-index/pull/23759)|[toge](https://github.com/toge)|Apr 25|:memo: c4core|:green_circle: XS|0|:eyes:||
-[#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|0|||
+[#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|0|:eyes:||
 [#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|||
 [#23763](https://github.com/conan-io/conan-center-index/pull/23763)|[toge](https://github.com/toge)|Apr 26|:memo: spdlog|:green_circle: XS|0|||
 [#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:memo: thorvg|:blue_square: S|1|Apr 27||toge
@@ -271,6 +271,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23793](https://github.com/conan-io/conan-center-index/pull/23793)|[toge](https://github.com/toge)|Apr 28|:memo: libunwind|:green_circle: XS|0|||
 [#23796](https://github.com/conan-io/conan-center-index/pull/23796)|[toge](https://github.com/toge)|Apr 28|:memo: libarchive|M|0|||
 [#23797](https://github.com/conan-io/conan-center-index/pull/23797)|[toge](https://github.com/toge)|Apr 28|:memo: openh264|:blue_square: S|0|||
+[#23799](https://github.com/conan-io/conan-center-index/pull/23799)|[toge](https://github.com/toge)|Apr 28|:new: cpp-yyjson|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -291,8 +292,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 627
 	- Draft: 56
-	- Average Age: 121 days, 14 hours, and 36.06 minutes
-	- Stop Label: 285
+	- Average Age: 121 days, 17 hours, and 38.01 minutes
+	- Stop Label: 284
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
