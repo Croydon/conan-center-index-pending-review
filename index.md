@@ -264,7 +264,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23785](https://github.com/conan-io/conan-center-index/pull/23785)|[toge](https://github.com/toge)|Apr 27|:memo: etl|L|0|||
 [#23787](https://github.com/conan-io/conan-center-index/pull/23787)|[mologie](https://github.com/mologie)|Apr 27|:stopwatch: pybind11_json|:green_circle: XS|0|||
 [#23788](https://github.com/conan-io/conan-center-index/pull/23788)|[DoomHammer](https://github.com/DoomHammer)|Apr 27|:memo: ohpipeline|:green_circle: XS|0|||
-[#23790](https://github.com/conan-io/conan-center-index/pull/23790)|[valgur](https://github.com/valgur)|Apr 27|:new: openni2|L|0|||
+[#23790](https://github.com/conan-io/conan-center-index/pull/23790)|[valgur](https://github.com/valgur)|Apr 27|:stopwatch: openni2|L|0|||
 [#23791](https://github.com/conan-io/conan-center-index/pull/23791)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: libwebsockets|:green_circle: XS|0|||
 [#23792](https://github.com/conan-io/conan-center-index/pull/23792)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: fftw|:blue_square: S|0|||
 
@@ -287,7 +287,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 620
 	- Draft: 55
-	- Average Age: 122 days, 9 hours, and 13.82 minutes
+	- Average Age: 122 days, 15 hours, and 29.20 minutes
 	- Stop Label: 282
 	
 
