@@ -6564,25 +6564,5 @@
          "Blockers": null,
          "IsBump": false
       }
-   },
-   {
-      "Number": 23802,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-04-28T21:12:30Z",
-      "Recipe": "hscpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23802",
-      "LastCommitSHA": "3e0fbf5489f1ced808447cd610f9e6b85a2043fb",
-      "LastCommitAt": "2024-04-28T21:11:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
