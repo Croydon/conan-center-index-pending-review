@@ -6424,5 +6424,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23792,
+      "OpenedBy": "memsharded",
+      "CreatedAt": "2024-04-27T23:59:12Z",
+      "Recipe": "fftw",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23792",
+      "LastCommitSHA": "6caffb8db77c7769061eab22cf45c436005fe61a",
+      "LastCommitAt": "2024-04-27T23:55:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
