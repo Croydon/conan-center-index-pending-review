@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **256** pull requests currently under way :detective:
+There are **254** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -258,9 +258,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23774](https://github.com/conan-io/conan-center-index/pull/23774)|[toge](https://github.com/toge)|Apr 26|:memo: libvpx|:green_circle: XS|0|:eyes:||
 [#23775](https://github.com/conan-io/conan-center-index/pull/23775)|[toge](https://github.com/toge)|Apr 26|:memo: lightgbm|:blue_square: S|0|||
 [#23778](https://github.com/conan-io/conan-center-index/pull/23778)|[toge](https://github.com/toge)|Apr 26|:memo: tree-sitter|:green_circle: XS|0|:eyes:||
-[#23779](https://github.com/conan-io/conan-center-index/pull/23779)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: glfw|:green_circle: XS|0|||
+[#23779](https://github.com/conan-io/conan-center-index/pull/23779)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: glfw|:green_circle: XS|0|:eyes:||
 [#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: xkbcommon|:green_circle: XS|1|Apr 27||jwillikers
-[#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|||
+[#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|:eyes:||
 [#23782](https://github.com/conan-io/conan-center-index/pull/23782)|[valgur](https://github.com/valgur)|Apr 26|:new: pangolin|L|0|||
 [#23784](https://github.com/conan-io/conan-center-index/pull/23784)|[toge](https://github.com/toge)|Apr 27|:memo: 7bitdi|:green_circle: XS|0|||
 [#23785](https://github.com/conan-io/conan-center-index/pull/23785)|[toge](https://github.com/toge)|Apr 27|:memo: etl|L|0|||
@@ -279,10 +279,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23809](https://github.com/conan-io/conan-center-index/pull/23809)|[DoomHammer](https://github.com/DoomHammer)|Apr 29|:memo: ohnet|L|0|||
 [#23810](https://github.com/conan-io/conan-center-index/pull/23810)|[toge](https://github.com/toge)|Apr 29|:memo: libsvtav1|:green_circle: XS|0|||
 [#23811](https://github.com/conan-io/conan-center-index/pull/23811)|[toge](https://github.com/toge)|Apr 29|:new: enumbitmask|M|0|||
-[#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|0|||
-[#23814](https://github.com/conan-io/conan-center-index/pull/23814)|[jcar87](https://github.com/jcar87)|Apr 29|:memo: gettext|:green_circle: XS|1|Apr 29||**franramirez688**
+[#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|1|Apr 29||**RubenRBS**
 [#23816](https://github.com/conan-io/conan-center-index/pull/23816)|[ErniGH](https://github.com/ErniGH)|Apr 29|:memo: zstd|L|0|||
-[#23818](https://github.com/conan-io/conan-center-index/pull/23818)|[wadehunk](https://github.com/wadehunk)|Apr 29|:stopwatch: fast-dds|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -299,12 +297,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: b7d89706d147ca7097205d5183b03e9da26835a5
+- Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 638
+	- Open: 637
 	- Draft: 55
-	- Average Age: 120 days, 1 hours, and 20.43 minutes
-	- Stop Label: 286
+	- Average Age: 120 days, 6 hours, and 45.64 minutes
+	- Stop Label: 287
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
