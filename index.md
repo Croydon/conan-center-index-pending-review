@@ -282,7 +282,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|0|||
 [#23814](https://github.com/conan-io/conan-center-index/pull/23814)|[jcar87](https://github.com/jcar87)|Apr 29|:memo: gettext|:green_circle: XS|1|Apr 29||**franramirez688**
 [#23816](https://github.com/conan-io/conan-center-index/pull/23816)|[ErniGH](https://github.com/ErniGH)|Apr 29|:memo: zstd|L|0|||
-[#23817](https://github.com/conan-io/conan-center-index/pull/23817)|[ErniGH](https://github.com/ErniGH)|Apr 29|:stopwatch: libgettext|L|0|||
+[#23818](https://github.com/conan-io/conan-center-index/pull/23818)|[wadehunk](https://github.com/wadehunk)|Apr 29|:stopwatch: fast-dds|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -301,10 +301,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 637
+	- Open: 638
 	- Draft: 55
-	- Average Age: 120 days, 4 hours, and 47.19 minutes
-	- Stop Label: 285
+	- Average Age: 120 days, 1 hours, and 20.43 minutes
+	- Stop Label: 286
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
