@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **248** pull requests currently under way :detective:
+There are **250** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -202,7 +202,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23481](https://github.com/conan-io/conan-center-index/pull/23481)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 11|:memo: mingw-builds|M|1|Apr 17||
 [#23483](https://github.com/conan-io/conan-center-index/pull/23483)|[MartinDelille](https://github.com/MartinDelille)|Apr 11|:stopwatch: openapi-generator|:green_circle: XS|0|:eyes:||
 [#23502](https://github.com/conan-io/conan-center-index/pull/23502)|[Jie-Cheng](https://github.com/Jie-Cheng)|Apr 12|:stopwatch: simdjson|:green_circle: XS|0|:eyes:||
-[#23517](https://github.com/conan-io/conan-center-index/pull/23517)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: qt|:blue_square: S|3|Apr 17||jwillikers, MartinDelille
+[#23517](https://github.com/conan-io/conan-center-index/pull/23517)|[mayeut](https://github.com/mayeut)|Apr 13|:stopwatch: qt|:blue_square: S|3|Apr 17 :bell:||jwillikers, MartinDelille
 [#23521](https://github.com/conan-io/conan-center-index/pull/23521)|[toge](https://github.com/toge)|Apr 14|:new: tidwall-neco|M|1|Apr 15 :bell:||
 [#23526](https://github.com/conan-io/conan-center-index/pull/23526)|[irieger](https://github.com/irieger)|Apr 14|:memo: avcpp|M|0|:eyes:||
 [#23530](https://github.com/conan-io/conan-center-index/pull/23530)|[valgur](https://github.com/valgur)|Apr 15|:new: coin-buildtools|M|0|:eyes:||
@@ -267,7 +267,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23788](https://github.com/conan-io/conan-center-index/pull/23788)|[DoomHammer](https://github.com/DoomHammer)|Apr 27|:memo: ohpipeline|:green_circle: XS|0|||
 [#23790](https://github.com/conan-io/conan-center-index/pull/23790)|[valgur](https://github.com/valgur)|Apr 27|:new: openni2|L|0|||
 [#23791](https://github.com/conan-io/conan-center-index/pull/23791)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: libwebsockets|:green_circle: XS|0|||
-[#23792](https://github.com/conan-io/conan-center-index/pull/23792)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: fftw|:blue_square: S|0|||
+[#23792](https://github.com/conan-io/conan-center-index/pull/23792)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: fftw|:blue_square: S|2|Apr 29||**jcar87**
 [#23793](https://github.com/conan-io/conan-center-index/pull/23793)|[toge](https://github.com/toge)|Apr 28|:memo: libunwind|:green_circle: XS|0|||
 [#23796](https://github.com/conan-io/conan-center-index/pull/23796)|[toge](https://github.com/toge)|Apr 28|:memo: libarchive|M|0|||
 [#23797](https://github.com/conan-io/conan-center-index/pull/23797)|[toge](https://github.com/toge)|Apr 28|:memo: openh264|:blue_square: S|0|||
@@ -275,6 +275,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23801](https://github.com/conan-io/conan-center-index/pull/23801)|[valgur](https://github.com/valgur)|Apr 28|:new: cr|M|0|||
 [#23805](https://github.com/conan-io/conan-center-index/pull/23805)|[paulharris](https://github.com/paulharris)|Apr 29|:memo: libgettext|:blue_square: S|0|||
 [#23806](https://github.com/conan-io/conan-center-index/pull/23806)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: tar|M|0|||
+[#23807](https://github.com/conan-io/conan-center-index/pull/23807)|[Ahajha](https://github.com/Ahajha)|Apr 29|:stopwatch: mbedtls|:green_circle: XS|0|||
+[#23808](https://github.com/conan-io/conan-center-index/pull/23808)|[Ahajha](https://github.com/Ahajha)|Apr 29|:stopwatch: libtorrent|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -293,9 +295,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 631
+	- Open: 633
 	- Draft: 56
-	- Average Age: 120 days, 23 hours, and 7.52 minutes
+	- Average Age: 120 days, 15 hours, and 2.79 minutes
 	- Stop Label: 285
 	
 
