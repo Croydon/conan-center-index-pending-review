@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **250** pull requests currently under way :detective:
+There are **248** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,7 +131,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22575](https://github.com/conan-io/conan-center-index/pull/22575)|[Ahajha](https://github.com/Ahajha)|Jan 28|:memo: sdl_image|:blue_square: S|3|Apr 25||
 [#22584](https://github.com/conan-io/conan-center-index/pull/22584)|[choll](https://github.com/choll)|Jan 29|:memo: xtr|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#22613](https://github.com/conan-io/conan-center-index/pull/22613)|[toge](https://github.com/toge)|Feb 1|:memo: s2n|:green_circle: XS|1|Mar 24 :bell:||
-[#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|8|Apr 26|danimtb|
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|2|Mar 19 :bell:||jwillikers, valgur
 [#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|M|4|Mar 25 :bell:||jwillikers
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|2|Mar 24 :bell:||ericLemanissier
@@ -267,7 +266,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23788](https://github.com/conan-io/conan-center-index/pull/23788)|[DoomHammer](https://github.com/DoomHammer)|Apr 27|:memo: ohpipeline|:green_circle: XS|0|||
 [#23790](https://github.com/conan-io/conan-center-index/pull/23790)|[valgur](https://github.com/valgur)|Apr 27|:new: openni2|L|0|||
 [#23791](https://github.com/conan-io/conan-center-index/pull/23791)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: libwebsockets|:green_circle: XS|0|||
-[#23792](https://github.com/conan-io/conan-center-index/pull/23792)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: fftw|:blue_square: S|2|Apr 29||**jcar87**
 [#23793](https://github.com/conan-io/conan-center-index/pull/23793)|[toge](https://github.com/toge)|Apr 28|:memo: libunwind|:green_circle: XS|0|||
 [#23796](https://github.com/conan-io/conan-center-index/pull/23796)|[toge](https://github.com/toge)|Apr 28|:memo: libarchive|M|0|||
 [#23797](https://github.com/conan-io/conan-center-index/pull/23797)|[toge](https://github.com/toge)|Apr 28|:memo: openh264|:blue_square: S|0|||
@@ -275,18 +273,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23801](https://github.com/conan-io/conan-center-index/pull/23801)|[valgur](https://github.com/valgur)|Apr 28|:new: cr|M|0|||
 [#23805](https://github.com/conan-io/conan-center-index/pull/23805)|[paulharris](https://github.com/paulharris)|Apr 29|:memo: libgettext|:blue_square: S|0|||
 [#23806](https://github.com/conan-io/conan-center-index/pull/23806)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: tar|M|0|||
-[#23807](https://github.com/conan-io/conan-center-index/pull/23807)|[Ahajha](https://github.com/Ahajha)|Apr 29|:stopwatch: mbedtls|:green_circle: XS|0|||
-[#23808](https://github.com/conan-io/conan-center-index/pull/23808)|[Ahajha](https://github.com/Ahajha)|Apr 29|:stopwatch: libtorrent|:green_circle: XS|0|||
+[#23807](https://github.com/conan-io/conan-center-index/pull/23807)|[Ahajha](https://github.com/Ahajha)|Apr 29|:memo: mbedtls|:green_circle: XS|0|||
+[#23808](https://github.com/conan-io/conan-center-index/pull/23808)|[Ahajha](https://github.com/Ahajha)|Apr 29|:memo: libtorrent|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23519](https://github.com/conan-io/conan-center-index/pull/23519)|[BenBudr](https://github.com/BenBudr)|Apr 14|:warning: botan|2|**RubenRBS**, ericLemanissier
+[#23792](https://github.com/conan-io/conan-center-index/pull/23792)|[memsharded](https://github.com/memsharded)|Apr 27|:memo: fftw|3|**jcar87**, **RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -296,9 +295,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
 	- Open: 633
-	- Draft: 56
-	- Average Age: 120 days, 15 hours, and 2.79 minutes
-	- Stop Label: 285
+	- Draft: 55
+	- Average Age: 120 days, 15 hours, and 58.93 minutes
+	- Stop Label: 286
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
