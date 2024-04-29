@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **254** pull requests currently under way :detective:
+There are **255** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -218,6 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23612](https://github.com/conan-io/conan-center-index/pull/23612)|[basiliscos](https://github.com/basiliscos)|Apr 17|:memo: util-linux-libuuid|:green_circle: XS|2|Apr 20||[Ahajha](https://github.com/Ahajha)
 [#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#23626](https://github.com/conan-io/conan-center-index/pull/23626)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
+[#23629](https://github.com/conan-io/conan-center-index/pull/23629)|[toge](https://github.com/toge)|Apr 18|:stopwatch: duckdb|M|0|||
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|1|Apr 20||
 [#23639](https://github.com/conan-io/conan-center-index/pull/23639)|[HappySeaFox](https://github.com/HappySeaFox)|Apr 18|:memo: sail|:green_circle: XS|0|:eyes:||
 [#23645](https://github.com/conan-io/conan-center-index/pull/23645)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 18|:memo: qcustomplot|M|7|Apr 20||ericLemanissier
@@ -301,8 +302,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 637
 	- Draft: 55
-	- Average Age: 120 days, 6 hours, and 45.64 minutes
-	- Stop Label: 287
+	- Average Age: 120 days, 8 hours, and 47.49 minutes
+	- Stop Label: 286
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
