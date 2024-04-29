@@ -6457,11 +6457,21 @@
       "LastCommitAt": "2024-04-27T23:55:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2024-04-29T07:32:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23792#pullrequestreview-2027745042"
+         },
          "IsBump": false
       }
    },
@@ -6596,6 +6606,46 @@
       "LastCommitSHA": "93b4a986a0c4a345f0c365860bcd42e39afdeb96",
       "LastCommitAt": "2024-04-29T06:31:46Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23807,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-04-29T07:27:44Z",
+      "Recipe": "mbedtls",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23807",
+      "LastCommitSHA": "db27bd9061fc6563eb7da3b3b0e2b1c85ef9664d",
+      "LastCommitAt": "2024-04-29T07:26:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23808,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-04-29T07:44:24Z",
+      "Recipe": "libtorrent",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23808",
+      "LastCommitSHA": "5e1a602690326d7c41b5622f576aa0af7d857a2e",
+      "LastCommitAt": "2024-04-29T07:43:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
