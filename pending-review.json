@@ -6771,15 +6771,15 @@
       }
    },
    {
-      "Number": 23817,
-      "OpenedBy": "ErniGH",
-      "CreatedAt": "2024-04-29T17:01:33Z",
-      "Recipe": "libgettext",
+      "Number": 23818,
+      "OpenedBy": "wadehunk",
+      "CreatedAt": "2024-04-29T17:32:14Z",
+      "Recipe": "fast-dds",
       "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23817",
-      "LastCommitSHA": "fb464b07ae2cc255826bcb65e458a292180d5079",
-      "LastCommitAt": "2024-04-29T16:59:44Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23818",
+      "LastCommitSHA": "a4e174dc1f8581adda905bbdb58b5be416a0de70",
+      "LastCommitAt": "2024-04-29T17:33:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
