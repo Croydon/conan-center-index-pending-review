@@ -5387,6 +5387,26 @@
       }
    },
    {
+      "Number": 23629,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-18T00:24:03Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23629",
+      "LastCommitSHA": "237dfa3160b054efc22111b3b2bb23d339431ceb",
+      "LastCommitAt": "2024-04-29T16:44:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23632,
       "OpenedBy": "pichi-router",
       "CreatedAt": "2024-04-18T04:05:40Z",
