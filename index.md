@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **254** pull requests currently under way :detective:
+There are **255** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -257,7 +257,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23773](https://github.com/conan-io/conan-center-index/pull/23773)|[toge](https://github.com/toge)|Apr 26|:memo: qcbor|:green_circle: XS|0|:eyes:||
 [#23774](https://github.com/conan-io/conan-center-index/pull/23774)|[toge](https://github.com/toge)|Apr 26|:memo: libvpx|:green_circle: XS|0|:eyes:||
 [#23775](https://github.com/conan-io/conan-center-index/pull/23775)|[toge](https://github.com/toge)|Apr 26|:memo: lightgbm|:blue_square: S|0|||
-[#23778](https://github.com/conan-io/conan-center-index/pull/23778)|[toge](https://github.com/toge)|Apr 26|:memo: tree-sitter|:green_circle: XS|0|||
+[#23778](https://github.com/conan-io/conan-center-index/pull/23778)|[toge](https://github.com/toge)|Apr 26|:memo: tree-sitter|:green_circle: XS|0|:eyes:||
 [#23779](https://github.com/conan-io/conan-center-index/pull/23779)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: glfw|:green_circle: XS|0|||
 [#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: xkbcommon|:green_circle: XS|1|Apr 27||jwillikers
 [#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|||
@@ -281,6 +281,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23811](https://github.com/conan-io/conan-center-index/pull/23811)|[toge](https://github.com/toge)|Apr 29|:new: enumbitmask|M|0|||
 [#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|0|||
 [#23814](https://github.com/conan-io/conan-center-index/pull/23814)|[jcar87](https://github.com/jcar87)|Apr 29|:memo: gettext|:green_circle: XS|1|Apr 29||**franramirez688**
+[#23816](https://github.com/conan-io/conan-center-index/pull/23816)|[ErniGH](https://github.com/ErniGH)|Apr 29|:stopwatch: zstd|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -299,10 +300,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 635
+	- Open: 636
 	- Draft: 55
-	- Average Age: 120 days, 11 hours, and 53.96 minutes
-	- Stop Label: 284
+	- Average Age: 120 days, 8 hours, and 23.09 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
