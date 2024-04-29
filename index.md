@@ -273,8 +273,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23797](https://github.com/conan-io/conan-center-index/pull/23797)|[toge](https://github.com/toge)|Apr 28|:memo: openh264|:blue_square: S|0|||
 [#23799](https://github.com/conan-io/conan-center-index/pull/23799)|[toge](https://github.com/toge)|Apr 28|:new: cpp-yyjson|M|0|||
 [#23801](https://github.com/conan-io/conan-center-index/pull/23801)|[valgur](https://github.com/valgur)|Apr 28|:new: cr|M|0|||
-[#23805](https://github.com/conan-io/conan-center-index/pull/23805)|[paulharris](https://github.com/paulharris)|Apr 29|:stopwatch: libgettext|:blue_square: S|0|||
-[#23806](https://github.com/conan-io/conan-center-index/pull/23806)|[mayeut](https://github.com/mayeut)|Apr 29|:stopwatch: tar|M|0|||
+[#23805](https://github.com/conan-io/conan-center-index/pull/23805)|[paulharris](https://github.com/paulharris)|Apr 29|:memo: libgettext|:blue_square: S|0|||
+[#23806](https://github.com/conan-io/conan-center-index/pull/23806)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: tar|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -293,10 +293,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b7d89706d147ca7097205d5183b03e9da26835a5
 - Pull Requests:
-	- Open: 632
+	- Open: 631
 	- Draft: 56
-	- Average Age: 121 days, 6 hours, and 31.09 minutes
-	- Stop Label: 286
+	- Average Age: 120 days, 23 hours, and 7.52 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
