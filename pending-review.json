@@ -4263,20 +4263,24 @@
       "LastCommitAt": "2024-03-24T03:11:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "valgur",
                "Tier": "community"
+            },
+            {
+               "Name": "Nekto89",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-24T19:49:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23228#pullrequestreview-1956643371"
+            "ReviewerName": "Nekto89",
+            "SubmittedAt": "2024-04-30T05:55:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23228#pullrequestreview-2030264356"
          },
          "IsBump": true
       }
