@@ -6467,40 +6467,6 @@
       }
    },
    {
-      "Number": 23796,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-04-28T13:29:37Z",
-      "Recipe": "libarchive",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23796",
-      "LastCommitSHA": "a556cf4708208dedeb835c2458db0c705235e827",
-      "LastCommitAt": "2024-04-28T13:28:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-29T22:40:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23796#pullrequestreview-2029772429"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23797,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-28T13:47:11Z",
@@ -6728,6 +6694,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 23820,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-04-30T00:11:12Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23820",
+      "LastCommitSHA": "9bfc74e45c079f794505164bd2be6c6fdcee2700",
+      "LastCommitAt": "2024-04-30T00:08:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
