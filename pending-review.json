@@ -6685,5 +6685,45 @@
          "Blockers": null,
          "IsBump": true
       }
+   },
+   {
+      "Number": 23821,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2024-04-30T01:55:07Z",
+      "Recipe": "cpptrace",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23821",
+      "LastCommitSHA": "732c16cef143f9a07416809531b128b7d11ada85",
+      "LastCommitAt": "2024-04-30T02:36:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23822,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2024-04-30T02:37:58Z",
+      "Recipe": "libassert",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23822",
+      "LastCommitSHA": "45dca991ae54e98ef66b2ce3dfbc2774e0d46134",
+      "LastCommitAt": "2024-04-30T02:49:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
