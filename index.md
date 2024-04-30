@@ -231,7 +231,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23677](https://github.com/conan-io/conan-center-index/pull/23677)|[toge](https://github.com/toge)|Apr 20|:memo: metall|:blue_square: S|0|||
 [#23680](https://github.com/conan-io/conan-center-index/pull/23680)|[valgur](https://github.com/valgur)|Apr 20|:memo: flac|:blue_square: S|0|:eyes:||
 [#23683](https://github.com/conan-io/conan-center-index/pull/23683)|[valgur](https://github.com/valgur)|Apr 20|:memo: libssh2|M|0|:eyes:||
-[#23695](https://github.com/conan-io/conan-center-index/pull/23695)|[dbolduc](https://github.com/dbolduc)|Apr 22|:memo: google-cloud-cpp|L|0|||
+[#23695](https://github.com/conan-io/conan-center-index/pull/23695)|[dbolduc](https://github.com/dbolduc)|Apr 22|:memo: google-cloud-cpp|L|0|:eyes:||
 [#23696](https://github.com/conan-io/conan-center-index/pull/23696)|[toge](https://github.com/toge)|Apr 22|:memo: oatpp|L|1|Apr 22||
 [#23704](https://github.com/conan-io/conan-center-index/pull/23704)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 22|:memo: openscenegraph|XL|0|:eyes:||
 [#23709](https://github.com/conan-io/conan-center-index/pull/23709)|[toge](https://github.com/toge)|Apr 23|:memo: mimalloc|L|0|||
@@ -244,7 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
 [#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|1|Apr 29||**RubenRBS**
 [#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|||
-[#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:stopwatch: thorvg|M|5|Apr 30||
+[#23766](https://github.com/conan-io/conan-center-index/pull/23766)|[franramirez688](https://github.com/franramirez688)|Apr 26|:memo: thorvg|M|5|Apr 30||
 [#23775](https://github.com/conan-io/conan-center-index/pull/23775)|[toge](https://github.com/toge)|Apr 26|:memo: lightgbm|:blue_square: S|2|Apr 30||**RubenRBS**
 [#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: xkbcommon|:green_circle: XS|1|Apr 27||jwillikers
 [#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|:eyes:||
@@ -255,7 +255,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23790](https://github.com/conan-io/conan-center-index/pull/23790)|[valgur](https://github.com/valgur)|Apr 27|:new: openni2|L|0|||
 [#23799](https://github.com/conan-io/conan-center-index/pull/23799)|[toge](https://github.com/toge)|Apr 28|:new: cpp-yyjson|M|0|||
 [#23806](https://github.com/conan-io/conan-center-index/pull/23806)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: tar|M|2|Apr 30||jwillikers
-[#23808](https://github.com/conan-io/conan-center-index/pull/23808)|[Ahajha](https://github.com/Ahajha)|Apr 29|:memo: libtorrent|:blue_square: S|1|Apr 30||
+[#23808](https://github.com/conan-io/conan-center-index/pull/23808)|[Ahajha](https://github.com/Ahajha)|Apr 29|:memo: libtorrent|:blue_square: S|2|Apr 30||**RubenRBS**
 [#23810](https://github.com/conan-io/conan-center-index/pull/23810)|[toge](https://github.com/toge)|Apr 29|:memo: libsvtav1|:green_circle: XS|2|Apr 30||jwillikers
 [#23811](https://github.com/conan-io/conan-center-index/pull/23811)|[toge](https://github.com/toge)|Apr 29|:new: enumbitmask|M|1|Apr 30||**RubenRBS**
 [#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|1|Apr 29||**RubenRBS**
@@ -282,7 +282,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 612
 	- Draft: 53
-	- Average Age: 120 days, 6 hours, and 23.42 minutes
+	- Average Age: 120 days, 7 hours, and 23.94 minutes
 	- Stop Label: 282
 	
 
