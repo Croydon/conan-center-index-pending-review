@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **251** pull requests currently under way :detective:
+There are **253** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -260,7 +260,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: xkbcommon|:green_circle: XS|1|Apr 27||jwillikers
 [#23781](https://github.com/conan-io/conan-center-index/pull/23781)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: libinput|:blue_square: S|0|:eyes:||
 [#23782](https://github.com/conan-io/conan-center-index/pull/23782)|[valgur](https://github.com/valgur)|Apr 26|:new: pangolin|L|0|||
-[#23784](https://github.com/conan-io/conan-center-index/pull/23784)|[toge](https://github.com/toge)|Apr 27|:memo: 7bitdi|:green_circle: XS|0|||
+[#23784](https://github.com/conan-io/conan-center-index/pull/23784)|[toge](https://github.com/toge)|Apr 27|:memo: 7bitdi|:green_circle: XS|0|:eyes:||
 [#23785](https://github.com/conan-io/conan-center-index/pull/23785)|[toge](https://github.com/toge)|Apr 27|:memo: etl|L|0|||
 [#23787](https://github.com/conan-io/conan-center-index/pull/23787)|[mologie](https://github.com/mologie)|Apr 27|:stopwatch: pybind11_json|:green_circle: XS|0|||
 [#23788](https://github.com/conan-io/conan-center-index/pull/23788)|[DoomHammer](https://github.com/DoomHammer)|Apr 27|:memo: ohpipeline|:green_circle: XS|0|||
@@ -278,6 +278,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23812](https://github.com/conan-io/conan-center-index/pull/23812)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 29|:gear: .c3i|:green_circle: XS|1|Apr 29||**RubenRBS**
 [#23816](https://github.com/conan-io/conan-center-index/pull/23816)|[ErniGH](https://github.com/ErniGH)|Apr 29|:memo: zstd|L|0|||
 [#23820](https://github.com/conan-io/conan-center-index/pull/23820)|[toge](https://github.com/toge)|Apr 30|:memo: glaze|:green_circle: XS|0|||
+[#23821](https://github.com/conan-io/conan-center-index/pull/23821)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 30|:memo: cpptrace|:blue_square: S|0|||
+[#23822](https://github.com/conan-io/conan-center-index/pull/23822)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 30|:stopwatch: libassert|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -296,9 +298,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 634
-	- Draft: 55
-	- Average Age: 121 days, 2 hours, and 49.54 minutes
+	- Open: 635
+	- Draft: 54
+	- Average Age: 120 days, 23 hours, and 6.24 minutes
 	- Stop Label: 286
 	
 
