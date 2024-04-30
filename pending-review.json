@@ -125,40 +125,6 @@
       }
    },
    {
-      "Number": 18621,
-      "OpenedBy": "maksim-petukhov",
-      "CreatedAt": "2023-07-18T14:57:57Z",
-      "Recipe": "libntv2",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18621",
-      "LastCommitSHA": "568324519a8d3089d6f665fef9ecf344a807f662",
-      "LastCommitAt": "2023-08-04T12:04:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-24T13:43:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18621#pullrequestreview-1956556361"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 18672,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T13:50:32Z",
@@ -6685,7 +6651,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23816",
       "LastCommitSHA": "98f5c850f1c1e55c543d6aa06e9ca15ebdb895ce",
       "LastCommitAt": "2024-04-29T15:53:04Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
