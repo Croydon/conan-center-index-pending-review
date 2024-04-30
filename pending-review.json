@@ -6356,11 +6356,21 @@
       "LastCommitAt": "2024-04-30T14:14:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "crhowell3",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "crhowell3",
+            "SubmittedAt": "2024-04-30T19:14:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23818#pullrequestreview-2032299164"
+         },
          "IsBump": false
       }
    },
