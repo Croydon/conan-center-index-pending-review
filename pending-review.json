@@ -1904,9 +1904,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21792",
-      "LastCommitSHA": "92d825d972cc550b492db3cf1048fca8748583bb",
-      "LastCommitAt": "2024-04-28T11:50:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "aff75b8d1adf50f576fae3ee705467965ca01eec",
+      "LastCommitAt": "2024-05-01T14:57:46Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -6487,6 +6487,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 23839,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-05-01T14:25:09Z",
+      "Recipe": "behaviortree.cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23839",
+      "LastCommitSHA": "693fe9779855362d877432efaf4707e4a479e2a0",
+      "LastCommitAt": "2024-05-01T14:24:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
