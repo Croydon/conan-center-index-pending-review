@@ -6433,5 +6433,25 @@
          },
          "IsBump": false
       }
+   },
+   {
+      "Number": 23837,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-05-01T02:33:47Z",
+      "Recipe": "rapidyaml",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23837",
+      "LastCommitSHA": "fb420cd0c702505111ce0694973f5c862036e023",
+      "LastCommitAt": "2024-05-01T02:58:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
