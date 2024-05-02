@@ -6581,7 +6581,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23846",
       "LastCommitSHA": "2f3c66699d6dce75bf354bbe3fd8ba48379c9612",
       "LastCommitAt": "2024-05-02T12:14:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6612,15 +6612,35 @@
       }
    },
    {
-      "Number": 23848,
-      "OpenedBy": "sivachandran",
-      "CreatedAt": "2024-05-02T12:01:35Z",
-      "Recipe": "xml-security-c",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23848",
-      "LastCommitSHA": "bd2978d858a4203106602ed6c980fd8a3cf7651e",
-      "LastCommitAt": "2024-05-02T12:04:41Z",
+      "Number": 23849,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-05-02T12:29:55Z",
+      "Recipe": "simde",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23849",
+      "LastCommitSHA": "c98b6354f2610c60ac58a57d28369da33a02ce50",
+      "LastCommitAt": "2024-05-02T12:29:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23850,
+      "OpenedBy": "vbieleny",
+      "CreatedAt": "2024-05-02T12:30:29Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23850",
+      "LastCommitSHA": "2aa7737a428e13ee9a927b43a41d7719181529ff",
+      "LastCommitAt": "2024-05-02T12:26:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
