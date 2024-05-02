@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23612](https://github.com/conan-io/conan-center-index/pull/23612)|[basiliscos](https://github.com/basiliscos)|Apr 17|:memo: util-linux-libuuid|:green_circle: XS|2|Apr 20 :bell:||[Ahajha](https://github.com/Ahajha)
 [#23621](https://github.com/conan-io/conan-center-index/pull/23621)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#23626](https://github.com/conan-io/conan-center-index/pull/23626)|[mayeut](https://github.com/mayeut)|Apr 17|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
-[#23629](https://github.com/conan-io/conan-center-index/pull/23629)|[toge](https://github.com/toge)|Apr 18|:memo: duckdb|M|0|||
+[#23629](https://github.com/conan-io/conan-center-index/pull/23629)|[toge](https://github.com/toge)|Apr 18|:memo: duckdb|M|0|:eyes:||
 [#23632](https://github.com/conan-io/conan-center-index/pull/23632)|[pichi-router](https://github.com/pichi-router)|Apr 18|:memo: botan|:green_circle: XS|1|Apr 20 :bell:||
 [#23639](https://github.com/conan-io/conan-center-index/pull/23639)|[HappySeaFox](https://github.com/HappySeaFox)|Apr 18|:memo: sail|:green_circle: XS|0|:eyes:||
 [#23645](https://github.com/conan-io/conan-center-index/pull/23645)|[anton-danielsson](https://github.com/anton-danielsson)|Apr 18|:memo: qcustomplot|M|7|Apr 20 :bell:||ericLemanissier
@@ -222,7 +222,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23653](https://github.com/conan-io/conan-center-index/pull/23653)|[robomics](https://github.com/robomics)|Apr 19|:stopwatch: boost|:green_circle: XS|0|||
 [#23654](https://github.com/conan-io/conan-center-index/pull/23654)|[robomics](https://github.com/robomics)|Apr 19|:memo: libarchive|:green_circle: XS|0|||
 [#23656](https://github.com/conan-io/conan-center-index/pull/23656)|[TheHugeManatee](https://github.com/TheHugeManatee)|Apr 19|:memo: kdbindings|:green_circle: XS|0|:eyes:||
-[#23663](https://github.com/conan-io/conan-center-index/pull/23663)|[trns1997](https://github.com/trns1997)|Apr 19|:new: azure-sdk-for-cpp|M|1|Apr 20 :bell:||
 [#23666](https://github.com/conan-io/conan-center-index/pull/23666)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libxmlpp|:green_circle: XS|0|:eyes:||
 [#23667](https://github.com/conan-io/conan-center-index/pull/23667)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libspatialite|:green_circle: XS|1|Apr 20 :bell:||jwillikers
 [#23668](https://github.com/conan-io/conan-center-index/pull/23668)|[mayeut](https://github.com/mayeut)|Apr 20|:stopwatch: libgphoto2|:green_circle: XS|0|:eyes:||
@@ -271,6 +270,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23847](https://github.com/conan-io/conan-center-index/pull/23847)|[conan-center-bot](https://github.com/conan-center-bot)|May 2|:gear: .c3i|:green_circle: XS|0|||
 [#23849](https://github.com/conan-io/conan-center-index/pull/23849)|[toge](https://github.com/toge)|May 2|:memo: simde|:green_circle: XS|0|||
 [#23850](https://github.com/conan-io/conan-center-index/pull/23850)|[vbieleny](https://github.com/vbieleny)|May 2|:memo: android-ndk|:blue_square: S|0|||
+[#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:stopwatch: openimageio|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -289,10 +289,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 620
+	- Open: 621
 	- Draft: 54
-	- Average Age: 120 days, 1 hours, and 3.91 minutes
-	- Stop Label: 281
+	- Average Age: 119 days, 22 hours, and 26.41 minutes
+	- Stop Label: 282
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
