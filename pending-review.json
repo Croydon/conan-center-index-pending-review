@@ -3000,9 +3000,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22613",
-      "LastCommitSHA": "33cf874a2808524baa45fd4698d9353bf218c926",
-      "LastCommitAt": "2024-04-17T01:51:48Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "53ac8f556d871ba391c681dc9aa0a943404b383b",
+      "LastCommitAt": "2024-05-02T00:35:10Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -6502,6 +6502,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 23842,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-05-02T00:38:56Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23842",
+      "LastCommitSHA": "895f0d4028a3e3a23a9d36f6b2ecb182b25b3759",
+      "LastCommitAt": "2024-05-02T00:38:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
