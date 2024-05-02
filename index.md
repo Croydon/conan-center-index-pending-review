@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22040](https://github.com/conan-io/conan-center-index/pull/22040)|[valgur](https://github.com/valgur)|Dec 28|:memo: tk|L|0|:eyes:||
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22120](https://github.com/conan-io/conan-center-index/pull/22120)|[toge](https://github.com/toge)|Jan 3|:stopwatch: mbits-lngs|:green_circle: XS|1|Mar 24 :bell:||valgur
-[#22132](https://github.com/conan-io/conan-center-index/pull/22132)|[jwillikers](https://github.com/jwillikers)|Jan 3|:stopwatch: qt|:green_circle: XS|1|Apr 19 :bell:||
+[#22132](https://github.com/conan-io/conan-center-index/pull/22132)|[jwillikers](https://github.com/jwillikers)|Jan 3|:memo: qt|:green_circle: XS|1|Apr 19 :bell:||
 [#22152](https://github.com/conan-io/conan-center-index/pull/22152)|[valgur](https://github.com/valgur)|Jan 4|:memo: pcl|L|2|Apr 30||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|1|Mar 24 :bell:||valgur
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|2|Mar 24 :bell:||valgur
@@ -240,7 +240,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23735](https://github.com/conan-io/conan-center-index/pull/23735)|[valgur](https://github.com/valgur)|Apr 23|:memo: assimp|:blue_square: S|1|Apr 28||
 [#23757](https://github.com/conan-io/conan-center-index/pull/23757)|[jcar87](https://github.com/jcar87)|Apr 25|:gear: .github|L|2|Apr 25||
 [#23761](https://github.com/conan-io/conan-center-index/pull/23761)|[toge](https://github.com/toge)|Apr 25|:memo: sqlcipher|L|1|Apr 29||**RubenRBS**
-[#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|||
+[#23762](https://github.com/conan-io/conan-center-index/pull/23762)|[lubomirjurukov](https://github.com/lubomirjurukov)|Apr 25|:stopwatch: ixwebsocket|:green_circle: XS|0|:eyes:||
 [#23775](https://github.com/conan-io/conan-center-index/pull/23775)|[toge](https://github.com/toge)|Apr 26|:memo: lightgbm|:blue_square: S|2|Apr 30||**RubenRBS**
 [#23779](https://github.com/conan-io/conan-center-index/pull/23779)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: glfw|:green_circle: XS|2|May 2||jwillikers
 [#23780](https://github.com/conan-io/conan-center-index/pull/23780)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: xkbcommon|:green_circle: XS|1|Apr 27||jwillikers
@@ -271,7 +271,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23847](https://github.com/conan-io/conan-center-index/pull/23847)|[conan-center-bot](https://github.com/conan-center-bot)|May 2|:gear: .c3i|:green_circle: XS|0|||
 [#23849](https://github.com/conan-io/conan-center-index/pull/23849)|[toge](https://github.com/toge)|May 2|:memo: simde|:green_circle: XS|0|||
 [#23850](https://github.com/conan-io/conan-center-index/pull/23850)|[vbieleny](https://github.com/vbieleny)|May 2|:memo: android-ndk|:blue_square: S|0|||
-[#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:stopwatch: openimageio|:green_circle: XS|0|||
+[#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:memo: openimageio|:green_circle: XS|0|||
 [#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:stopwatch: ouster_sdk|:green_circle: XS|0|||
 
 
@@ -293,7 +293,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 622
 	- Draft: 54
-	- Average Age: 119 days, 19 hours, and 45.28 minutes
+	- Average Age: 119 days, 21 hours, and 44.33 minutes
 	- Stop Label: 282
 	
 
