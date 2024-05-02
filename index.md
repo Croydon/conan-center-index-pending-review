@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **244** pull requests currently under way :detective:
+There are **245** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -268,9 +268,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23843](https://github.com/conan-io/conan-center-index/pull/23843)|[toge](https://github.com/toge)|May 2|:memo: sdl|:green_circle: XS|0|||
 [#23844](https://github.com/conan-io/conan-center-index/pull/23844)|[toge](https://github.com/toge)|May 2|:memo: octo-logger-cpp|:green_circle: XS|0|||
 [#23845](https://github.com/conan-io/conan-center-index/pull/23845)|[toge](https://github.com/toge)|May 2|:memo: leopard|:blue_square: S|0|||
-[#23846](https://github.com/conan-io/conan-center-index/pull/23846)|[Mi-La](https://github.com/Mi-La)|May 2|:stopwatch: zserio|M|0|||
+[#23846](https://github.com/conan-io/conan-center-index/pull/23846)|[Mi-La](https://github.com/Mi-La)|May 2|:memo: zserio|M|0|||
 [#23847](https://github.com/conan-io/conan-center-index/pull/23847)|[conan-center-bot](https://github.com/conan-center-bot)|May 2|:gear: .c3i|:green_circle: XS|0|||
-[#23848](https://github.com/conan-io/conan-center-index/pull/23848)|[sivachandran](https://github.com/sivachandran)|May 2|:stopwatch: xml-security-c|L|0|||
+[#23849](https://github.com/conan-io/conan-center-index/pull/23849)|[toge](https://github.com/toge)|May 2|:memo: simde|:green_circle: XS|0|||
+[#23850](https://github.com/conan-io/conan-center-index/pull/23850)|[vbieleny](https://github.com/vbieleny)|May 2|:stopwatch: android-ndk|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -290,10 +291,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 621
+	- Open: 623
 	- Draft: 54
-	- Average Age: 119 days, 22 hours, and 48.94 minutes
-	- Stop Label: 280
+	- Average Age: 119 days, 14 hours, and 24.20 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
