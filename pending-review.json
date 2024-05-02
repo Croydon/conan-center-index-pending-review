@@ -1906,7 +1906,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21792",
       "LastCommitSHA": "e0f4aadf99cd5a61cdf37bc37856667e05ba2d52",
       "LastCommitAt": "2024-05-02T10:37:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -6562,6 +6562,66 @@
       "LastCommitSHA": "75913389e5a55041669d2a22d713df6b986766de",
       "LastCommitAt": "2024-05-02T05:50:01Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23846,
+      "OpenedBy": "Mi-La",
+      "CreatedAt": "2024-05-02T08:58:20Z",
+      "Recipe": "zserio",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23846",
+      "LastCommitSHA": "2f3c66699d6dce75bf354bbe3fd8ba48379c9612",
+      "LastCommitAt": "2024-05-02T12:14:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23847,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2024-05-02T11:21:26Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23847",
+      "LastCommitSHA": "a54efc53499c0864bf5188c8194b9ff70b7bbfab",
+      "LastCommitAt": "2024-05-02T11:21:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23848,
+      "OpenedBy": "sivachandran",
+      "CreatedAt": "2024-05-02T12:01:35Z",
+      "Recipe": "xml-security-c",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23848",
+      "LastCommitSHA": "bd2978d858a4203106602ed6c980fd8a3cf7651e",
+      "LastCommitAt": "2024-05-02T12:04:41Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
