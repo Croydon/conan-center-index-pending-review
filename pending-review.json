@@ -5476,7 +5476,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23654",
       "LastCommitSHA": "94f44db0351e8a5195378314b876bbda3a94d228",
       "LastCommitAt": "2024-05-02T08:45:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6480,13 +6480,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23839",
       "LastCommitSHA": "693fe9779855362d877432efaf4707e4a479e2a0",
       "LastCommitAt": "2024-05-01T14:24:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2024-05-02T09:41:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23839#pullrequestreview-2035285803"
+         },
          "IsBump": true
       }
    },
