@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **244** pull requests currently under way :detective:
+There are **246** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -106,6 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22040](https://github.com/conan-io/conan-center-index/pull/22040)|[valgur](https://github.com/valgur)|Dec 28|:memo: tk|L|0|:eyes:||
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22120](https://github.com/conan-io/conan-center-index/pull/22120)|[toge](https://github.com/toge)|Jan 3|:stopwatch: mbits-lngs|:green_circle: XS|1|Mar 24 :bell:||valgur
+[#22132](https://github.com/conan-io/conan-center-index/pull/22132)|[jwillikers](https://github.com/jwillikers)|Jan 3|:stopwatch: qt|:green_circle: XS|1|Apr 19 :bell:||
 [#22152](https://github.com/conan-io/conan-center-index/pull/22152)|[valgur](https://github.com/valgur)|Jan 4|:memo: pcl|L|2|Apr 30||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|1|Mar 24 :bell:||valgur
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|2|Mar 24 :bell:||valgur
@@ -271,6 +272,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23849](https://github.com/conan-io/conan-center-index/pull/23849)|[toge](https://github.com/toge)|May 2|:memo: simde|:green_circle: XS|0|||
 [#23850](https://github.com/conan-io/conan-center-index/pull/23850)|[vbieleny](https://github.com/vbieleny)|May 2|:memo: android-ndk|:blue_square: S|0|||
 [#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:stopwatch: openimageio|:green_circle: XS|0|||
+[#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:stopwatch: ouster_sdk|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -289,9 +291,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 621
+	- Open: 622
 	- Draft: 54
-	- Average Age: 119 days, 22 hours, and 26.41 minutes
+	- Average Age: 119 days, 19 hours, and 45.28 minutes
 	- Stop Label: 282
 	
 
