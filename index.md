@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22040](https://github.com/conan-io/conan-center-index/pull/22040)|[valgur](https://github.com/valgur)|Dec 28|:memo: tk|L|0|:eyes:||
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22120](https://github.com/conan-io/conan-center-index/pull/22120)|[toge](https://github.com/toge)|Jan 3|:stopwatch: mbits-lngs|:green_circle: XS|1|Mar 24 :bell:||valgur
-[#22132](https://github.com/conan-io/conan-center-index/pull/22132)|[jwillikers](https://github.com/jwillikers)|Jan 3|:stopwatch: qt|:blue_square: S|1|Apr 19 :bell:||
+[#22132](https://github.com/conan-io/conan-center-index/pull/22132)|[jwillikers](https://github.com/jwillikers)|Jan 3|:memo: qt|:blue_square: S|1|Apr 19 :bell:||
 [#22152](https://github.com/conan-io/conan-center-index/pull/22152)|[valgur](https://github.com/valgur)|Jan 4|:memo: pcl|L|2|Apr 30||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|1|Mar 24 :bell:||valgur
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|2|Mar 24 :bell:||valgur
@@ -294,7 +294,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 624
 	- Draft: 53
-	- Average Age: 119 days, 20 hours, and 15.64 minutes
+	- Average Age: 119 days, 21 hours, and 9.54 minutes
 	- Stop Label: 283
 	
 
