@@ -5798,6 +5798,31 @@
       }
    },
    {
+      "Number": 23754,
+      "OpenedBy": "culhatsker",
+      "CreatedAt": "2024-04-25T09:08:30Z",
+      "Recipe": "openvino",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23754",
+      "LastCommitSHA": "98433c43a65d737c0c340e2eca23970caa9c71d5",
+      "LastCommitAt": "2024-05-02T09:15:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2024-04-26T07:34:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23754#pullrequestreview-2024325230"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23757,
       "OpenedBy": "jcar87",
       "CreatedAt": "2024-04-25T12:37:52Z",
