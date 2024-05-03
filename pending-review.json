@@ -2493,7 +2493,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22204",
       "LastCommitSHA": "ee7307e168582fae7b701a4199dd55df89acc575",
       "LastCommitAt": "2024-05-03T08:59:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -5395,31 +5395,6 @@
       }
    },
    {
-      "Number": 23663,
-      "OpenedBy": "trns1997",
-      "CreatedAt": "2024-04-19T22:25:57Z",
-      "Recipe": "azure-sdk-for-cpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23663",
-      "LastCommitSHA": "792f10cb773a4f3556a22588987949f0a490acf8",
-      "LastCommitAt": "2024-05-03T07:30:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-04-20T01:23:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23663#pullrequestreview-2012933458"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23666,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-04-20T09:49:49Z",
@@ -6664,6 +6639,26 @@
       "LastCommitSHA": "f13f461f03ae4c812f05c163aecadfa133de4b67",
       "LastCommitAt": "2024-05-03T09:26:04Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23857,
+      "OpenedBy": "eyalroz",
+      "CreatedAt": "2024-05-03T11:08:21Z",
+      "Recipe": "cuda-api-wrappers",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23857",
+      "LastCommitSHA": "dc4d30952827fa5543b22322e43c65e9dc30cd1e",
+      "LastCommitAt": "2024-05-03T11:04:49Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
