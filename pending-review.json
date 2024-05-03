@@ -41,7 +41,7 @@
       "LastCommitAt": "2024-04-24T12:28:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 31,
+         "Count": 32,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -54,9 +54,9 @@
             "RubenRBS"
          ],
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-04-24T15:45:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17719#pullrequestreview-2020261910"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-05-03T07:06:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17719#pullrequestreview-2037487869"
          },
          "IsBump": false
       }
@@ -6348,36 +6348,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2024-04-30T12:57:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23825#pullrequestreview-2031269174"
-         },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23831,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2024-04-30T12:46:45Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23831",
-      "LastCommitSHA": "c15e13f53d4db8e3995bd7268e4badecc6c532e4",
-      "LastCommitAt": "2024-05-01T09:30:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2024-05-02T15:14:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23831#pullrequestreview-2036046018"
          },
          "IsBump": false
       }
