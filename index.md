@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **248** pull requests currently under way :detective:
+There are **247** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,7 +205,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23530](https://github.com/conan-io/conan-center-index/pull/23530)|[valgur](https://github.com/valgur)|Apr 15|:new: coin-buildtools|M|0|:eyes:||
 [#23539](https://github.com/conan-io/conan-center-index/pull/23539)|[tkhyn](https://github.com/tkhyn)|Apr 15|:memo: osqp|L|6|Apr 15 :bell:||
 [#23559](https://github.com/conan-io/conan-center-index/pull/23559)|[valgur](https://github.com/valgur)|Apr 15|:memo: glib|M|1|Apr 17 :bell:||ericLemanissier
-[#23569](https://github.com/conan-io/conan-center-index/pull/23569)|[gegles](https://github.com/gegles)|Apr 16|:memo: boost|L|3|May 3||**uilianries**
 [#23571](https://github.com/conan-io/conan-center-index/pull/23571)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 16|:memo: qt|XL|9|Apr 23||jwillikers
 [#23594](https://github.com/conan-io/conan-center-index/pull/23594)|[uilianries](https://github.com/uilianries)|Apr 17|:gear: .c3i|:blue_square: S|3|Apr 17 :bell:|jcar87|**RubenRBS**, jwillikers
 [#23598](https://github.com/conan-io/conan-center-index/pull/23598)|[MartinDelille](https://github.com/MartinDelille)|Apr 17|:memo: openapi-generator|:blue_square: S|0|:eyes:||
@@ -293,9 +292,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 625
+	- Open: 624
 	- Draft: 53
-	- Average Age: 119 days, 15 hours, and 15.55 minutes
+	- Average Age: 119 days, 20 hours, and 15.64 minutes
 	- Stop Label: 283
 	
 
