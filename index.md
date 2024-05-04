@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **252** pull requests currently under way :detective:
+There are **253** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -279,6 +279,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23865](https://github.com/conan-io/conan-center-index/pull/23865)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|May 4|:memo: cpptrace|:green_circle: XS|0|||
 [#23868](https://github.com/conan-io/conan-center-index/pull/23868)|[toge](https://github.com/toge)|May 4|:memo: cli11|:green_circle: XS|0|||
 [#23869](https://github.com/conan-io/conan-center-index/pull/23869)|[toge](https://github.com/toge)|May 4|:memo: bvdberg-ctest|M|0|||
+[#23870](https://github.com/conan-io/conan-center-index/pull/23870)|[toge](https://github.com/toge)|May 4|:stopwatch: vvenc|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -297,9 +298,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 629
+	- Open: 630
 	- Draft: 53
-	- Average Age: 119 days, 17 hours, and 13.81 minutes
+	- Average Age: 119 days, 13 hours, and 40.21 minutes
 	- Stop Label: 283
 	
 
