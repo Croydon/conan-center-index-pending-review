@@ -276,7 +276,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23858](https://github.com/conan-io/conan-center-index/pull/23858)|[johannes-wolf](https://github.com/johannes-wolf)|May 3|:memo: simfil|:green_circle: XS|0|||
 [#23860](https://github.com/conan-io/conan-center-index/pull/23860)|[toge](https://github.com/toge)|May 3|:memo: jsoncons|:green_circle: XS|0|||
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
-[#23865](https://github.com/conan-io/conan-center-index/pull/23865)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|May 4|:stopwatch: cpptrace|:green_circle: XS|0|||
+[#23865](https://github.com/conan-io/conan-center-index/pull/23865)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|May 4|:memo: cpptrace|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -297,7 +297,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 626
 	- Draft: 53
-	- Average Age: 119 days, 18 hours, and 38.25 minutes
+	- Average Age: 119 days, 19 hours, and 7.81 minutes
 	- Stop Label: 282
 	
 
