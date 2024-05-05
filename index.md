@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **252** pull requests currently under way :detective:
+There are **253** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -270,6 +270,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23856](https://github.com/conan-io/conan-center-index/pull/23856)|[Twon](https://github.com/Twon)|May 3|:memo: gtest|:green_circle: XS|2|May 4||[CJCombrink](https://github.com/CJCombrink), **RubenRBS**
 [#23858](https://github.com/conan-io/conan-center-index/pull/23858)|[johannes-wolf](https://github.com/johannes-wolf)|May 3|:memo: simfil|:green_circle: XS|0|||
 [#23860](https://github.com/conan-io/conan-center-index/pull/23860)|[toge](https://github.com/toge)|May 3|:memo: jsoncons|:green_circle: XS|0|||
+[#23861](https://github.com/conan-io/conan-center-index/pull/23861)|[toge](https://github.com/toge)|May 3|:new: cxxgraph|M|0|||
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23868](https://github.com/conan-io/conan-center-index/pull/23868)|[toge](https://github.com/toge)|May 4|:memo: cli11|:green_circle: XS|0|||
 [#23869](https://github.com/conan-io/conan-center-index/pull/23869)|[toge](https://github.com/toge)|May 4|:memo: bvdberg-ctest|M|0|||
@@ -298,8 +299,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
 	- Open: 631
-	- Draft: 54
-	- Average Age: 120 days, 9 hours, and 29.98 minutes
+	- Draft: 53
+	- Average Age: 120 days, 10 hours, and 25.05 minutes
 	- Stop Label: 281
 	
 
