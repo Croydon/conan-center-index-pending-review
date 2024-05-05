@@ -276,9 +276,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23870](https://github.com/conan-io/conan-center-index/pull/23870)|[toge](https://github.com/toge)|May 4|:memo: vvenc|M|0|||
 [#23871](https://github.com/conan-io/conan-center-index/pull/23871)|[toge](https://github.com/toge)|May 4|:memo: drogon|:blue_square: S|0|||
 [#23872](https://github.com/conan-io/conan-center-index/pull/23872)|[toge](https://github.com/toge)|May 5|:memo: wasmtime|L|0|||
-[#23873](https://github.com/conan-io/conan-center-index/pull/23873)|[kambala-decapitator](https://github.com/kambala-decapitator)|May 5|:stopwatch: qt|M|0|||
+[#23873](https://github.com/conan-io/conan-center-index/pull/23873)|[kambala-decapitator](https://github.com/kambala-decapitator)|May 5|:memo: qt|M|0|||
 [#23874](https://github.com/conan-io/conan-center-index/pull/23874)|[toge](https://github.com/toge)|May 5|:memo: daw_header_libraries|:green_circle: XS|0|||
-[#23875](https://github.com/conan-io/conan-center-index/pull/23875)|[toge](https://github.com/toge)|May 5|:stopwatch: clove-unit|:blue_square: S|0|||
+[#23875](https://github.com/conan-io/conan-center-index/pull/23875)|[toge](https://github.com/toge)|May 5|:memo: clove-unit|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -299,7 +299,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 631
 	- Draft: 54
-	- Average Age: 120 days, 8 hours, and 28.33 minutes
+	- Average Age: 120 days, 9 hours, and 29.98 minutes
 	- Stop Label: 281
 	
 
