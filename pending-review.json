@@ -37,23 +37,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17719",
-      "LastCommitSHA": "62071fb6c117b4da58e7bfd0a88d0a1170525926",
-      "LastCommitAt": "2024-05-03T09:01:03Z",
+      "LastCommitSHA": "91a912ddaa81179946652e64c340c249c6af46f3",
+      "LastCommitAt": "2024-05-05T11:05:43Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 35,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "RubenRBS"
          ],
@@ -4745,6 +4736,26 @@
       }
    },
    {
+      "Number": 23409,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-04-07T09:45:27Z",
+      "Recipe": "onnxruntime",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23409",
+      "LastCommitSHA": "b1428716862eb520374f0dfc50938b79b60a2da6",
+      "LastCommitAt": "2024-05-05T08:04:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23429,
       "OpenedBy": "toge",
       "CreatedAt": "2024-04-09T08:55:51Z",
@@ -6667,6 +6678,26 @@
       "LastCommitSHA": "4aeede52d7137af74918b6df409d405a16b3fb3a",
       "LastCommitAt": "2024-05-05T00:25:15Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23873,
+      "OpenedBy": "kambala-decapitator",
+      "CreatedAt": "2024-05-05T11:56:52Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23873",
+      "LastCommitSHA": "6e3789e599e02621ccc84db7c6db6088aa21154e",
+      "LastCommitAt": "2024-05-05T12:00:16Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
