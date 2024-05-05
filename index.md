@@ -266,7 +266,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:memo: openimageio|:green_circle: XS|0|||
 [#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:stopwatch: ouster_sdk|:green_circle: XS|0|||
 [#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|0|||
-[#23856](https://github.com/conan-io/conan-center-index/pull/23856)|[Twon](https://github.com/Twon)|May 3|:stopwatch: gtest|:green_circle: XS|2|May 4||[CJCombrink](https://github.com/CJCombrink), **RubenRBS**
+[#23856](https://github.com/conan-io/conan-center-index/pull/23856)|[Twon](https://github.com/Twon)|May 3|:memo: gtest|:green_circle: XS|2|May 4||[CJCombrink](https://github.com/CJCombrink), **RubenRBS**
 [#23858](https://github.com/conan-io/conan-center-index/pull/23858)|[johannes-wolf](https://github.com/johannes-wolf)|May 3|:memo: simfil|:green_circle: XS|0|||
 [#23860](https://github.com/conan-io/conan-center-index/pull/23860)|[toge](https://github.com/toge)|May 3|:memo: jsoncons|:green_circle: XS|0|||
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
@@ -295,7 +295,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 628
 	- Draft: 53
-	- Average Age: 120 days, 14 hours, and 13.19 minutes
+	- Average Age: 120 days, 15 hours, and 17.00 minutes
 	- Stop Label: 283
 	
 
