@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **253** pull requests currently under way :detective:
+There are **254** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -264,8 +264,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23846](https://github.com/conan-io/conan-center-index/pull/23846)|[Mi-La](https://github.com/Mi-La)|May 2|:memo: zserio|M|0|:eyes:||
 [#23847](https://github.com/conan-io/conan-center-index/pull/23847)|[conan-center-bot](https://github.com/conan-center-bot)|May 2|:gear: .c3i|:green_circle: XS|1|May 4||**RubenRBS**
 [#23849](https://github.com/conan-io/conan-center-index/pull/23849)|[toge](https://github.com/toge)|May 2|:memo: simde|:green_circle: XS|0|:eyes:||
-[#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:memo: openimageio|:green_circle: XS|0|||
-[#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:stopwatch: ouster_sdk|:green_circle: XS|0|||
+[#23851](https://github.com/conan-io/conan-center-index/pull/23851)|[irieger](https://github.com/irieger)|May 2|:memo: openimageio|:green_circle: XS|0|:eyes:||
+[#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:stopwatch: ouster_sdk|:green_circle: XS|0|:eyes:||
 [#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|0|||
 [#23856](https://github.com/conan-io/conan-center-index/pull/23856)|[Twon](https://github.com/Twon)|May 3|:memo: gtest|:green_circle: XS|2|May 4||[CJCombrink](https://github.com/CJCombrink), **RubenRBS**
 [#23858](https://github.com/conan-io/conan-center-index/pull/23858)|[johannes-wolf](https://github.com/johannes-wolf)|May 3|:memo: simfil|:green_circle: XS|0|||
@@ -280,6 +280,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23873](https://github.com/conan-io/conan-center-index/pull/23873)|[kambala-decapitator](https://github.com/kambala-decapitator)|May 5|:memo: qt|M|0|||
 [#23874](https://github.com/conan-io/conan-center-index/pull/23874)|[toge](https://github.com/toge)|May 5|:memo: daw_header_libraries|:green_circle: XS|0|||
 [#23875](https://github.com/conan-io/conan-center-index/pull/23875)|[toge](https://github.com/toge)|May 5|:memo: clove-unit|:blue_square: S|0|||
+[#23878](https://github.com/conan-io/conan-center-index/pull/23878)|[toge](https://github.com/toge)|May 6|:stopwatch: catch2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -298,9 +299,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 631
+	- Open: 632
 	- Draft: 53
-	- Average Age: 120 days, 10 hours, and 25.05 minutes
+	- Average Age: 120 days, 17 hours, and 52.98 minutes
 	- Stop Label: 281
 	
 
