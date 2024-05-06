@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **231** pull requests currently under way :detective:
+There are **232** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -108,7 +108,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|1|Mar 24 :bell:||valgur
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|2|Mar 24 :bell:||valgur
 [#22197](https://github.com/conan-io/conan-center-index/pull/22197)|[valgur](https://github.com/valgur)|Jan 7|:memo: libxpm|M|2|Apr 25||jwillikers
-[#22204](https://github.com/conan-io/conan-center-index/pull/22204)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: gdal|L|7|Apr 18 :bell:||
+[#22204](https://github.com/conan-io/conan-center-index/pull/22204)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: gdal|L|8|May 6||jwillikers
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|2|Apr 26||jwillikers
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
 [#22290](https://github.com/conan-io/conan-center-index/pull/22290)|[valgur](https://github.com/valgur)|Jan 13|:memo: cimg|L|1|Mar 5 :bell:||
@@ -257,21 +257,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:stopwatch: mongo-c-driver|:blue_square: S|0|||
 [#23886](https://github.com/conan-io/conan-center-index/pull/23886)|[toge](https://github.com/toge)|May 6|:memo: glaze|:green_circle: XS|0|||
 [#23887](https://github.com/conan-io/conan-center-index/pull/23887)|[valgur](https://github.com/valgur)|May 6|:stopwatch: tinycolormap|M|0|||
-[#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|0|||
+[#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
+[#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:warning: openblas|4|**RubenRBS**, toge
 [#23821](https://github.com/conan-io/conan-center-index/pull/23821)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 30|:warning: cpptrace|7|**RubenRBS**, ericLemanissier, **uilianries**
-[#23875](https://github.com/conan-io/conan-center-index/pull/23875)|[toge](https://github.com/toge)|May 5|:memo: clove-unit|2|**RubenRBS**, ericLemanissier
-[#23878](https://github.com/conan-io/conan-center-index/pull/23878)|[toge](https://github.com/toge)|May 6|:memo: catch2|3|**RubenRBS**, [offa](https://github.com/offa), **uilianries**
-[#23880](https://github.com/conan-io/conan-center-index/pull/23880)|[valgur](https://github.com/valgur)|May 6|:memo: ncurses|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -280,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
 - Pull Requests:
-	- Open: 610
+	- Open: 608
 	- Draft: 52
-	- Average Age: 123 days, 22 hours, and 38.77 minutes
+	- Average Age: 124 days, 9 hours, and 12.72 minutes
 	- Stop Label: 280
 	
 
