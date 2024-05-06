@@ -4851,6 +4851,40 @@
       }
    },
    {
+      "Number": 23506,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-04-13T09:17:54Z",
+      "Recipe": "pango",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23506",
+      "LastCommitSHA": "7fb0f11a21707cd174fc75b1b15a04b8030748a2",
+      "LastCommitAt": "2024-04-18T19:01:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-04-22T19:11:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23506#pullrequestreview-2015612179"
+         },
+         "IsBump": true
+      }
+   },
+   {
       "Number": 23517,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-04-13T12:44:06Z",
