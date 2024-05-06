@@ -191,7 +191,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23392](https://github.com/conan-io/conan-center-index/pull/23392)|[gouriano](https://github.com/gouriano)|Apr 5|:memo: ncbi-cxx-toolkit-public|XL|0|:eyes:||
 [#23393](https://github.com/conan-io/conan-center-index/pull/23393)|[valgur](https://github.com/valgur)|Apr 5|:memo: onetbb|:blue_square: S|1|Apr 9 :bell:||jwillikers
 [#23394](https://github.com/conan-io/conan-center-index/pull/23394)|[Ahajha](https://github.com/Ahajha)|Apr 6|:memo: cpython|L|11|Apr 10 :bell:||jwillikers
-[#23397](https://github.com/conan-io/conan-center-index/pull/23397)|[mayeut](https://github.com/mayeut)|Apr 6|:stopwatch: ffmpeg|:green_circle: XS|2|Apr 11 :bell:||jwillikers, MartinDelille
 [#23409](https://github.com/conan-io/conan-center-index/pull/23409)|[mayeut](https://github.com/mayeut)|Apr 7|:memo: onnxruntime|L|0|||
 [#23429](https://github.com/conan-io/conan-center-index/pull/23429)|[toge](https://github.com/toge)|Apr 9|:memo: aws-lambda-cpp|:blue_square: S|0|:eyes:||
 [#23481](https://github.com/conan-io/conan-center-index/pull/23481)|[elvisdukaj](https://github.com/elvisdukaj)|Apr 11|:memo: mingw-builds|M|1|Apr 17 :bell:||
@@ -254,33 +253,33 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|0|:eyes:||
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23872](https://github.com/conan-io/conan-center-index/pull/23872)|[toge](https://github.com/toge)|May 5|:memo: wasmtime|L|1|May 6||**RubenRBS**
-[#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:stopwatch: mongo-c-driver|:blue_square: S|0|||
+[#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:memo: boost|:green_circle: XS|1|May 6||**RubenRBS**
+[#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:memo: mongo-c-driver|:blue_square: S|0|||
 [#23886](https://github.com/conan-io/conan-center-index/pull/23886)|[toge](https://github.com/toge)|May 6|:memo: glaze|:green_circle: XS|0|||
-[#23887](https://github.com/conan-io/conan-center-index/pull/23887)|[valgur](https://github.com/valgur)|May 6|:stopwatch: tinycolormap|M|0|||
+[#23887](https://github.com/conan-io/conan-center-index/pull/23887)|[valgur](https://github.com/valgur)|May 6|:new: tinycolormap|M|0|||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
 [#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:warning: openblas|4|**RubenRBS**, toge
-[#23821](https://github.com/conan-io/conan-center-index/pull/23821)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Apr 30|:warning: cpptrace|7|**RubenRBS**, ericLemanissier, **uilianries**
 
 
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: b2ab3f2fd2929d83a79858cf8583d1931909c277
+- Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 608
+	- Open: 607
 	- Draft: 52
-	- Average Age: 124 days, 9 hours, and 12.72 minutes
+	- Average Age: 124 days, 14 hours, and 53.77 minutes
 	- Stop Label: 280
 	
 
