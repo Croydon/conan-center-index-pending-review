@@ -280,7 +280,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23873](https://github.com/conan-io/conan-center-index/pull/23873)|[kambala-decapitator](https://github.com/kambala-decapitator)|May 5|:memo: qt|M|0|||
 [#23874](https://github.com/conan-io/conan-center-index/pull/23874)|[toge](https://github.com/toge)|May 5|:memo: daw_header_libraries|:green_circle: XS|0|||
 [#23875](https://github.com/conan-io/conan-center-index/pull/23875)|[toge](https://github.com/toge)|May 5|:memo: clove-unit|:blue_square: S|0|||
-[#23878](https://github.com/conan-io/conan-center-index/pull/23878)|[toge](https://github.com/toge)|May 6|:stopwatch: catch2|:green_circle: XS|0|||
+[#23878](https://github.com/conan-io/conan-center-index/pull/23878)|[toge](https://github.com/toge)|May 6|:memo: catch2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -301,7 +301,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 632
 	- Draft: 53
-	- Average Age: 120 days, 17 hours, and 52.98 minutes
+	- Average Age: 120 days, 18 hours, and 57.80 minutes
 	- Stop Label: 281
 	
 
