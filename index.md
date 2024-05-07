@@ -113,7 +113,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|1|Mar 25 :bell:||jwillikers
 [#22325](https://github.com/conan-io/conan-center-index/pull/22325)|[valgur](https://github.com/valgur)|Jan 14|:green_book: docs|L|2|Jan 15 :bell:||
 [#22353](https://github.com/conan-io/conan-center-index/pull/22353)|[valgur](https://github.com/valgur)|Jan 15|:memo: llvm-openmp|XL|7|Apr 30||jwillikers
-[#22387](https://github.com/conan-io/conan-center-index/pull/22387)|[jwillikers](https://github.com/jwillikers)|Jan 16|:stopwatch: libdecor|L|1|May 7||
+[#22387](https://github.com/conan-io/conan-center-index/pull/22387)|[jwillikers](https://github.com/jwillikers)|Jan 16|:new: libdecor|L|1|May 7||
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|4|Mar 25 :bell:||valgur
 [#22418](https://github.com/conan-io/conan-center-index/pull/22418)|[valgur](https://github.com/valgur)|Jan 18|:memo: tesseract|:green_circle: XS|1|Mar 25 :bell:||jwillikers
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|2|Mar 25 :bell:||valgur
@@ -247,7 +247,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:memo: ouster_sdk|:green_circle: XS|1|May 6||valgur
 [#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|1|May 7||Croydon
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
-[#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:stopwatch: boost|:green_circle: XS|2|May 7||
+[#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:memo: boost|:green_circle: XS|2|May 7||
 [#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:memo: mongo-c-driver|:blue_square: S|1|May 7||**RubenRBS**
 [#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:new: stella-cv-fbow|M|0|||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
@@ -260,18 +260,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23906](https://github.com/conan-io/conan-center-index/pull/23906)|[toge](https://github.com/toge)|May 7|:memo: fast_double_parser|:blue_square: S|0|||
 [#23907](https://github.com/conan-io/conan-center-index/pull/23907)|[soroosh-sdi](https://github.com/soroosh-sdi)|May 7|:stopwatch: lzham|:blue_square: S|0|||
 [#23909](https://github.com/conan-io/conan-center-index/pull/23909)|[uilianries](https://github.com/uilianries)|May 7|:memo: gtest|:green_circle: XS|1|May 7||**RubenRBS**
-[#23912](https://github.com/conan-io/conan-center-index/pull/23912)|[toge](https://github.com/toge)|May 7|:stopwatch: librdkafka|:blue_square: S|0|||
+[#23912](https://github.com/conan-io/conan-center-index/pull/23912)|[toge](https://github.com/toge)|May 7|:memo: librdkafka|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:warning: openblas|4|**RubenRBS**, toge
-[#23910](https://github.com/conan-io/conan-center-index/pull/23910)|[Twon](https://github.com/Twon)|May 7|:warning: catch2|2|**RubenRBS**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -280,9 +279,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 610
+	- Open: 609
 	- Draft: 54
-	- Average Age: 123 days, 18 hours, and 53.86 minutes
+	- Average Age: 124 days, and 46.26 minutes
 	- Stop Label: 278
 	
 
