@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **231** pull requests currently under way :detective:
+There are **232** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22152](https://github.com/conan-io/conan-center-index/pull/22152)|[valgur](https://github.com/valgur)|Jan 4|:memo: pcl|L|2|Apr 30||
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|1|Mar 24 :bell:||valgur
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|2|Mar 24 :bell:||valgur
-[#22197](https://github.com/conan-io/conan-center-index/pull/22197)|[valgur](https://github.com/valgur)|Jan 7|:memo: libxpm|M|2|Apr 25||jwillikers
+[#22197](https://github.com/conan-io/conan-center-index/pull/22197)|[valgur](https://github.com/valgur)|Jan 7|:memo: libxpm|M|2|Apr 25 :bell:||jwillikers
 [#22204](https://github.com/conan-io/conan-center-index/pull/22204)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: gdal|L|8|May 6||jwillikers
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|2|Apr 26||jwillikers
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
@@ -256,8 +256,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
 [#23900](https://github.com/conan-io/conan-center-index/pull/23900)|[OleksandrKvl](https://github.com/OleksandrKvl)|May 7|:memo: sbepp|:green_circle: XS|0|||
 [#23901](https://github.com/conan-io/conan-center-index/pull/23901)|[toge](https://github.com/toge)|May 7|:memo: daw_utf_range|:blue_square: S|0|||
-[#23902](https://github.com/conan-io/conan-center-index/pull/23902)|[toge](https://github.com/toge)|May 7|:stopwatch: uriparser|:blue_square: S|0|||
-[#23903](https://github.com/conan-io/conan-center-index/pull/23903)|[toge](https://github.com/toge)|May 7|:stopwatch: wiringpi|:blue_square: S|0|||
+[#23902](https://github.com/conan-io/conan-center-index/pull/23902)|[toge](https://github.com/toge)|May 7|:memo: uriparser|:blue_square: S|0|||
+[#23903](https://github.com/conan-io/conan-center-index/pull/23903)|[toge](https://github.com/toge)|May 7|:memo: wiringpi|:blue_square: S|0|||
+[#23904](https://github.com/conan-io/conan-center-index/pull/23904)|[valgur](https://github.com/valgur)|May 7|:stopwatch: rdma-core|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -276,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 605
+	- Open: 606
 	- Draft: 53
-	- Average Age: 125 days, 1 hours, and 49.49 minutes
+	- Average Age: 124 days, 22 hours, and 3.61 minutes
 	- Stop Label: 279
 	
 
