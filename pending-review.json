@@ -2513,7 +2513,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22387",
       "LastCommitSHA": "fc7c136f01f906e6d951517d347d8e3e01ef2db1",
       "LastCommitAt": "2024-05-07T20:01:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -6014,7 +6014,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23881",
       "LastCommitSHA": "b9f2d83d36d2cd4db478ed0ef80f104fca017c78",
       "LastCommitAt": "2024-05-07T14:59:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -6305,40 +6305,6 @@
       }
    },
    {
-      "Number": 23910,
-      "OpenedBy": "Twon",
-      "CreatedAt": "2024-05-07T16:16:19Z",
-      "Recipe": "catch2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23910",
-      "LastCommitSHA": "bf725c84c16427661c6b091fb17483fc70d39592",
-      "LastCommitAt": "2024-05-07T16:07:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-05-07T16:22:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23910#pullrequestreview-2043659981"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23912,
       "OpenedBy": "toge",
       "CreatedAt": "2024-05-07T18:17:54Z",
@@ -6348,14 +6314,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23912",
       "LastCommitSHA": "db5c39127abcba5c7c1aff6eeebad480fa5ff321",
       "LastCommitAt": "2024-05-07T18:17:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
