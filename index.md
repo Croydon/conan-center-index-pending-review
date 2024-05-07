@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **231** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -251,20 +251,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:memo: boost|:green_circle: XS|1|May 6||**RubenRBS**
 [#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:memo: mongo-c-driver|:blue_square: S|1|May 7||**RubenRBS**
-[#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:stopwatch: stella-cv-fbow|M|0|||
+[#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:new: stella-cv-fbow|M|0|||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
 [#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
+[#23900](https://github.com/conan-io/conan-center-index/pull/23900)|[OleksandrKvl](https://github.com/OleksandrKvl)|May 7|:memo: sbepp|:green_circle: XS|0|||
+[#23901](https://github.com/conan-io/conan-center-index/pull/23901)|[toge](https://github.com/toge)|May 7|:memo: daw_utf_range|:blue_square: S|0|||
+[#23902](https://github.com/conan-io/conan-center-index/pull/23902)|[toge](https://github.com/toge)|May 7|:stopwatch: uriparser|:blue_square: S|0|||
+[#23903](https://github.com/conan-io/conan-center-index/pull/23903)|[toge](https://github.com/toge)|May 7|:stopwatch: wiringpi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:warning: openblas|4|**RubenRBS**, toge
-[#23896](https://github.com/conan-io/conan-center-index/pull/23896)|[toge](https://github.com/toge)|May 7|:memo: taskflow|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -273,10 +276,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 603
+	- Open: 605
 	- Draft: 53
-	- Average Age: 125 days, 10 hours, and 49.49 minutes
-	- Stop Label: 280
+	- Average Age: 125 days, 1 hours, and 49.49 minutes
+	- Stop Label: 279
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
