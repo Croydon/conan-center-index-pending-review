@@ -6229,7 +6229,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23902",
       "LastCommitSHA": "b4e700f1399095c712ba9a12ff6a6328284f966f",
       "LastCommitAt": "2024-05-07T10:51:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6249,6 +6249,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23903",
       "LastCommitSHA": "6d4a8f66a2d306d3b4151faacbd069b89b6460d5",
       "LastCommitAt": "2024-05-07T11:14:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23904,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-05-07T11:31:36Z",
+      "Recipe": "rdma-core",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23904",
+      "LastCommitSHA": "ec967cedfab9937b1f3a5f157169f5a0db2d21a8",
+      "LastCommitAt": "2024-05-07T11:30:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
