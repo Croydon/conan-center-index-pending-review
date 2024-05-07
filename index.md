@@ -256,7 +256,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:memo: boost|:green_circle: XS|1|May 6||**RubenRBS**
 [#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:memo: mongo-c-driver|:blue_square: S|0|||
 [#23886](https://github.com/conan-io/conan-center-index/pull/23886)|[toge](https://github.com/toge)|May 6|:memo: glaze|:green_circle: XS|0|||
-[#23887](https://github.com/conan-io/conan-center-index/pull/23887)|[valgur](https://github.com/valgur)|May 6|:new: tinycolormap|M|0|||
+[#23887](https://github.com/conan-io/conan-center-index/pull/23887)|[valgur](https://github.com/valgur)|May 6|:new: tinycolormap|M|1|May 7||**RubenRBS**
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
 [#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
 [#23896](https://github.com/conan-io/conan-center-index/pull/23896)|[toge](https://github.com/toge)|May 7|:memo: taskflow|:blue_square: S|0|||
@@ -280,7 +280,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 610
 	- Draft: 53
-	- Average Age: 124 days, 4 hours, and 49.39 minutes
+	- Average Age: 124 days, 9 hours, and 12.92 minutes
 	- Stop Label: 281
 	
 
