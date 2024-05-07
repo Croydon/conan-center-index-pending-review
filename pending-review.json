@@ -6031,7 +6031,7 @@
       "LastCommitAt": "2024-05-06T07:44:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -6042,9 +6042,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-05-06T08:01:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23881#pullrequestreview-2040210321"
+            "ReviewerName": "planetmarshall",
+            "SubmittedAt": "2024-05-07T14:03:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23881#pullrequestreview-2043293263"
          },
          "IsBump": false
       }
