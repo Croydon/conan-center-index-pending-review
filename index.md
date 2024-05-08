@@ -248,7 +248,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|1|May 7||Croydon
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23881](https://github.com/conan-io/conan-center-index/pull/23881)|[uilianries](https://github.com/uilianries)|May 6|:memo: boost|:green_circle: XS|3|May 7||**RubenRBS**
-[#23885](https://github.com/conan-io/conan-center-index/pull/23885)|[ericLemanissier](https://github.com/ericLemanissier)|May 6|:memo: mongo-c-driver|:blue_square: S|1|May 7||**RubenRBS**
 [#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:new: stella-cv-fbow|M|0|||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
 [#23891](https://github.com/conan-io/conan-center-index/pull/23891)|[hoyhoy](https://github.com/hoyhoy)|May 6|:stopwatch: libcurl|:green_circle: XS|1|May 6||
@@ -262,6 +261,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23909](https://github.com/conan-io/conan-center-index/pull/23909)|[uilianries](https://github.com/uilianries)|May 7|:memo: gtest|:green_circle: XS|1|May 7||**RubenRBS**
 [#23912](https://github.com/conan-io/conan-center-index/pull/23912)|[toge](https://github.com/toge)|May 7|:memo: librdkafka|:blue_square: S|0|||
 [#23913](https://github.com/conan-io/conan-center-index/pull/23913)|[j-carl](https://github.com/j-carl)|May 7|:memo: cmake|:blue_square: S|0|||
+[#23915](https://github.com/conan-io/conan-center-index/pull/23915)|[toge](https://github.com/toge)|May 8|:memo: simdjson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,7 +282,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 611
 	- Draft: 54
-	- Average Age: 123 days, 19 hours, and 22.23 minutes
+	- Average Age: 123 days, 21 hours, and 1.76 minutes
 	- Stop Label: 279
 	
 
