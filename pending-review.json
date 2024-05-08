@@ -5908,6 +5908,26 @@
       }
    },
    {
+      "Number": 23894,
+      "OpenedBy": "datalogics-staylor",
+      "CreatedAt": "2024-05-06T20:44:14Z",
+      "Recipe": "qr-code-generator",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23894",
+      "LastCommitSHA": "786f9267f59f2f132dcb121768903207eba6b146",
+      "LastCommitAt": "2024-05-06T21:44:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23901,
       "OpenedBy": "toge",
       "CreatedAt": "2024-05-07T10:33:02Z",
@@ -6080,7 +6100,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23927",
       "LastCommitSHA": "f4aa1ef6d415b3d74e3db4a34d71241d1c3ef200",
       "LastCommitAt": "2024-05-08T17:03:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6100,14 +6120,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23928",
       "LastCommitSHA": "cb2e3d48333cb24b7b8911aa23ca8ec4f93c920b",
       "LastCommitAt": "2024-05-08T17:40:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
