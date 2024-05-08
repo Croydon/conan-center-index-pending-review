@@ -6266,8 +6266,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23907",
-      "LastCommitSHA": "adad64e626c9827ddd04c43c3798f83b84ad8ffe",
-      "LastCommitAt": "2024-05-07T12:32:12Z",
+      "LastCommitSHA": "df5ca1716d2089f2c792f26d60d3afa8883860e5",
+      "LastCommitAt": "2024-05-08T08:48:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -6275,40 +6275,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23909,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2024-05-07T15:34:34Z",
-      "Recipe": "gtest",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23909",
-      "LastCommitSHA": "292599b2dec4e50562b8772b8362d0fe78f68c5b",
-      "LastCommitAt": "2024-05-07T15:31:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2024-05-08T08:13:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23909#pullrequestreview-2044965842"
-         },
          "IsBump": false
       }
    },
