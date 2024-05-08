@@ -153,7 +153,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23080](https://github.com/conan-io/conan-center-index/pull/23080)|[RazielXYZ](https://github.com/RazielXYZ)|Mar 13|:new: gaia-ecs|M|5|Apr 16 :bell:||jwillikers
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|M|11|Apr 2 :bell:||
 [#23095](https://github.com/conan-io/conan-center-index/pull/23095)|[sophieeihpos](https://github.com/sophieeihpos)|Mar 14|:memo: protobuf|L|10|Apr 26||
-[#23122](https://github.com/conan-io/conan-center-index/pull/23122)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: openimageio|:green_circle: XS|1|Mar 24 :bell:||
 [#23131](https://github.com/conan-io/conan-center-index/pull/23131)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: libsixel|:green_circle: XS|1|Mar 24 :bell:||
 [#23134](https://github.com/conan-io/conan-center-index/pull/23134)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: leptonica|M|2|Apr 1 :bell:||valgur
 [#23135](https://github.com/conan-io/conan-center-index/pull/23135)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: itk|:blue_square: S|1|Mar 24 :bell:||
@@ -249,6 +248,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23924](https://github.com/conan-io/conan-center-index/pull/23924)|[toge](https://github.com/toge)|May 8|:stopwatch: imgui|:green_circle: XS|0|||
 [#23925](https://github.com/conan-io/conan-center-index/pull/23925)|[ErniGH](https://github.com/ErniGH)|May 8|:stopwatch: detools|M|0|||
 [#23926](https://github.com/conan-io/conan-center-index/pull/23926)|[toge](https://github.com/toge)|May 8|:stopwatch: mongo-cxx-driver|M|0|||
+[#23927](https://github.com/conan-io/conan-center-index/pull/23927)|[j-carl](https://github.com/j-carl)|May 8|:stopwatch: cmake|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 599
+	- Open: 600
 	- Draft: 54
-	- Average Age: 125 days, 20 hours, and 5.02 minutes
-	- Stop Label: 279
+	- Average Age: 125 days, 15 hours, and 57.67 minutes
+	- Stop Label: 280
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
