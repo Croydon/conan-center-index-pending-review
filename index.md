@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23257](https://github.com/conan-io/conan-center-index/pull/23257)|[valgur](https://github.com/valgur)|Mar 25|:memo: jasper|L|1|Apr 1 :bell:||jwillikers
 [#23270](https://github.com/conan-io/conan-center-index/pull/23270)|[xyz1001](https://github.com/xyz1001)|Mar 26|:new: platformfolders|M|0|:eyes:||
 [#23272](https://github.com/conan-io/conan-center-index/pull/23272)|[johningve](https://github.com/johningve)|Mar 26|:memo: glfw|:blue_square: S|2|Apr 9 :bell:||jwillikers
-[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|4|Apr 26|jcar87|valgur, Croydon
+[#23304](https://github.com/conan-io/conan-center-index/pull/23304)|[gegles](https://github.com/gegles)|Mar 29|:memo: openssl|:blue_square: S|4|Apr 26 :bell:|jcar87|valgur, Croydon
 [#23319](https://github.com/conan-io/conan-center-index/pull/23319)|[toge](https://github.com/toge)|Mar 31|:memo: harfbuzz|:blue_square: S|2|Apr 1 :bell:||jwillikers
 [#23336](https://github.com/conan-io/conan-center-index/pull/23336)|[valgur](https://github.com/valgur)|Apr 2|:memo: libcvd|:blue_square: S|0|:eyes:||
 [#23346](https://github.com/conan-io/conan-center-index/pull/23346)|[sizeak](https://github.com/sizeak)|Apr 2|:memo: android-ndk|:blue_square: S|0|:eyes:||
@@ -245,10 +245,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23901](https://github.com/conan-io/conan-center-index/pull/23901)|[toge](https://github.com/toge)|May 7|:memo: daw_utf_range|:blue_square: S|0|||
 [#23907](https://github.com/conan-io/conan-center-index/pull/23907)|[soroosh-sdi](https://github.com/soroosh-sdi)|May 7|:memo: lzham|:blue_square: S|1|May 8||
 [#23921](https://github.com/conan-io/conan-center-index/pull/23921)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: sail|M|1|May 8||**RubenRBS**
-[#23924](https://github.com/conan-io/conan-center-index/pull/23924)|[toge](https://github.com/toge)|May 8|:stopwatch: imgui|:green_circle: XS|0|||
-[#23925](https://github.com/conan-io/conan-center-index/pull/23925)|[ErniGH](https://github.com/ErniGH)|May 8|:stopwatch: detools|M|0|||
-[#23926](https://github.com/conan-io/conan-center-index/pull/23926)|[toge](https://github.com/toge)|May 8|:stopwatch: mongo-cxx-driver|M|0|||
+[#23924](https://github.com/conan-io/conan-center-index/pull/23924)|[toge](https://github.com/toge)|May 8|:memo: imgui|:green_circle: XS|0|||
+[#23925](https://github.com/conan-io/conan-center-index/pull/23925)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: detools|M|2|May 8||**RubenRBS**
 [#23927](https://github.com/conan-io/conan-center-index/pull/23927)|[j-carl](https://github.com/j-carl)|May 8|:stopwatch: cmake|:blue_square: S|0|||
+[#23928](https://github.com/conan-io/conan-center-index/pull/23928)|[mayeut](https://github.com/mayeut)|May 8|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 600
+	- Open: 601
 	- Draft: 54
-	- Average Age: 125 days, 15 hours, and 57.67 minutes
-	- Stop Label: 280
+	- Average Age: 125 days, 12 hours, and 2.61 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
