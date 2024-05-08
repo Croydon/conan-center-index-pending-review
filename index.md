@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **222** pull requests currently under way :detective:
+There are **223** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -242,13 +242,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:new: stella-cv-fbow|M|1|May 8||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
+[#23894](https://github.com/conan-io/conan-center-index/pull/23894)|[datalogics-staylor](https://github.com/datalogics-staylor)|May 6|:memo: qr-code-generator|M|0|||
 [#23901](https://github.com/conan-io/conan-center-index/pull/23901)|[toge](https://github.com/toge)|May 7|:memo: daw_utf_range|:blue_square: S|0|||
 [#23907](https://github.com/conan-io/conan-center-index/pull/23907)|[soroosh-sdi](https://github.com/soroosh-sdi)|May 7|:memo: lzham|:blue_square: S|1|May 8||
 [#23921](https://github.com/conan-io/conan-center-index/pull/23921)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: sail|M|1|May 8||**RubenRBS**
 [#23924](https://github.com/conan-io/conan-center-index/pull/23924)|[toge](https://github.com/toge)|May 8|:memo: imgui|:green_circle: XS|0|||
 [#23925](https://github.com/conan-io/conan-center-index/pull/23925)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: detools|M|2|May 8||**RubenRBS**
-[#23927](https://github.com/conan-io/conan-center-index/pull/23927)|[j-carl](https://github.com/j-carl)|May 8|:stopwatch: cmake|:blue_square: S|0|||
-[#23928](https://github.com/conan-io/conan-center-index/pull/23928)|[mayeut](https://github.com/mayeut)|May 8|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
+[#23927](https://github.com/conan-io/conan-center-index/pull/23927)|[j-carl](https://github.com/j-carl)|May 8|:memo: cmake|:blue_square: S|0|||
+[#23928](https://github.com/conan-io/conan-center-index/pull/23928)|[mayeut](https://github.com/mayeut)|May 8|:memo: libjpeg-turbo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -270,8 +271,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
 	- Open: 601
-	- Draft: 54
-	- Average Age: 125 days, 12 hours, and 2.61 minutes
+	- Draft: 53
+	- Average Age: 125 days, 12 hours, and 55.78 minutes
 	- Stop Label: 281
 	
 
