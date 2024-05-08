@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23810](https://github.com/conan-io/conan-center-index/pull/23810)|[toge](https://github.com/toge)|Apr 29|:memo: libsvtav1|:green_circle: XS|2|Apr 30||jwillikers
 [#23846](https://github.com/conan-io/conan-center-index/pull/23846)|[Mi-La](https://github.com/Mi-La)|May 2|:memo: zserio|M|0|:eyes:||
 [#23852](https://github.com/conan-io/conan-center-index/pull/23852)|[jmdaly](https://github.com/jmdaly)|May 2|:memo: ouster_sdk|:green_circle: XS|1|May 6||valgur
-[#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:stopwatch: libwebsockets|:blue_square: S|3|May 8||
+[#23853](https://github.com/conan-io/conan-center-index/pull/23853)|[ericLemanissier](https://github.com/ericLemanissier)|May 3|:memo: libwebsockets|:blue_square: S|4|May 8||Croydon
 [#23864](https://github.com/conan-io/conan-center-index/pull/23864)|[gegles](https://github.com/gegles)|May 3|:stopwatch: restinio|:green_circle: XS|0|||
 [#23889](https://github.com/conan-io/conan-center-index/pull/23889)|[valgur](https://github.com/valgur)|May 6|:new: stella-cv-fbow|M|1|May 8||
 [#23890](https://github.com/conan-io/conan-center-index/pull/23890)|[gegles](https://github.com/gegles)|May 6|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|May 6||[hoyhoy](https://github.com/hoyhoy)
@@ -272,7 +272,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 601
 	- Draft: 53
-	- Average Age: 125 days, 12 hours, and 55.78 minutes
+	- Average Age: 125 days, 13 hours, and 58.24 minutes
 	- Stop Label: 281
 	
 
