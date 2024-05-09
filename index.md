@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **219** pull requests currently under way :detective:
+There are **218** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21689](https://github.com/conan-io/conan-center-index/pull/21689)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Dec 8|:stopwatch: clickhouse-cpp|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|1|Mar 24 :bell:||valgur
 [#21740](https://github.com/conan-io/conan-center-index/pull/21740)|[rainman110](https://github.com/rainman110)|Dec 13|:new: gtlab-logging|M|5|Mar 24 :bell:||valgur
-[#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|1|Mar 24 :bell:||valgur
+[#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|2|May 9||
 [#21763](https://github.com/conan-io/conan-center-index/pull/21763)|[talyz](https://github.com/talyz)|Dec 14|:memo: tensorflow-lite|L|5|Mar 24 :bell:||jwillikers, valgur
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|1|Mar 24 :bell:||valgur
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|1|Mar 25 :bell:||jwillikers
@@ -243,14 +243,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23894](https://github.com/conan-io/conan-center-index/pull/23894)|[datalogics-staylor](https://github.com/datalogics-staylor)|May 6|:memo: qr-code-generator|M|0|||
 [#23901](https://github.com/conan-io/conan-center-index/pull/23901)|[toge](https://github.com/toge)|May 7|:memo: daw_utf_range|:blue_square: S|0|||
 [#23907](https://github.com/conan-io/conan-center-index/pull/23907)|[soroosh-sdi](https://github.com/soroosh-sdi)|May 7|:memo: lzham|:blue_square: S|1|May 8||
-[#23921](https://github.com/conan-io/conan-center-index/pull/23921)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: sail|M|1|May 8||**RubenRBS**
 [#23924](https://github.com/conan-io/conan-center-index/pull/23924)|[toge](https://github.com/toge)|May 8|:memo: imgui|:green_circle: XS|1|May 9||**RubenRBS**
 [#23927](https://github.com/conan-io/conan-center-index/pull/23927)|[j-carl](https://github.com/j-carl)|May 8|:memo: cmake|:blue_square: S|1|May 9||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -258,8 +257,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#22876](https://github.com/conan-io/conan-center-index/pull/22876)|[RubenRBS](https://github.com/RubenRBS)|Feb 24|:new: dispenso|3|**uilianries**, jwillikers
 [#23746](https://github.com/conan-io/conan-center-index/pull/23746)|[valgur](https://github.com/valgur)|Apr 24|:warning: openblas|4|**RubenRBS**, toge
 [#23919](https://github.com/conan-io/conan-center-index/pull/23919)|[RubenRBS](https://github.com/RubenRBS)|May 8|:memo: lmdb|6|**uilianries**, **franramirez688**, **danimtb**
-[#23931](https://github.com/conan-io/conan-center-index/pull/23931)|[toge](https://github.com/toge)|May 8|:memo: sfl|1|**RubenRBS**
-[#23932](https://github.com/conan-io/conan-center-index/pull/23932)|[toge](https://github.com/toge)|May 9|:memo: arrow|1|**RubenRBS**
+[#23921](https://github.com/conan-io/conan-center-index/pull/23921)|[ErniGH](https://github.com/ErniGH)|May 8|:memo: sail|2|**RubenRBS**, **czoido**
 
 
 #### :clipboard: Statistics
@@ -268,9 +266,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ac56a0890466e7c0ffc7f2b85d0c42041bf60191
 - Pull Requests:
-	- Open: 599
+	- Open: 597
 	- Draft: 53
-	- Average Age: 125 days, 20 hours, and 17.12 minutes
+	- Average Age: 126 days, 7 hours, and 19.78 minutes
 	- Stop Label: 281
 	
 
