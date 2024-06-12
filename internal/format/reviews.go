@@ -28,6 +28,11 @@ func ReviewsToMarkdownRows(prs []*pending_review.PullRequestSummary, canMerge bo
 	return retval, count
 }
 
+// https://github.com/orgs/community/discussions/23123#discussioncomment-3239240
+func replaceGithubURL(input string) string {
+    return strings.Replace(input, "https://github.com", "https://www.github.com", 1)
+}
+
 func underWay(pr *pending_review.PullRequestSummary) string {
 	var retval string
 	title := title(pr.Change, pr.Recipe)
@@ -37,7 +42,7 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 	}
 
 	columns := []string{
-		fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
+		fmt.Sprint("[#", pr.Number, "](", replaceGithubURL(pr.ReviewURL), ")"),
 		fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
 		pr.CreatedAt.Format("Jan 2"),
 		title,
@@ -65,7 +70,7 @@ func toMerge(pr *pending_review.PullRequestSummary) string {
 	}
 
 	columns := []string{
-		fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
+		fmt.Sprint("[#", pr.Number, "](", replaceGithubURL(pr.ReviewURL), ")"),
 		fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
 		pr.CreatedAt.Format("Jan 2"),
 		title,
